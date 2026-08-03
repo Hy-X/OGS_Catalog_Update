@@ -117,9 +117,19 @@ python3 query_ogs_event_past_30days.py  # Generates ogs_events_past_30days.csv
 
 ---
 
-## ⚙️ Cron Automation (Production Deployment)
+## 🤖 GitHub / Gitea Actions Workflow
 
-To keep the catalog continuously updated on a server, set up a cron job:
+The repository includes an automated workflow defined in [.github/workflows/update_catalog.yml](file:///Users/hongyuxiao/Hongyu_File/Gitea_Archive/OGS_Catalog_Update/.github/workflows/update_catalog.yml):
+
+- **Schedule**: Automatically runs every 6 hours (`0 */6 * * *`).
+- **Manual Trigger**: Can be manually triggered via `workflow_dispatch`.
+- **Action**: Executes `python3 query_ogs_events_automatic.py --all`, detects changes in catalog CSV files, and commits/pushes updates automatically back to the repository.
+
+---
+
+## ⚙️ Cron Automation (Production Server Deployment)
+
+To keep the catalog continuously updated on a local server, set up a cron job:
 
 ```cron
 # Run catalog update every hour
@@ -135,3 +145,4 @@ The `wichita_ogs_ou_edu_archive/` directory contains legacy data and original ar
 - `events.html`: Reference HTML monitoring dashboard page.
 - `resultsfile.csv`: Raw query results archive.
 - `stations_updated.csv` & `updated_stations.csv`: Historical seismic station metadata references.
+

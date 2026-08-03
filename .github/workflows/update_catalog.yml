@@ -1,0 +1,43 @@
+name: Automated OGS Catalog Update
+
+on:
+  schedule:
+    # Runs every 6 hours (at 00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual execution from GitHub/Gitea Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-catalog:
+    name: Fetch and Merge Catalog Updates
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Execute Automated Catalog Update
+        run: |
+          python3 query_ogs_events_automatic.py --all
+
+      - name: Commit and push updated datasets
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add ogs_events_all_complete.csv ogs_events_past_1days.csv ogs_events_past_7days.csv ogs_events_past_30days.csv
+
+          if git diff --staged --quiet; then
+            echo "No changes detected in OGS catalog datasets."
+          else
+            echo "Catalog changes detected. Committing and pushing updates..."
+            git commit -m "Auto-update OGS earthquake catalog [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
