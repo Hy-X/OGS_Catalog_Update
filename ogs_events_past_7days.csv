@@ -37,3 +37,5 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 36,ogs2026pftn,2026-08-05 14:34:59,1.5,OGS,None,35.95083333,-97.77733333,6.83,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
 37,ogs2026pfxd,2026-08-05 16:24:07,1.44,OGS,None,36.1815,-97.818,10.9,0.1414,0.1414,0.5,None,Oklahoma,Bison,Reviewed
 38,ogs2026pfyd,2026-08-05 16:55:16,1.33,OGS,None,36.4505,-96.78366667,0,0.495,0.495,0.7,None,Oklahoma,Ralston,Reviewed
+39,ogs2026pgbh,2026-08-05 18:29:59,1.38,OGS,None,36.1995,-95.84316667,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
+40,ogs2026pgck,2026-08-05 19:04:12,0.54,OGS,None,35.09116667,-97.91716667,9.4,0.2828,0.2828,0.4,None,Oklahoma,Chickasha,Reviewed
