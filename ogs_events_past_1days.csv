@@ -5,3 +5,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 4,ogs2026pgbh,2026-08-05 18:29:59,1.38,OGS,None,36.1995,-95.84316667,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
 5,ogs2026pgck,2026-08-05 19:04:12,0.54,OGS,None,35.09116667,-97.91716667,9.4,0.2828,0.2828,0.4,None,Oklahoma,Chickasha,Reviewed
 6,ogs2026pgfm,2026-08-05 20:37:49,1.53,OGS,None,34.50716667,-97.20966667,0,0.4243,0.4243,0.6,None,Oklahoma,Davis,Reviewed
+7,ogs2026phia,2026-08-06 11:02:17,1.23,OGS,None,35.63783333,-96.972,7.04,0.1414,0.1414,0.3,None,Oklahoma,Warwick,Reviewed

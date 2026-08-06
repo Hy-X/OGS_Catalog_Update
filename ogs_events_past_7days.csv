@@ -30,9 +30,11 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 29,ogs2026pebq,2026-08-04 16:24:31,1.28,OGS,None,36.238,-95.81083333,0,0.495,0.495,0.5,None,Oklahoma,Owasso,Reviewed
 30,ogs2026peew,2026-08-04 18:02:33,1.33,OGS,None,34.38133333,-96.793,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
 31,ogs2026penz,2026-08-04 22:38:53,1.11,OGS,None,35.79866667,-96.654,7.59,0.1414,0.1414,0.4,None,Oklahoma,Stroud,Reviewed
-32,ogs2026pftn,2026-08-05 14:34:59,1.5,OGS,None,35.95083333,-97.77733333,6.83,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
-33,ogs2026pfxd,2026-08-05 16:24:07,1.44,OGS,None,36.1815,-97.818,10.9,0.1414,0.1414,0.5,None,Oklahoma,Bison,Reviewed
-34,ogs2026pfyd,2026-08-05 16:55:16,1.33,OGS,None,36.4505,-96.78366667,0,0.495,0.495,0.7,None,Oklahoma,Ralston,Reviewed
-35,ogs2026pgbh,2026-08-05 18:29:59,1.38,OGS,None,36.1995,-95.84316667,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
-36,ogs2026pgck,2026-08-05 19:04:12,0.54,OGS,None,35.09116667,-97.91716667,9.4,0.2828,0.2828,0.4,None,Oklahoma,Chickasha,Reviewed
-37,ogs2026pgfm,2026-08-05 20:37:49,1.53,OGS,None,34.50716667,-97.20966667,0,0.4243,0.4243,0.6,None,Oklahoma,Davis,Reviewed
+32,ogs2026pevq,2026-08-05 02:30:58,0.99,OGS,None,35.80116667,-96.65816667,7.43,0.2121,0.2121,0.6,None,Oklahoma,Stroud,Reviewed
+33,ogs2026pftn,2026-08-05 14:34:59,1.5,OGS,None,35.95083333,-97.77733333,6.83,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
+34,ogs2026pfxd,2026-08-05 16:24:07,1.44,OGS,None,36.1815,-97.818,10.9,0.1414,0.1414,0.5,None,Oklahoma,Bison,Reviewed
+35,ogs2026pfyd,2026-08-05 16:55:16,1.33,OGS,None,36.4505,-96.78366667,0,0.495,0.495,0.7,None,Oklahoma,Ralston,Reviewed
+36,ogs2026pgbh,2026-08-05 18:29:59,1.38,OGS,None,36.1995,-95.84316667,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
+37,ogs2026pgck,2026-08-05 19:04:12,0.54,OGS,None,35.09116667,-97.91716667,9.4,0.2828,0.2828,0.4,None,Oklahoma,Chickasha,Reviewed
+38,ogs2026pgfm,2026-08-05 20:37:49,1.53,OGS,None,34.50716667,-97.20966667,0,0.4243,0.4243,0.6,None,Oklahoma,Davis,Reviewed
+39,ogs2026phia,2026-08-06 11:02:17,1.23,OGS,None,35.63783333,-96.972,7.04,0.1414,0.1414,0.3,None,Oklahoma,Warwick,Reviewed
