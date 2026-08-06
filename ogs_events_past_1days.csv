@@ -1,7 +1,7 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026penz,2026-08-04 22:38:53,1.11,OGS,None,35.79866667,-96.654,7.59,0.1414,0.1414,0.4,None,Oklahoma,Stroud,Reviewed
-2,ogs2026pftn,2026-08-05 14:34:59,1.5,OGS,None,35.95083333,-97.77733333,6.83,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
-3,ogs2026pfxd,2026-08-05 16:24:07,1.44,OGS,None,36.1815,-97.818,10.9,0.1414,0.1414,0.5,None,Oklahoma,Bison,Reviewed
-4,ogs2026pfyd,2026-08-05 16:55:16,1.33,OGS,None,36.4505,-96.78366667,0,0.495,0.495,0.7,None,Oklahoma,Ralston,Reviewed
-5,ogs2026pgbh,2026-08-05 18:29:59,1.38,OGS,None,36.1995,-95.84316667,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
-6,ogs2026pgck,2026-08-05 19:04:12,0.54,OGS,None,35.09116667,-97.91716667,9.4,0.2828,0.2828,0.4,None,Oklahoma,Chickasha,Reviewed
+1,ogs2026pftn,2026-08-05 14:34:59,1.5,OGS,None,35.95083333,-97.77733333,6.83,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
+2,ogs2026pfxd,2026-08-05 16:24:07,1.44,OGS,None,36.1815,-97.818,10.9,0.1414,0.1414,0.5,None,Oklahoma,Bison,Reviewed
+3,ogs2026pfyd,2026-08-05 16:55:16,1.33,OGS,None,36.4505,-96.78366667,0,0.495,0.495,0.7,None,Oklahoma,Ralston,Reviewed
+4,ogs2026pgbh,2026-08-05 18:29:59,1.38,OGS,None,36.1995,-95.84316667,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
+5,ogs2026pgck,2026-08-05 19:04:12,0.54,OGS,None,35.09116667,-97.91716667,9.4,0.2828,0.2828,0.4,None,Oklahoma,Chickasha,Reviewed
+6,ogs2026pgfm,2026-08-05 20:37:49,1.53,OGS,None,34.50716667,-97.20966667,0,0.4243,0.4243,0.6,None,Oklahoma,Davis,Reviewed
