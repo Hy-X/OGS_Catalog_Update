@@ -1,3 +1,4 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026phia,2026-08-06 11:02:17,1.23,OGS,None,35.63783333,-96.972,7.04,0.1414,0.1414,0.3,None,Oklahoma,Warwick,Reviewed
-2,ogs2026phue,2026-08-06 17:10:42,1.43,OGS,None,36.38566667,-98.88083333,0,0.9192,0.9192,1.1,None,Oklahoma,Quinlan,Reviewed
+1,ogs2026phue,2026-08-06 17:10:42,1.43,OGS,None,36.38566667,-98.88083333,0,0.9192,0.9192,1.1,None,Oklahoma,Quinlan,Reviewed
+2,ogs2026phvz,2026-08-06 18:05:47,1.19,OGS,None,34.512,-97.27483333,0,0.495,0.495,0.6,None,Oklahoma,Katie,Reviewed
+3,ogs2026phxv,2026-08-06 19:01:48,1.22,OGS,None,34.3755,-96.8535,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
