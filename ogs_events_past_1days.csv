@@ -1,1 +1,4 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
+1,ogs2026plqy,2026-08-08 20:05:47,2.08,OGS,None,34.70963669,-95.98177338,10,5.4911,3.4063,0.0,None,Oklahoma,Wardville,Automatic
+2,ogs2026plrc,2026-08-08 20:10:15,2.69,OGS,None,34.667,-95.9815,5.31,0.2828,0.2828,0.9,None,Oklahoma,Wardville,Reviewed
+3,ogs2026plrk,2026-08-08 20:19:54,1.83,OGS,None,34.66363144,-95.98165131,2.817581415,5.9923,3.2745,4.2751,None,Oklahoma,Wardville,Automatic
