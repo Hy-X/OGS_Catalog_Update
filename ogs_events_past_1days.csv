@@ -4,3 +4,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 3,ogs2026pmwd,2026-08-09 11:50:50,2.94,OGS,None,34.66366667,-95.97866667,5.28,0.2121,0.2121,0.9,None,Oklahoma,Wardville,Reviewed
 4,ogs2026pnnp,2026-08-09 20:40:55,2.55,OGS,None,34.66716667,-95.98283333,7.05,0.2828,0.2828,0.8,None,Oklahoma,Wardville,Reviewed
 5,ogs2026pnvx,2026-08-10 00:51:48,1.61,OGS,None,34.75871658,-95.97974396,6.290747643,5.7468,2.474,5.0582,None,Oklahoma,Ashland,Automatic
+6,ogs2026pnxd,2026-08-10 01:30:08,1.72,OGS,None,34.75147247,-95.98231506,9.816086769,6.2568,3.0963,5.4833,None,Oklahoma,Ashland,Automatic
