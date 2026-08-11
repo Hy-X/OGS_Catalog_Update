@@ -68682,7 +68682,15 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68681,ogs2026pnrq,2026-08-09 22:42:50,0.77,OGS,None,34.65633333,-95.99016667,7,0.4243,0.4243,1.0,None,Oklahoma,Wardville,Reviewed
 68682,ogs2026pnvx,2026-08-10 00:51:46,1.27,OGS,None,34.6615,-95.98516667,6.01,0.3536,0.3536,1.0,None,Oklahoma,Wardville,Reviewed
 68683,ogs2026pnxd,2026-08-10 01:30:07,1.51,OGS,None,34.68666667,-95.995,2.1,0.495,0.495,1.4,None,Oklahoma,Wardville,Reviewed
-68684,ogs2026poch,2026-08-10 04:06:15,1.33,OGS,None,34.681,-95.99,5,0.2828,0.2828,1.2,None,Oklahoma,Wardville,Reviewed
-68685,ogs2026pokr,2026-08-10 08:20:33,2.37,OGS,None,34.669,-95.98333333,5.98,0.2828,0.2828,0.9,None,Oklahoma,Wardville,Reviewed
-68686,ogs2026ppqn,2026-08-11 00:25:13,1.89,OGS,None,34.74200058,-95.99471283,7.920321941,5.4057,3.1988,5.8557,None,Oklahoma,Ashland,Automatic
-68687,ogs2026pqhq,2026-08-11 09:03:54,1.67,OGS,None,34.682,-95.98466667,5,0.3536,0.3536,1.8,None,Oklahoma,Wardville,Reviewed
+68684,ogs2026pnxh,2026-08-10 01:34:42,1.21,OGS,None,36.53666667,-98.89933333,16.65,0.4243,0.4243,0.8,None,Oklahoma,Waynoka,Reviewed
+68685,ogs2026pobk,2026-08-10 03:39:11,0.89,OGS,None,34.6705,-95.99516667,5,0.6364,0.6364,2.9,None,Oklahoma,Wardville,Reviewed
+68686,ogs2026poch,2026-08-10 04:06:15,1.33,OGS,None,34.681,-95.99,5,0.2828,0.2828,1.2,None,Oklahoma,Wardville,Reviewed
+68687,ogs2026pogg,2026-08-10 06:06:30,1,OGS,None,34.6585,-95.99066667,5,0.495,0.495,2.1,None,Oklahoma,Wardville,Reviewed
+68688,ogs2026pohe,2026-08-10 06:33:34,1.28,OGS,None,34.6745,-95.989,7.72,0.4243,0.4243,2.1,None,Oklahoma,Wardville,Reviewed
+68689,ogs2026pokr,2026-08-10 08:20:33,2.37,OGS,None,34.669,-95.98333333,5.98,0.2828,0.2828,0.9,None,Oklahoma,Wardville,Reviewed
+68690,ogs2026posy,2026-08-10 12:31:02,1.12,OGS,None,34.649,-96.002,5,0.4243,0.4243,1.2,None,Oklahoma,Wardville,Reviewed
+68691,ogs2026ppay,2026-08-10 16:32:46,1.7,OGS,None,34.66566667,-95.98783333,5.47,0.2121,0.2121,0.9,None,Oklahoma,Wardville,Reviewed
+68692,ogs2026ppej,2026-08-10 18:16:48,1.28,OGS,None,34.38216667,-96.78416667,0,0.2828,0.2828,0.4,None,Oklahoma,Mill Creek,Reviewed
+68693,ogs2026ppov,2026-08-10 23:33:51,1.28,OGS,None,35.5485,-96.7435,6.26,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+68694,ogs2026ppqn,2026-08-11 00:25:11,1.73,OGS,None,34.67366667,-96.00016667,3,0.4243,0.4243,1.4,None,Oklahoma,Wardville,Reviewed
+68695,ogs2026pqhq,2026-08-11 09:03:54,1.67,OGS,None,34.682,-95.98466667,5,0.3536,0.3536,1.8,None,Oklahoma,Wardville,Reviewed
