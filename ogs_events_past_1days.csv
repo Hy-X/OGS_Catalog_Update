@@ -1,2 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
 1,ogs2026pvbc,2026-08-13 23:26:17,2.67,OGS,None,34.6805,-95.984,7,0.2828,0.2828,1.0,None,Oklahoma,Wardville,Reviewed
+2,ogs2026pvri,2026-08-14 07:38:40,1.63,OGS,None,34.445,-97.59933333,3.86,0.4243,0.4243,1.1,None,Oklahoma,Velma,Reviewed

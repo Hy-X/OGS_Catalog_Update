@@ -68712,4 +68712,7 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68711,ogs2026psxz,2026-08-12 19:36:06,1.19,OGS,None,36.2415,-95.8645,0,1.8385,1.8385,1.5,None,Oklahoma,Owasso,Reviewed
 68712,ogs2026ptbz,2026-08-12 21:37:44,0.97,OGS,None,34.35216667,-96.7785,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
 68713,ogs2026ptce,2026-08-12 21:43:25,1.17,OGS,None,34.65116667,-95.9895,6,0.495,0.495,2.2,None,Oklahoma,Wardville,Reviewed
-68714,ogs2026pvbc,2026-08-13 23:26:17,2.67,OGS,None,34.6805,-95.984,7,0.2828,0.2828,1.0,None,Oklahoma,Wardville,Reviewed
+68714,ogs2026ptfh,2026-08-12 23:17:29,1.14,OGS,None,34.3395,-96.4935,0,0.7778,0.7778,0.7,None,Oklahoma,Wapanucka,Reviewed
+68715,ogs2026ptho,2026-08-13 00:26:49,1.24,OGS,None,34.66516667,-95.98516667,5,0.5657,0.5657,2.7,None,Oklahoma,Wardville,Reviewed
+68716,ogs2026pvbc,2026-08-13 23:26:17,2.67,OGS,None,34.6805,-95.984,7,0.2828,0.2828,1.0,None,Oklahoma,Wardville,Reviewed
+68717,ogs2026pvri,2026-08-14 07:38:40,1.63,OGS,None,34.445,-97.59933333,3.86,0.4243,0.4243,1.1,None,Oklahoma,Velma,Reviewed
