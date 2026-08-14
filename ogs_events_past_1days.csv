@@ -1,3 +1,7 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026pvbc,2026-08-13 23:26:17,2.67,OGS,None,34.6805,-95.984,7,0.2828,0.2828,1.0,None,Oklahoma,Wardville,Reviewed
-2,ogs2026pvri,2026-08-14 07:38:40,1.63,OGS,None,34.445,-97.59933333,3.86,0.4243,0.4243,1.1,None,Oklahoma,Velma,Reviewed
+1,ogs2026puwh,2026-08-13 21:02:18,1.4,OGS,None,34.97333333,-96.499,16.98,0.2828,0.2828,0.8,None,Oklahoma,Sasakwa,Reviewed
+2,ogs2026puxo,2026-08-13 21:40:03,1.07,OGS,None,35.023,-97.89683333,10.74,0.4243,0.4243,1.0,None,Oklahoma,Chickasha,Reviewed
+3,ogs2026pvai,2026-08-13 23:03:43,1.42,OGS,None,34.4725,-96.82216667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
+4,ogs2026pvbc,2026-08-13 23:26:17,2.67,OGS,None,34.6805,-95.984,7,0.2828,0.2828,1.0,None,Oklahoma,Wardville,Reviewed
+5,ogs2026pvbh,2026-08-13 23:32:40,1.5,OGS,None,34.68316667,-95.99183333,5,0.5657,0.5657,1.5,None,Oklahoma,Wardville,Reviewed
+6,ogs2026pvri,2026-08-14 07:38:40,1.63,OGS,None,34.445,-97.59933333,3.86,0.4243,0.4243,1.1,None,Oklahoma,Velma,Reviewed
