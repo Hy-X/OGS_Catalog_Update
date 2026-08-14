@@ -1,4 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026psxz,2026-08-12 19:36:06,1.19,OGS,None,36.2415,-95.8645,0,1.8385,1.8385,1.5,None,Oklahoma,Owasso,Reviewed
-2,ogs2026ptbz,2026-08-12 21:37:44,0.97,OGS,None,34.35216667,-96.7785,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
-3,ogs2026ptce,2026-08-12 21:43:25,1.17,OGS,None,34.65116667,-95.9895,6,0.495,0.495,2.2,None,Oklahoma,Wardville,Reviewed
+1,ogs2026pvbc,2026-08-13 23:26:17,2.67,OGS,None,34.6805,-95.984,7,0.2828,0.2828,1.0,None,Oklahoma,Wardville,Reviewed
