@@ -68729,3 +68729,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68728,ogs2026pvbc,2026-08-13 23:26:17,2.67,OGS,None,34.6805,-95.984,7,0.2828,0.2828,1.0,None,Oklahoma,Wardville,Reviewed
 68729,ogs2026pvbh,2026-08-13 23:32:40,1.5,OGS,None,34.68316667,-95.99183333,5,0.5657,0.5657,1.5,None,Oklahoma,Wardville,Reviewed
 68730,ogs2026pvri,2026-08-14 07:38:40,1.63,OGS,None,34.445,-97.59933333,3.86,0.4243,0.4243,1.1,None,Oklahoma,Velma,Reviewed
+68731,ogs2026pxlr,2026-08-15 07:04:06,1.72,OGS,None,34.4393158,-97.59687805,4.830121517,4.3211,3.4046,3.5763,None,Oklahoma,Velma,Automatic

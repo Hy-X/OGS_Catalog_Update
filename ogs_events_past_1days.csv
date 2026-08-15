@@ -1,2 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026pvri,2026-08-14 07:38:40,1.63,OGS,None,34.445,-97.59933333,3.86,0.4243,0.4243,1.1,None,Oklahoma,Velma,Reviewed
+1,ogs2026pxlr,2026-08-15 07:04:06,1.72,OGS,None,34.4393158,-97.59687805,4.830121517,4.3211,3.4046,3.5763,None,Oklahoma,Velma,Automatic
