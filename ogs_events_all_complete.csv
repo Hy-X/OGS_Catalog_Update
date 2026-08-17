@@ -68730,3 +68730,5 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68729,ogs2026pvbh,2026-08-13 23:32:40,1.5,OGS,None,34.68316667,-95.99183333,5,0.5657,0.5657,1.5,None,Oklahoma,Wardville,Reviewed
 68730,ogs2026pvri,2026-08-14 07:38:40,1.63,OGS,None,34.445,-97.59933333,3.86,0.4243,0.4243,1.1,None,Oklahoma,Velma,Reviewed
 68731,ogs2026pxlr,2026-08-15 07:04:06,1.72,OGS,None,34.4393158,-97.59687805,4.830121517,4.3211,3.4046,3.5763,None,Oklahoma,Velma,Automatic
+68732,ogs2026qahp,2026-08-16 20:25:08,1.95,OGS,None,35.90881729,-99.26368713,0.2303224057,1.996,3.1514,2.5046,None,Oklahoma,Leedey,Automatic
+68733,ogs2026qaqk,2026-08-17 00:51:12,1.56,OGS,None,35.1145668,-97.83156586,4.613502979,2.4266,2.5035,2.0635,None,Oklahoma,Amber,Automatic

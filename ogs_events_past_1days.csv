@@ -1,1 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
+1,ogs2026qahp,2026-08-16 20:25:08,1.95,OGS,None,35.90881729,-99.26368713,0.2303224057,1.996,3.1514,2.5046,None,Oklahoma,Leedey,Automatic
+2,ogs2026qaqk,2026-08-17 00:51:12,1.56,OGS,None,35.1145668,-97.83156586,4.613502979,2.4266,2.5035,2.0635,None,Oklahoma,Amber,Automatic
