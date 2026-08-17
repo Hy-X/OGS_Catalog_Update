@@ -1,3 +1,8 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
 1,ogs2026qahp,2026-08-16 20:25:08,1.86,OGS,None,35.9205,-99.23833333,7.31,0.2828,0.2828,1.0,None,Oklahoma,Leedey,Reviewed
-2,ogs2026qaqk,2026-08-17 00:51:12,1.56,OGS,None,35.1145668,-97.83156586,4.613502979,2.4266,2.5035,2.0635,None,Oklahoma,Amber,Automatic
+2,ogs2026qaoe,2026-08-16 23:44:36,1.22,OGS,None,34.66016667,-95.98616667,7,0.4243,0.4243,1.8,None,Oklahoma,Wardville,Reviewed
+3,ogs2026qaqk,2026-08-17 00:51:12,1.26,OGS,None,35.11316667,-97.84183333,8.02,0.2121,0.2121,1.0,None,Oklahoma,Amber,Reviewed
+4,ogs2026qbff,2026-08-17 08:20:33,1.31,OGS,None,34.68383333,-95.9915,5,0.4243,0.4243,2.3,None,Oklahoma,Wardville,Reviewed
+5,ogs2026qbhp,2026-08-17 09:33:19,1.21,OGS,None,34.685,-95.982,16,0.2828,0.2828,2.0,None,Oklahoma,Wardville,Reviewed
+6,ogs2026qbur,2026-08-17 16:08:46,1.26,OGS,None,34.68966667,-95.97416667,7.5,0.7071,0.7071,3.0,None,Oklahoma,Wardville,Reviewed
+7,ogs2026qbxs,2026-08-17 17:41:46,1.43,OGS,None,36.18516667,-97.32866667,7.84,0.1414,0.1414,0.5,None,Oklahoma,Orlando,Reviewed
