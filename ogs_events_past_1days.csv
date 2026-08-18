@@ -1,7 +1,7 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026qbff,2026-08-17 08:20:33,1.31,OGS,None,34.68383333,-95.9915,5,0.4243,0.4243,2.3,None,Oklahoma,Wardville,Reviewed
-2,ogs2026qbhp,2026-08-17 09:33:19,1.21,OGS,None,34.685,-95.982,16,0.2828,0.2828,2.0,None,Oklahoma,Wardville,Reviewed
-3,ogs2026qbur,2026-08-17 16:08:46,1.26,OGS,None,34.68966667,-95.97416667,7.5,0.7071,0.7071,3.0,None,Oklahoma,Wardville,Reviewed
-4,ogs2026qbxs,2026-08-17 17:41:46,1.43,OGS,None,36.18516667,-97.32866667,7.84,0.1414,0.1414,0.5,None,Oklahoma,Orlando,Reviewed
-5,ogs2026qcfe,2026-08-17 21:27:35,1.4,OGS,None,35.91016667,-95.17166667,0,0.3536,0.3536,0.5,None,Oklahoma,Hulbert,Reviewed
+1,ogs2026qbur,2026-08-17 16:08:46,1.26,OGS,None,34.68966667,-95.97416667,7.5,0.7071,0.7071,3.0,None,Oklahoma,Wardville,Reviewed
+2,ogs2026qbxs,2026-08-17 17:41:46,1.43,OGS,None,36.18516667,-97.32866667,7.84,0.1414,0.1414,0.5,None,Oklahoma,Orlando,Reviewed
+3,ogs2026qcbp,2026-08-17 19:39:02,1.18,OGS,None,36.256,-95.22916667,0,0.4243,0.4243,0.5,None,Oklahoma,Sportsmen Acres,Reviewed
+4,ogs2026qcfe,2026-08-17 21:27:35,1.4,OGS,None,35.91016667,-95.17166667,0,0.3536,0.3536,0.5,None,Oklahoma,Hulbert,Reviewed
+5,ogs2026qcgw,2026-08-17 22:18:25,1.36,OGS,None,36.25216667,-95.8335,0,0.3536,0.3536,0.3,None,Oklahoma,Owasso,Reviewed
 6,ogs2026qcji,2026-08-17 23:33:09,1.82,OGS,None,35.01916667,-97.87766667,9.65,0.2828,0.2828,0.8,None,Oklahoma,Chickasha,Reviewed
