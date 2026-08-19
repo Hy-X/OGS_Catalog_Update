@@ -68793,4 +68793,11 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68792,ogs2026qcfe,2026-08-17 21:27:35,1.4,OGS,None,35.91016667,-95.17166667,0,0.3536,0.3536,0.5,None,Oklahoma,Hulbert,Reviewed
 68793,ogs2026qcgw,2026-08-17 22:18:25,1.36,OGS,None,36.25216667,-95.8335,0,0.3536,0.3536,0.3,None,Oklahoma,Owasso,Reviewed
 68794,ogs2026qcji,2026-08-17 23:33:09,1.82,OGS,None,35.01916667,-97.87766667,9.65,0.2828,0.2828,0.8,None,Oklahoma,Chickasha,Reviewed
-68795,ogs2026qevo,2026-08-19 08:00:57,1.65,OGS,None,34.9775,-96.03733333,4.75,0.2828,0.2828,0.8,None,Oklahoma,Arpelar,Reviewed
+68795,ogs2026qcmo,2026-08-18 01:11:20,0.97,OGS,None,34.6975,-95.98866667,5,0.495,0.495,1.5,None,Oklahoma,Wardville,Reviewed
+68796,ogs2026qcye,2026-08-18 07:03:39,0.81,OGS,None,34.72166667,-95.99683333,5,0.9899,0.9899,3.2,None,Oklahoma,Wardville,Reviewed
+68797,ogs2026qcyg,2026-08-18 07:05:16,0.57,OGS,None,35.247,-98.039,3.93,0.4243,0.4243,1.7,None,Oklahoma,Pocasset,Reviewed
+68798,ogs2026qcyh,2026-08-18 07:05:27,0.71,OGS,None,35.22333333,-98.0875,9.84,0.5657,0.5657,0.7,None,Oklahoma,Pocasset,Reviewed
+68799,ogs2026qdat,2026-08-18 08:21:35,0.74,OGS,None,35.07516667,-97.85866667,7.85,0.4243,0.4243,0.5,None,Oklahoma,Chickasha,Reviewed
+68800,ogs2026qdpj,2026-08-18 15:44:07,1.39,OGS,None,36.236,-95.83216667,0,0.495,0.495,0.4,None,Oklahoma,Owasso,Reviewed
+68801,ogs2026qdxf,2026-08-18 19:42:31,1.29,OGS,None,34.37483333,-96.792,0,0.5657,0.5657,0.6,None,Oklahoma,Mill Creek,Reviewed
+68802,ogs2026qevo,2026-08-19 08:00:57,1.65,OGS,None,34.9775,-96.03733333,4.75,0.2828,0.2828,0.8,None,Oklahoma,Arpelar,Reviewed
