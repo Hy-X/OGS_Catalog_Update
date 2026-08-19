@@ -68793,3 +68793,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68792,ogs2026qcfe,2026-08-17 21:27:35,1.4,OGS,None,35.91016667,-95.17166667,0,0.3536,0.3536,0.5,None,Oklahoma,Hulbert,Reviewed
 68793,ogs2026qcgw,2026-08-17 22:18:25,1.36,OGS,None,36.25216667,-95.8335,0,0.3536,0.3536,0.3,None,Oklahoma,Owasso,Reviewed
 68794,ogs2026qcji,2026-08-17 23:33:09,1.82,OGS,None,35.01916667,-97.87766667,9.65,0.2828,0.2828,0.8,None,Oklahoma,Chickasha,Reviewed
+68795,ogs2026qevo,2026-08-19 08:00:57,1.65,OGS,None,34.9775,-96.03733333,4.75,0.2828,0.2828,0.8,None,Oklahoma,Arpelar,Reviewed
