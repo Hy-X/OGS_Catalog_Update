@@ -1,3 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026qdxf,2026-08-18 19:42:31,1.29,OGS,None,34.37483333,-96.792,0,0.5657,0.5657,0.6,None,Oklahoma,Mill Creek,Reviewed
-2,ogs2026qevo,2026-08-19 08:00:57,1.65,OGS,None,34.9775,-96.03733333,4.75,0.2828,0.2828,0.8,None,Oklahoma,Arpelar,Reviewed
+1,ogs2026qevo,2026-08-19 08:00:57,1.65,OGS,None,34.9775,-96.03733333,4.75,0.2828,0.2828,0.8,None,Oklahoma,Arpelar,Reviewed
