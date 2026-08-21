@@ -68817,4 +68817,13 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68816,ogs2026qfln,2026-08-19 16:04:08,1.34,OGS,None,34.6555,-95.98783333,6,0.495,0.495,1.1,None,Oklahoma,Wardville,Reviewed
 68817,ogs2026qfoa,2026-08-19 17:20:11,1.66,OGS,None,34.43016667,-97.48983333,4,0.495,0.495,1.3,None,Oklahoma,Ratliff City,Reviewed
 68818,ogs2026qfxc,2026-08-19 21:55:50,0.78,OGS,None,36.00716667,-96.538,2.38,0.3536,0.3536,1.3,None,Oklahoma,Drumright,Reviewed
-68819,ogs2026qioc,2026-08-21 08:47:30,2.35,OGS,None,36.43166667,-96.92933333,8.27,0.1414,0.1414,0.8,None,Oklahoma,Pawnee,Reviewed
+68819,ogs2026qghj,2026-08-20 03:07:04,0.81,OGS,None,35.01016667,-97.41383333,7.84,1.1314,1.1314,2.8,None,Oklahoma,Purcell,Reviewed
+68820,ogs2026qglp,2026-08-20 05:14:26,1.12,OGS,None,35.08083333,-97.82816667,7.48,0.2828,0.2828,0.4,None,Oklahoma,Amber,Reviewed
+68821,ogs2026qgnm,2026-08-20 06:12:20,0.94,OGS,None,35.79866667,-96.65183333,8.51,0.2121,0.2121,2.0,None,Oklahoma,Stroud,Reviewed
+68822,ogs2026qgtm,2026-08-20 09:13:39,0.8,OGS,None,35.00583333,-97.38866667,5.34,0.6364,0.6364,2.0,None,Oklahoma,Purcell,Reviewed
+68823,ogs2026qhjd,2026-08-20 17:08:22,1.42,OGS,None,34.68866667,-96.6475,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed
+68824,ogs2026qhlg,2026-08-20 18:12:34,1.58,OGS,None,34.38183333,-96.84716667,0,0.3536,0.3536,0.4,None,Oklahoma,Mill Creek,Reviewed
+68825,ogs2026qhrj,2026-08-20 21:17:25,0.79,OGS,None,35.12883333,-97.73266667,7.68,0.2828,0.2828,0.4,None,Oklahoma,Blanchard,Reviewed
+68826,ogs2026qhsc,2026-08-20 21:40:04,1.08,OGS,None,34.71983333,-98.43833333,0,0.495,0.495,0.6,None,Oklahoma,Medicine Park,Reviewed
+68827,ogs2026qioc,2026-08-21 08:47:30,2.35,OGS,None,36.43166667,-96.92933333,8.27,0.1414,0.1414,0.8,None,Oklahoma,Pawnee,Reviewed
+68828,ogs2026qjdj,2026-08-21 16:29:46,1.9,OGS,None,34.2865,-97.60766667,7.62,0.6364,0.6364,0.7,None,Oklahoma,Loco,Reviewed
