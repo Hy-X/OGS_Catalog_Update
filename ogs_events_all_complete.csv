@@ -68817,3 +68817,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68816,ogs2026qfln,2026-08-19 16:04:08,1.34,OGS,None,34.6555,-95.98783333,6,0.495,0.495,1.1,None,Oklahoma,Wardville,Reviewed
 68817,ogs2026qfoa,2026-08-19 17:20:11,1.66,OGS,None,34.43016667,-97.48983333,4,0.495,0.495,1.3,None,Oklahoma,Ratliff City,Reviewed
 68818,ogs2026qfxc,2026-08-19 21:55:50,0.78,OGS,None,36.00716667,-96.538,2.38,0.3536,0.3536,1.3,None,Oklahoma,Drumright,Reviewed
+68819,ogs2026qioc,2026-08-21 08:47:30,2.35,OGS,None,36.43166667,-96.92933333,8.27,0.1414,0.1414,0.8,None,Oklahoma,Pawnee,Reviewed

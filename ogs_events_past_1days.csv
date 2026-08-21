@@ -1,1 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
+1,ogs2026qioc,2026-08-21 08:47:30,2.35,OGS,None,36.43166667,-96.92933333,8.27,0.1414,0.1414,0.8,None,Oklahoma,Pawnee,Reviewed
