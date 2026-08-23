@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026qjjo,2026-08-21 19:37:46,1.98,OGS,None,34.29266667,-97.6005,6.49,0.3536,0.3536,0.6,None,Oklahoma,Loco,Reviewed
