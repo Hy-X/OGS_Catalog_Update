@@ -1,2 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026qmfr,2026-08-23 09:03:59,1.55,OGS,None,35.34970856,-96.46737671,12.44339085,3.4504,2.4432,4.9817,None,Oklahoma,Cromwell,Automatic
+1,ogs2026qnmj,2026-08-24 01:34:44,1.47,OGS,None,34.67883333,-95.99283333,7.67,0.3536,0.3536,1.9,None,Oklahoma,Wardville,Reviewed
