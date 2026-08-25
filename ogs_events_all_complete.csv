@@ -68837,5 +68837,7 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68836,ogs2026qmfr,2026-08-23 09:04:00,1.38,OGS,None,35.34633333,-96.469,19.8,0.2121,0.2121,0.7,None,Oklahoma,Cromwell,Reviewed
 68837,ogs2026qmnb,2026-08-23 12:48:12,0.76,OGS,None,34.88316667,-96.31416667,18.11,0.2121,0.2121,0.7,None,Oklahoma,Gerty,Reviewed
 68838,ogs2026qnmj,2026-08-24 01:34:44,1.47,OGS,None,34.67883333,-95.99283333,7.67,0.3536,0.3536,1.9,None,Oklahoma,Wardville,Reviewed
-68839,ogs2026qoxw,2026-08-24 20:32:17,1.47,OGS,None,36.19866667,-95.856,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
-68840,ogs2026qpbo,2026-08-24 22:23:27,2.35,OGS,None,36.8225,-97.69616667,6.95,0.2121,0.2121,0.5,None,Oklahoma,Medford,Reviewed
+68839,ogs2026qodw,2026-08-24 10:25:51,1.16,OGS,None,34.67166667,-95.99516667,6.48,0.2121,0.2121,0.7,None,Oklahoma,Wardville,Reviewed
+68840,ogs2026qomg,2026-08-24 14:39:56,0.97,OGS,None,36.03316667,-97.908,6.64,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
+68841,ogs2026qoxw,2026-08-24 20:32:17,1.47,OGS,None,36.19866667,-95.856,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
+68842,ogs2026qpbo,2026-08-24 22:23:27,2.35,OGS,None,36.8225,-97.69616667,6.95,0.2121,0.2121,0.5,None,Oklahoma,Medford,Reviewed
