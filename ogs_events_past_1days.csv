@@ -1,2 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
 1,ogs2026qqnc,2026-08-25 17:22:04,1.53,OGS,None,36.74016667,-98.02933333,7.26,0.495,0.495,1.0,None,Oklahoma,Nash,Reviewed
+2,ogs2026qrvd,2026-08-26 10:33:22,2.33,OGS,None,36.316,-98.17916667,6.23,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
