@@ -68845,3 +68845,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68844,ogs2026qrvd,2026-08-26 10:33:22,2.33,OGS,None,36.316,-98.17916667,6.23,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
 68845,ogs2026qskz,2026-08-26 18:34:25,1.29,OGS,None,34.49216667,-97.28333333,0,0.495,0.495,0.7,None,Oklahoma,Katie,Reviewed
 68846,ogs2026qsli,2026-08-26 18:44:56,1.51,OGS,None,36.4715,-98.79966667,6.32,0.2828,0.2828,0.5,None,Oklahoma,Waynoka,Reviewed
+68847,ogs2026qsuv,2026-08-26 23:32:51,1.87,OGS,None,34.42516667,-97.471,4.91,0.3536,0.3536,0.9,None,Oklahoma,Ratliff City,Reviewed
