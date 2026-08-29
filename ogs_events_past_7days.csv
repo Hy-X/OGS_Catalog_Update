@@ -30,3 +30,6 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 29,ogs2026qups,2026-08-27 23:14:22,1.15,OGS,None,35.151,-97.773,6.32,0.3536,0.3536,1.0,None,Oklahoma,Amber,Reviewed
 30,ogs2026qvvj,2026-08-28 15:13:50,1.05,OGS,None,36.68766667,-96.70466667,0,0.4243,0.4243,0.5,None,Oklahoma,Burbank,Reviewed
 31,ogs2026qwbv,2026-08-28 18:29:21,1.3,OGS,None,35.90366667,-95.17366667,0,0.4243,0.4243,0.4,None,Oklahoma,Hulbert,Reviewed
+32,ogs2026qwfr,2026-08-28 20:25:35,1.37,OGS,None,34.4945,-97.21666667,0,0.3536,0.3536,0.4,None,Oklahoma,Davis,Reviewed
+33,ogs2026qwir,2026-08-28 21:57:36,1.53,OGS,None,36.00966667,-96.53266667,0,0.2121,0.2121,0.2,None,Oklahoma,Drumright,Reviewed
+34,ogs2026qwru,2026-08-29 02:32:53,1.93,OGS,None,35.23521042,-97.59499359,5,2.4814,2.2006,0.0,None,Oklahoma,Newcastle,Automatic
