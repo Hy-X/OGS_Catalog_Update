@@ -1,4 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026qwfr,2026-08-28 20:25:35,1.37,OGS,None,34.4945,-97.21666667,0,0.3536,0.3536,0.4,None,Oklahoma,Davis,Reviewed
-2,ogs2026qwir,2026-08-28 21:57:36,1.53,OGS,None,36.00966667,-96.53266667,0,0.2121,0.2121,0.2,None,Oklahoma,Drumright,Reviewed
-3,ogs2026qwru,2026-08-29 02:32:53,1.93,OGS,None,35.23521042,-97.59499359,5,2.4814,2.2006,0.0,None,Oklahoma,Newcastle,Automatic
