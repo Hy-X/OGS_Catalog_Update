@@ -1,31 +1,30 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026qmnb,2026-08-23 12:48:12,0.76,OGS,None,34.88316667,-96.31416667,18.11,0.2121,0.2121,0.7,None,Oklahoma,Gerty,Reviewed
-2,ogs2026qnmj,2026-08-24 01:34:44,1.47,OGS,None,34.67883333,-95.99283333,7.67,0.3536,0.3536,1.9,None,Oklahoma,Wardville,Reviewed
-3,ogs2026qodw,2026-08-24 10:25:51,1.16,OGS,None,34.67166667,-95.99516667,6.48,0.2121,0.2121,0.7,None,Oklahoma,Wardville,Reviewed
-4,ogs2026qomg,2026-08-24 14:39:56,0.97,OGS,None,36.03316667,-97.908,6.64,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
-5,ogs2026qoxw,2026-08-24 20:32:17,1.47,OGS,None,36.19866667,-95.856,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
-6,ogs2026qpbo,2026-08-24 22:23:27,2.35,OGS,None,36.8225,-97.69616667,6.95,0.2121,0.2121,0.5,None,Oklahoma,Medford,Reviewed
-7,ogs2026qqnc,2026-08-25 17:22:04,1.53,OGS,None,36.74016667,-98.02933333,7.26,0.495,0.495,1.0,None,Oklahoma,Nash,Reviewed
-8,ogs2026qrjy,2026-08-26 04:54:59,0.81,OGS,None,36.18533333,-97.33133333,8.33,0.2121,0.2121,1.6,None,Oklahoma,Orlando,Reviewed
-9,ogs2026qrvd,2026-08-26 10:33:22,2.33,OGS,None,36.316,-98.17916667,6.23,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
-10,ogs2026qsir,2026-08-26 17:24:32,1.06,OGS,None,34.98766667,-96.044,7.4,0.7071,0.7071,1.7,None,Oklahoma,Arpelar,Reviewed
-11,ogs2026qskz,2026-08-26 18:34:25,1.29,OGS,None,34.49216667,-97.28333333,0,0.495,0.495,0.7,None,Oklahoma,Katie,Reviewed
-12,ogs2026qsli,2026-08-26 18:44:56,1.51,OGS,None,36.4715,-98.79966667,6.32,0.2828,0.2828,0.5,None,Oklahoma,Waynoka,Reviewed
-13,ogs2026qspz,2026-08-26 21:05:55,1.13,OGS,None,36.239,-95.81416667,0,1.6263,1.6263,1.4,None,Oklahoma,Owasso,Reviewed
-14,ogs2026qsuv,2026-08-26 23:32:51,1.87,OGS,None,34.42516667,-97.471,4.91,0.3536,0.3536,0.9,None,Oklahoma,Ratliff City,Reviewed
-15,ogs2026qtdb,2026-08-27 03:42:09,1.13,OGS,None,35.89483333,-97.35733333,6.92,0.1414,0.1414,0.3,None,Oklahoma,Guthrie,Reviewed
-16,ogs2026qtdf,2026-08-27 03:47:02,0.56,OGS,None,35.23516667,-97.75816667,3.29,0.3536,0.3536,0.6,None,Oklahoma,Bridge Creek,Reviewed
-17,ogs2026qtob,2026-08-27 09:15:25,0.53,OGS,None,36.7795,-97.23416667,6.27,0.4243,0.4243,0.6,None,Oklahoma,Blackwell,Reviewed
-18,ogs2026qtxh,2026-08-27 13:55:54,1.12,OGS,None,34.42066667,-97.475,5.95,0.495,0.495,1.2,None,Oklahoma,Ratliff City,Reviewed
-19,ogs2026qtyt,2026-08-27 14:39:32,1.34,OGS,None,36.24316667,-95.22316667,0,0.4243,0.4243,0.5,None,Oklahoma,Sportsmen Acres,Reviewed
-20,ogs2026qtyx,2026-08-27 14:43:59,1.26,OGS,None,36.74533333,-94.79233333,0,0.9899,0.9899,0.9,None,Oklahoma,Fairland,Reviewed
-21,ogs2026quax,2026-08-27 15:45:19,1.3,OGS,None,36.82016667,-97.70416667,7.16,0.2121,0.2121,0.6,None,Oklahoma,Medford,Reviewed
-22,ogs2026qudf,2026-08-27 16:55:13,1.17,OGS,None,34.71616667,-98.43533333,0,0.5657,0.5657,0.4,None,Oklahoma,Medicine Park,Reviewed
-23,ogs2026qujw,2026-08-27 20:16:29,1.6,OGS,None,36.19616667,-95.8765,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
-24,ogs2026qunw,2026-08-27 22:17:45,1.1,OGS,None,34.65716667,-96.00216667,6,0.3536,0.3536,0.8,None,Oklahoma,Wardville,Reviewed
-25,ogs2026qups,2026-08-27 23:14:22,1.15,OGS,None,35.151,-97.773,6.32,0.3536,0.3536,1.0,None,Oklahoma,Amber,Reviewed
-26,ogs2026qvvj,2026-08-28 15:13:50,1.05,OGS,None,36.68766667,-96.70466667,0,0.4243,0.4243,0.5,None,Oklahoma,Burbank,Reviewed
-27,ogs2026qwbv,2026-08-28 18:29:21,1.3,OGS,None,35.90366667,-95.17366667,0,0.4243,0.4243,0.4,None,Oklahoma,Hulbert,Reviewed
-28,ogs2026qwfr,2026-08-28 20:25:35,1.37,OGS,None,34.4945,-97.21666667,0,0.3536,0.3536,0.4,None,Oklahoma,Davis,Reviewed
-29,ogs2026qwir,2026-08-28 21:57:36,1.53,OGS,None,36.00966667,-96.53266667,0,0.2121,0.2121,0.2,None,Oklahoma,Drumright,Reviewed
-30,ogs2026qwru,2026-08-29 02:32:53,1.93,OGS,None,35.23521042,-97.59499359,5,2.4814,2.2006,0.0,None,Oklahoma,Newcastle,Automatic
+1,ogs2026qnmj,2026-08-24 01:34:44,1.47,OGS,None,34.67883333,-95.99283333,7.67,0.3536,0.3536,1.9,None,Oklahoma,Wardville,Reviewed
+2,ogs2026qodw,2026-08-24 10:25:51,1.16,OGS,None,34.67166667,-95.99516667,6.48,0.2121,0.2121,0.7,None,Oklahoma,Wardville,Reviewed
+3,ogs2026qomg,2026-08-24 14:39:56,0.97,OGS,None,36.03316667,-97.908,6.64,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
+4,ogs2026qoxw,2026-08-24 20:32:17,1.47,OGS,None,36.19866667,-95.856,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
+5,ogs2026qpbo,2026-08-24 22:23:27,2.35,OGS,None,36.8225,-97.69616667,6.95,0.2121,0.2121,0.5,None,Oklahoma,Medford,Reviewed
+6,ogs2026qqnc,2026-08-25 17:22:04,1.53,OGS,None,36.74016667,-98.02933333,7.26,0.495,0.495,1.0,None,Oklahoma,Nash,Reviewed
+7,ogs2026qrjy,2026-08-26 04:54:59,0.81,OGS,None,36.18533333,-97.33133333,8.33,0.2121,0.2121,1.6,None,Oklahoma,Orlando,Reviewed
+8,ogs2026qrvd,2026-08-26 10:33:22,2.33,OGS,None,36.316,-98.17916667,6.23,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
+9,ogs2026qsir,2026-08-26 17:24:32,1.06,OGS,None,34.98766667,-96.044,7.4,0.7071,0.7071,1.7,None,Oklahoma,Arpelar,Reviewed
+10,ogs2026qskz,2026-08-26 18:34:25,1.29,OGS,None,34.49216667,-97.28333333,0,0.495,0.495,0.7,None,Oklahoma,Katie,Reviewed
+11,ogs2026qsli,2026-08-26 18:44:56,1.51,OGS,None,36.4715,-98.79966667,6.32,0.2828,0.2828,0.5,None,Oklahoma,Waynoka,Reviewed
+12,ogs2026qspz,2026-08-26 21:05:55,1.13,OGS,None,36.239,-95.81416667,0,1.6263,1.6263,1.4,None,Oklahoma,Owasso,Reviewed
+13,ogs2026qsuv,2026-08-26 23:32:51,1.87,OGS,None,34.42516667,-97.471,4.91,0.3536,0.3536,0.9,None,Oklahoma,Ratliff City,Reviewed
+14,ogs2026qtdb,2026-08-27 03:42:09,1.13,OGS,None,35.89483333,-97.35733333,6.92,0.1414,0.1414,0.3,None,Oklahoma,Guthrie,Reviewed
+15,ogs2026qtdf,2026-08-27 03:47:02,0.56,OGS,None,35.23516667,-97.75816667,3.29,0.3536,0.3536,0.6,None,Oklahoma,Bridge Creek,Reviewed
+16,ogs2026qtob,2026-08-27 09:15:25,0.53,OGS,None,36.7795,-97.23416667,6.27,0.4243,0.4243,0.6,None,Oklahoma,Blackwell,Reviewed
+17,ogs2026qtxh,2026-08-27 13:55:54,1.12,OGS,None,34.42066667,-97.475,5.95,0.495,0.495,1.2,None,Oklahoma,Ratliff City,Reviewed
+18,ogs2026qtyt,2026-08-27 14:39:32,1.34,OGS,None,36.24316667,-95.22316667,0,0.4243,0.4243,0.5,None,Oklahoma,Sportsmen Acres,Reviewed
+19,ogs2026qtyx,2026-08-27 14:43:59,1.26,OGS,None,36.74533333,-94.79233333,0,0.9899,0.9899,0.9,None,Oklahoma,Fairland,Reviewed
+20,ogs2026quax,2026-08-27 15:45:19,1.3,OGS,None,36.82016667,-97.70416667,7.16,0.2121,0.2121,0.6,None,Oklahoma,Medford,Reviewed
+21,ogs2026qudf,2026-08-27 16:55:13,1.17,OGS,None,34.71616667,-98.43533333,0,0.5657,0.5657,0.4,None,Oklahoma,Medicine Park,Reviewed
+22,ogs2026qujw,2026-08-27 20:16:29,1.6,OGS,None,36.19616667,-95.8765,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
+23,ogs2026qunw,2026-08-27 22:17:45,1.1,OGS,None,34.65716667,-96.00216667,6,0.3536,0.3536,0.8,None,Oklahoma,Wardville,Reviewed
+24,ogs2026qups,2026-08-27 23:14:22,1.15,OGS,None,35.151,-97.773,6.32,0.3536,0.3536,1.0,None,Oklahoma,Amber,Reviewed
+25,ogs2026qvvj,2026-08-28 15:13:50,1.05,OGS,None,36.68766667,-96.70466667,0,0.4243,0.4243,0.5,None,Oklahoma,Burbank,Reviewed
+26,ogs2026qwbv,2026-08-28 18:29:21,1.3,OGS,None,35.90366667,-95.17366667,0,0.4243,0.4243,0.4,None,Oklahoma,Hulbert,Reviewed
+27,ogs2026qwfr,2026-08-28 20:25:35,1.37,OGS,None,34.4945,-97.21666667,0,0.3536,0.3536,0.4,None,Oklahoma,Davis,Reviewed
+28,ogs2026qwir,2026-08-28 21:57:36,1.53,OGS,None,36.00966667,-96.53266667,0,0.2121,0.2121,0.2,None,Oklahoma,Drumright,Reviewed
+29,ogs2026qwru,2026-08-29 02:32:53,1.93,OGS,None,35.23521042,-97.59499359,5,2.4814,2.2006,0.0,None,Oklahoma,Newcastle,Automatic
