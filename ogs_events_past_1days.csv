@@ -1,1 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
+1,ogs2026raeh,2026-08-31 00:16:45,1.87,OGS,None,35.04638672,-97.64770508,3.811602116,2.5248,2.4728,2.1255,None,Oklahoma,Dibble,Automatic
