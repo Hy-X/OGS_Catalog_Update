@@ -68864,5 +68864,6 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68863,ogs2026qwbv,2026-08-28 18:29:21,1.3,OGS,None,35.90366667,-95.17366667,0,0.4243,0.4243,0.4,None,Oklahoma,Hulbert,Reviewed
 68864,ogs2026qwfr,2026-08-28 20:25:35,1.37,OGS,None,34.4945,-97.21666667,0,0.3536,0.3536,0.4,None,Oklahoma,Davis,Reviewed
 68865,ogs2026qwir,2026-08-28 21:57:36,1.53,OGS,None,36.00966667,-96.53266667,0,0.2121,0.2121,0.2,None,Oklahoma,Drumright,Reviewed
-68866,ogs2026qwru,2026-08-29 02:32:53,1.93,OGS,None,35.23521042,-97.59499359,5,2.4814,2.2006,0.0,None,Oklahoma,Newcastle,Automatic
-68867,ogs2026raeh,2026-08-31 00:16:45,1.87,OGS,None,35.04638672,-97.64770508,3.811602116,2.5248,2.4728,2.1255,None,Oklahoma,Dibble,Automatic
+68866,ogs2026qwru,2026-08-29 02:32:53,1.51,OGS,None,35.2415,-97.60233333,5.41,0.2828,0.2828,0.8,None,Oklahoma,Newcastle,Reviewed
+68867,ogs2026raeh,2026-08-31 00:16:44,1.48,OGS,None,35.02716667,-97.63516667,8.46,0.2828,0.2828,1.1,None,Oklahoma,Dibble,Reviewed
+68868,ogs2026razs,2026-08-31 11:05:32,1.99,OGS,None,35.54033333,-96.74733333,6.47,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
