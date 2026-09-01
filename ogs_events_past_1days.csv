@@ -1,6 +1,5 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026raeh,2026-08-31 00:16:44,1.48,OGS,None,35.02716667,-97.63516667,8.46,0.2828,0.2828,1.1,None,Oklahoma,Dibble,Reviewed
-2,ogs2026razs,2026-08-31 11:05:32,1.99,OGS,None,35.54033333,-96.74733333,6.47,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-3,ogs2026rblk,2026-08-31 17:00:57,1.44,OGS,None,35.02983333,-97.634,7.95,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
-4,ogs2026rbng,2026-08-31 17:56:40,1.22,OGS,None,36.2475,-95.82933333,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
-5,ogs2026rbrh,2026-08-31 19:58:28,1.28,OGS,None,34.3785,-96.98066667,0,0.495,0.495,0.7,None,Oklahoma,Dougherty,Reviewed
+1,ogs2026razs,2026-08-31 11:05:32,1.99,OGS,None,35.54033333,-96.74733333,6.47,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+2,ogs2026rblk,2026-08-31 17:00:57,1.44,OGS,None,35.02983333,-97.634,7.95,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
+3,ogs2026rbng,2026-08-31 17:56:40,1.22,OGS,None,36.2475,-95.82933333,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
+4,ogs2026rbrh,2026-08-31 19:58:28,1.28,OGS,None,34.3785,-96.98066667,0,0.495,0.495,0.7,None,Oklahoma,Dougherty,Reviewed
