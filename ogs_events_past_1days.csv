@@ -3,3 +3,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 2,ogs2026rblk,2026-08-31 17:00:57,1.44,OGS,None,35.02983333,-97.634,7.95,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
 3,ogs2026rbng,2026-08-31 17:56:40,1.22,OGS,None,36.2475,-95.82933333,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
 4,ogs2026rbrh,2026-08-31 19:58:28,1.28,OGS,None,34.3785,-96.98066667,0,0.495,0.495,0.7,None,Oklahoma,Dougherty,Reviewed
+5,ogs2026rcre,2026-09-01 09:03:51,1.59,OGS,None,35.01567078,-97.62014008,6.582136154,2.5605,2.6921,3.1354,None,Oklahoma,Dibble,Automatic
