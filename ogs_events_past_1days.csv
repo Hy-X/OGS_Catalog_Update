@@ -1,6 +1,7 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026razs,2026-08-31 11:05:32,1.99,OGS,None,35.54033333,-96.74733333,6.47,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-2,ogs2026rblk,2026-08-31 17:00:57,1.44,OGS,None,35.02983333,-97.634,7.95,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
-3,ogs2026rbng,2026-08-31 17:56:40,1.22,OGS,None,36.2475,-95.82933333,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
-4,ogs2026rbrh,2026-08-31 19:58:28,1.28,OGS,None,34.3785,-96.98066667,0,0.495,0.495,0.7,None,Oklahoma,Dougherty,Reviewed
-5,ogs2026rcre,2026-09-01 09:03:51,1.59,OGS,None,35.01567078,-97.62014008,6.582136154,2.5605,2.6921,3.1354,None,Oklahoma,Dibble,Automatic
+1,ogs2026rbxi,2026-08-31 23:01:31,0.81,OGS,None,35.02366667,-97.62666667,10.86,0.5657,0.5657,1.4,None,Oklahoma,Dibble,Reviewed
+2,ogs2026rceg,2026-09-01 02:31:42,1.32,OGS,None,34.97833333,-96.0535,7.91,0.3536,0.3536,2.0,None,Oklahoma,Arpelar,Reviewed
+3,ogs2026rcre,2026-09-01 09:03:51,1.22,OGS,None,35.02833333,-97.632,8.13,0.2828,0.2828,1.0,None,Oklahoma,Dibble,Reviewed
+4,ogs2026rcrh,2026-09-01 09:06:24,1.07,OGS,None,35.02616667,-97.64333333,7.01,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
+5,ogs2026rdhv,2026-09-01 17:27:48,1.44,OGS,None,34.47283333,-96.83716667,0,0.2828,0.2828,0.4,None,Oklahoma,Mill Creek,Reviewed
+6,ogs2026rdje,2026-09-01 18:09:23,1.54,OGS,None,34.50216667,-97.24183333,0,0.2828,0.2828,0.4,None,Oklahoma,Davis,Reviewed
