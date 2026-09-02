@@ -1,3 +1,4 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
 1,ogs2026rdhv,2026-09-01 17:27:48,1.44,OGS,None,34.47283333,-96.83716667,0,0.2828,0.2828,0.4,None,Oklahoma,Mill Creek,Reviewed
 2,ogs2026rdje,2026-09-01 18:09:23,1.54,OGS,None,34.50216667,-97.24183333,0,0.2828,0.2828,0.4,None,Oklahoma,Davis,Reviewed
+3,ogs2026repq,2026-09-02 10:33:41,1.62,OGS,None,36.29166667,-97.51666667,8.3,0.1414,0.1414,1.0,None,Oklahoma,Lucien,Reviewed
