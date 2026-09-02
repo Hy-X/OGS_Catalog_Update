@@ -1,6 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026rceg,2026-09-01 02:31:42,1.32,OGS,None,34.97833333,-96.0535,7.91,0.3536,0.3536,2.0,None,Oklahoma,Arpelar,Reviewed
-2,ogs2026rcre,2026-09-01 09:03:51,1.22,OGS,None,35.02833333,-97.632,8.13,0.2828,0.2828,1.0,None,Oklahoma,Dibble,Reviewed
-3,ogs2026rcrh,2026-09-01 09:06:24,1.07,OGS,None,35.02616667,-97.64333333,7.01,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
-4,ogs2026rdhv,2026-09-01 17:27:48,1.44,OGS,None,34.47283333,-96.83716667,0,0.2828,0.2828,0.4,None,Oklahoma,Mill Creek,Reviewed
-5,ogs2026rdje,2026-09-01 18:09:23,1.54,OGS,None,34.50216667,-97.24183333,0,0.2828,0.2828,0.4,None,Oklahoma,Davis,Reviewed
+1,ogs2026rdhv,2026-09-01 17:27:48,1.44,OGS,None,34.47283333,-96.83716667,0,0.2828,0.2828,0.4,None,Oklahoma,Mill Creek,Reviewed
+2,ogs2026rdje,2026-09-01 18:09:23,1.54,OGS,None,34.50216667,-97.24183333,0,0.2828,0.2828,0.4,None,Oklahoma,Davis,Reviewed
