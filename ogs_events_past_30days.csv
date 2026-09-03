@@ -255,5 +255,12 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 254,ogs2026rdje,2026-09-01 18:09:23,1.54,OGS,None,34.50216667,-97.24183333,0,0.2828,0.2828,0.4,None,Oklahoma,Davis,Reviewed
 255,ogs2026rdji,2026-09-01 18:14:20,1.1,OGS,None,34.97466667,-96.059,4.87,0.495,0.495,1.3,None,Oklahoma,Stuart,Reviewed
 256,ogs2026rdnp,2026-09-01 20:24:25,0.59,OGS,None,35.024,-97.64033333,7.73,0.495,0.495,0.9,None,Oklahoma,Dibble,Reviewed
-257,ogs2026repq,2026-09-02 10:33:41,1.62,OGS,None,36.29166667,-97.51666667,8.3,0.1414,0.1414,1.0,None,Oklahoma,Lucien,Reviewed
-258,ogs2026rfbf,2026-09-02 16:24:57,2,OGS,None,35.028,-97.63916667,9.4,0.4243,0.4243,1.3,None,Oklahoma,Dibble,Reviewed
+257,ogs2026rdzw,2026-09-02 02:35:13,0.8,OGS,None,35.02033333,-97.63333333,9.09,0.2828,0.2828,0.7,None,Oklahoma,Dibble,Reviewed
+258,ogs2026rdzx,2026-09-02 02:35:25,1.12,OGS,None,35.02316667,-97.6185,14.84,0.6364,0.6364,1.3,None,Oklahoma,Dibble,Reviewed
+259,ogs2026rdzy,2026-09-02 02:37:39,0.89,OGS,None,34.97516667,-96.03733333,5.81,0.3536,0.3536,0.8,None,Oklahoma,Arpelar,Reviewed
+260,ogs2026rejl,2026-09-02 07:25:27,0.8,OGS,None,35.02516667,-97.6375,10.82,0.4243,0.4243,1.1,None,Oklahoma,Dibble,Reviewed
+261,ogs2026repq,2026-09-02 10:33:41,1.62,OGS,None,36.29166667,-97.51666667,8.3,0.1414,0.1414,1.0,None,Oklahoma,Lucien,Reviewed
+262,ogs2026rfbf,2026-09-02 16:24:57,2,OGS,None,35.028,-97.63916667,9.4,0.4243,0.4243,1.3,None,Oklahoma,Dibble,Reviewed
+263,ogs2026rfbk,2026-09-02 16:29:43,1.34,OGS,None,34.97633333,-96.04433333,5.96,0.2828,0.2828,0.7,None,Oklahoma,Arpelar,Reviewed
+264,ogs2026rfev,2026-09-02 18:13:16,1.03,OGS,None,34.37366667,-96.794,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
+265,ogs2026rgro,2026-09-03 13:48:18,1.5,OGS,None,35.01983333,-97.6465,7.14,0.2121,0.2121,0.4,None,Oklahoma,Dibble,Reviewed
