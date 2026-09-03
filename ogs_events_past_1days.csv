@@ -1,5 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026rfbf,2026-09-02 16:24:57,2,OGS,None,35.028,-97.63916667,9.4,0.4243,0.4243,1.3,None,Oklahoma,Dibble,Reviewed
-2,ogs2026rfbk,2026-09-02 16:29:43,1.34,OGS,None,34.97633333,-96.04433333,5.96,0.2828,0.2828,0.7,None,Oklahoma,Arpelar,Reviewed
-3,ogs2026rfev,2026-09-02 18:13:16,1.03,OGS,None,34.37366667,-96.794,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
-4,ogs2026rgro,2026-09-03 13:48:18,1.5,OGS,None,35.01983333,-97.6465,7.14,0.2121,0.2121,0.4,None,Oklahoma,Dibble,Reviewed
+1,ogs2026rgro,2026-09-03 13:48:18,1.5,OGS,None,35.01983333,-97.6465,7.14,0.2121,0.2121,0.4,None,Oklahoma,Dibble,Reviewed
+2,ogs2026rhad,2026-09-03 18:08:15,1.31,OGS,None,35.01183333,-97.64316667,7.15,0.2121,0.2121,0.3,None,Oklahoma,Dibble,Reviewed
