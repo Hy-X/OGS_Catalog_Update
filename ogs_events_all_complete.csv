@@ -68906,4 +68906,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68905,ogs2026rfev,2026-09-02 18:13:16,1.03,OGS,None,34.37366667,-96.794,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
 68906,ogs2026rgro,2026-09-03 13:48:18,1.5,OGS,None,35.01983333,-97.6465,7.14,0.2121,0.2121,0.4,None,Oklahoma,Dibble,Reviewed
 68907,ogs2026rhad,2026-09-03 18:08:15,1.31,OGS,None,35.01183333,-97.64316667,7.15,0.2121,0.2121,0.3,None,Oklahoma,Dibble,Reviewed
-68908,ogs2026ried,2026-09-04 09:17:01,3.6,OGS,4.445,35.01613998,-97.65157318,5,0.8439,0.9238,None,None,Oklahoma,Dibble,Automatic
+68908,ogs2026ried,2026-09-04 09:17:00,3.29,OGS,4.328,35.01333333,-97.63633333,10.24,0.1414,0.1414,0.6,None,Oklahoma,Dibble,Reviewed
