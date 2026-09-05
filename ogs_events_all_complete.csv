@@ -68907,3 +68907,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68906,ogs2026rgro,2026-09-03 13:48:18,1.5,OGS,None,35.01983333,-97.6465,7.14,0.2121,0.2121,0.4,None,Oklahoma,Dibble,Reviewed
 68907,ogs2026rhad,2026-09-03 18:08:15,1.31,OGS,None,35.01183333,-97.64316667,7.15,0.2121,0.2121,0.3,None,Oklahoma,Dibble,Reviewed
 68908,ogs2026ried,2026-09-04 09:17:00,3.29,OGS,4.328,35.01333333,-97.63633333,10.24,0.1414,0.1414,0.6,None,Oklahoma,Dibble,Reviewed
+68909,ogs2026rjbs,2026-09-04 21:11:27,1.68,OGS,None,34.69205093,-95.31313324,3.578235149,2.9051,3.3546,3.3041,None,Oklahoma,Tuskahoma,Automatic
