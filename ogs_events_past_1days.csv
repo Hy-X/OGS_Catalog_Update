@@ -1,3 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026ried,2026-09-04 09:17:00,3.29,OGS,4.328,35.01333333,-97.63633333,10.24,0.1414,0.1414,0.6,None,Oklahoma,Dibble,Reviewed
-2,ogs2026rjbs,2026-09-04 21:11:27,1.68,OGS,None,34.69205093,-95.31313324,3.578235149,2.9051,3.3546,3.3041,None,Oklahoma,Tuskahoma,Automatic
+1,ogs2026rjbs,2026-09-04 21:11:27,1.68,OGS,None,34.69205093,-95.31313324,3.578235149,2.9051,3.3546,3.3041,None,Oklahoma,Tuskahoma,Automatic
