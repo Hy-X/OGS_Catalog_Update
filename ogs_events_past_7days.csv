@@ -28,3 +28,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 27,ogs2026rkuq,2026-09-05 19:53:20,1.19,OGS,None,34.984,-96.02166667,7.01,0.2828,0.2828,0.7,None,Oklahoma,Arpelar,Reviewed
 28,ogs2026rlgh,2026-09-06 01:46:35,1.07,OGS,None,35.85,-97.19783333,8.78,0.0707,0.0707,0.4,None,Oklahoma,Meridian,Reviewed
 29,ogs2026rlxc,2026-09-06 10:19:49,0.93,OGS,None,35.01933333,-97.647,9.1,0.4243,0.4243,1.2,None,Oklahoma,Dibble,Reviewed
+30,ogs2026rqkr,2026-09-08 21:40:07,0.8,OGS,None,35.01483333,-97.709,11.17,1.4142,1.4142,3.2,None,Oklahoma,Dibble,Reviewed
