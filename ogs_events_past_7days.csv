@@ -1,35 +1,33 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026rdzw,2026-09-02 02:35:13,0.8,OGS,None,35.02033333,-97.63333333,9.09,0.2828,0.2828,0.7,None,Oklahoma,Dibble,Reviewed
-2,ogs2026rdzx,2026-09-02 02:35:25,1.12,OGS,None,35.02316667,-97.6185,14.84,0.6364,0.6364,1.3,None,Oklahoma,Dibble,Reviewed
-3,ogs2026rdzy,2026-09-02 02:37:39,0.89,OGS,None,34.97516667,-96.03733333,5.81,0.3536,0.3536,0.8,None,Oklahoma,Arpelar,Reviewed
-4,ogs2026rejl,2026-09-02 07:25:27,0.8,OGS,None,35.02516667,-97.6375,10.82,0.4243,0.4243,1.1,None,Oklahoma,Dibble,Reviewed
-5,ogs2026repq,2026-09-02 10:33:41,1.62,OGS,None,36.29166667,-97.51666667,8.3,0.1414,0.1414,1.0,None,Oklahoma,Lucien,Reviewed
-6,ogs2026rfbf,2026-09-02 16:24:57,2,OGS,None,35.028,-97.63916667,9.4,0.4243,0.4243,1.3,None,Oklahoma,Dibble,Reviewed
-7,ogs2026rfbk,2026-09-02 16:29:43,1.34,OGS,None,34.97633333,-96.04433333,5.96,0.2828,0.2828,0.7,None,Oklahoma,Arpelar,Reviewed
-8,ogs2026rfev,2026-09-02 18:13:16,1.03,OGS,None,34.37366667,-96.794,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
-9,ogs2026rfxr,2026-09-03 03:44:59,0.98,OGS,None,35.00866667,-97.637,7.88,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
-10,ogs2026rfzb,2026-09-03 04:27:14,1.21,OGS,None,34.98866667,-96.059,6.15,0.3536,0.3536,1.3,None,Oklahoma,Arpelar,Reviewed
-11,ogs2026rgdo,2026-09-03 06:43:53,0.66,OGS,None,35.0105,-97.64183333,7.08,0.3536,0.3536,0.8,None,Oklahoma,Dibble,Reviewed
-12,ogs2026rgro,2026-09-03 13:48:18,1.5,OGS,None,35.01983333,-97.6465,7.14,0.2121,0.2121,0.4,None,Oklahoma,Dibble,Reviewed
-13,ogs2026rgwo,2026-09-03 16:18:47,1.53,OGS,None,35.59483333,-95.102,0,0.495,0.495,0.5,None,Oklahoma,Notiechtown,Reviewed
-14,ogs2026rgzg,2026-09-03 17:40:24,1.26,OGS,None,36.24633333,-95.22266667,0,0.4243,0.4243,0.5,None,Oklahoma,Sportsmen Acres,Reviewed
-15,ogs2026rhad,2026-09-03 18:08:15,1.31,OGS,None,35.01183333,-97.64316667,7.15,0.2121,0.2121,0.3,None,Oklahoma,Dibble,Reviewed
-16,ogs2026rhbm,2026-09-03 18:48:33,1.44,OGS,None,36.00516667,-96.5165,0,0.2828,0.2828,0.4,None,Oklahoma,Drumright,Reviewed
-17,ogs2026rhfy,2026-09-03 21:03:49,1.55,OGS,None,35.02183333,-97.63033333,9.74,0.3536,0.3536,1.3,None,Oklahoma,Dibble,Reviewed
-18,ogs2026rhkp,2026-09-03 23:24:41,1.09,OGS,None,35.03783333,-97.66133333,12.62,0.5657,0.5657,1.3,None,Oklahoma,Dibble,Reviewed
-19,ogs2026rhom,2026-09-04 01:22:13,1.08,OGS,None,35.0275,-97.64683333,12.04,0.2121,0.2121,0.6,None,Oklahoma,Dibble,Reviewed
-20,ogs2026rhui,2026-09-04 04:19:38,0.96,OGS,None,35.62483333,-98.03233333,6.24,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-21,ogs2026rhvd,2026-09-04 04:44:02,1.16,OGS,None,35.0165,-97.643,9.3,0.2828,0.2828,1.0,None,Oklahoma,Dibble,Reviewed
-22,ogs2026rhzf,2026-09-04 06:48:04,0.77,OGS,None,35.01733333,-97.6425,9.28,0.3536,0.3536,0.9,None,Oklahoma,Dibble,Reviewed
-23,ogs2026ricu,2026-09-04 08:36:54,1.03,OGS,None,35.847,-97.2,8.08,0.1414,0.1414,0.4,None,Oklahoma,Meridian,Reviewed
-24,ogs2026ried,2026-09-04 09:17:00,3.29,OGS,4.328,35.01333333,-97.63633333,10.24,0.1414,0.1414,0.6,None,Oklahoma,Dibble,Reviewed
-25,ogs2026rifa,2026-09-04 09:43:41,0.85,OGS,None,36.46133333,-98.75,9.44,0.2121,0.2121,0.4,None,Oklahoma,Waynoka,Reviewed
-26,ogs2026rihx,2026-09-04 11:11:33,0.58,OGS,None,35.02916667,-97.643,12.36,0.2121,0.2121,0.5,None,Oklahoma,Dibble,Reviewed
-27,ogs2026risb,2026-09-04 16:18:48,0.86,OGS,None,35.00983333,-97.63216667,10.25,0.3536,0.3536,1.0,None,Oklahoma,Dibble,Reviewed
-28,ogs2026ritk,2026-09-04 17:00:30,0.95,OGS,None,36.4585,-96.79683333,0,0.4243,0.4243,0.5,None,Oklahoma,Ralston,Reviewed
-29,ogs2026ritv,2026-09-04 17:13:19,1.54,OGS,None,34.5045,-97.208,0,0.495,0.495,0.7,None,Oklahoma,Davis,Reviewed
-30,ogs2026rjbs,2026-09-04 21:11:27,1.68,OGS,None,34.71166667,-95.3015,21.11,0.2828,0.2828,1.0,None,Oklahoma,Tuskahoma,Reviewed
-31,ogs2026rjyu,2026-09-05 08:51:05,1.04,OGS,None,36.484,-98.7345,9.21,0.1414,0.1414,0.3,None,Oklahoma,Waynoka,Reviewed
-32,ogs2026rkuq,2026-09-05 19:53:20,1.19,OGS,None,34.984,-96.02166667,7.01,0.2828,0.2828,0.7,None,Oklahoma,Arpelar,Reviewed
-33,ogs2026rlgh,2026-09-06 01:46:35,1.07,OGS,None,35.85,-97.19783333,8.78,0.0707,0.0707,0.4,None,Oklahoma,Meridian,Reviewed
-34,ogs2026rlxc,2026-09-06 10:19:49,0.93,OGS,None,35.01933333,-97.647,9.1,0.4243,0.4243,1.2,None,Oklahoma,Dibble,Reviewed
+1,ogs2026rdzy,2026-09-02 02:37:39,0.89,OGS,None,34.97516667,-96.03733333,5.81,0.3536,0.3536,0.8,None,Oklahoma,Arpelar,Reviewed
+2,ogs2026rejl,2026-09-02 07:25:27,0.8,OGS,None,35.02516667,-97.6375,10.82,0.4243,0.4243,1.1,None,Oklahoma,Dibble,Reviewed
+3,ogs2026repq,2026-09-02 10:33:41,1.62,OGS,None,36.29166667,-97.51666667,8.3,0.1414,0.1414,1.0,None,Oklahoma,Lucien,Reviewed
+4,ogs2026rfbf,2026-09-02 16:24:57,2,OGS,None,35.028,-97.63916667,9.4,0.4243,0.4243,1.3,None,Oklahoma,Dibble,Reviewed
+5,ogs2026rfbk,2026-09-02 16:29:43,1.34,OGS,None,34.97633333,-96.04433333,5.96,0.2828,0.2828,0.7,None,Oklahoma,Arpelar,Reviewed
+6,ogs2026rfev,2026-09-02 18:13:16,1.03,OGS,None,34.37366667,-96.794,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
+7,ogs2026rfxr,2026-09-03 03:44:59,0.98,OGS,None,35.00866667,-97.637,7.88,0.4243,0.4243,0.7,None,Oklahoma,Dibble,Reviewed
+8,ogs2026rfzb,2026-09-03 04:27:14,1.21,OGS,None,34.98866667,-96.059,6.15,0.3536,0.3536,1.3,None,Oklahoma,Arpelar,Reviewed
+9,ogs2026rgdo,2026-09-03 06:43:53,0.66,OGS,None,35.0105,-97.64183333,7.08,0.3536,0.3536,0.8,None,Oklahoma,Dibble,Reviewed
+10,ogs2026rgro,2026-09-03 13:48:18,1.5,OGS,None,35.01983333,-97.6465,7.14,0.2121,0.2121,0.4,None,Oklahoma,Dibble,Reviewed
+11,ogs2026rgwo,2026-09-03 16:18:47,1.53,OGS,None,35.59483333,-95.102,0,0.495,0.495,0.5,None,Oklahoma,Notiechtown,Reviewed
+12,ogs2026rgzg,2026-09-03 17:40:24,1.26,OGS,None,36.24633333,-95.22266667,0,0.4243,0.4243,0.5,None,Oklahoma,Sportsmen Acres,Reviewed
+13,ogs2026rhad,2026-09-03 18:08:15,1.31,OGS,None,35.01183333,-97.64316667,7.15,0.2121,0.2121,0.3,None,Oklahoma,Dibble,Reviewed
+14,ogs2026rhbm,2026-09-03 18:48:33,1.44,OGS,None,36.00516667,-96.5165,0,0.2828,0.2828,0.4,None,Oklahoma,Drumright,Reviewed
+15,ogs2026rhfy,2026-09-03 21:03:49,1.55,OGS,None,35.02183333,-97.63033333,9.74,0.3536,0.3536,1.3,None,Oklahoma,Dibble,Reviewed
+16,ogs2026rhkp,2026-09-03 23:24:41,1.09,OGS,None,35.03783333,-97.66133333,12.62,0.5657,0.5657,1.3,None,Oklahoma,Dibble,Reviewed
+17,ogs2026rhom,2026-09-04 01:22:13,1.08,OGS,None,35.0275,-97.64683333,12.04,0.2121,0.2121,0.6,None,Oklahoma,Dibble,Reviewed
+18,ogs2026rhui,2026-09-04 04:19:38,0.96,OGS,None,35.62483333,-98.03233333,6.24,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+19,ogs2026rhvd,2026-09-04 04:44:02,1.16,OGS,None,35.0165,-97.643,9.3,0.2828,0.2828,1.0,None,Oklahoma,Dibble,Reviewed
+20,ogs2026rhzf,2026-09-04 06:48:04,0.77,OGS,None,35.01733333,-97.6425,9.28,0.3536,0.3536,0.9,None,Oklahoma,Dibble,Reviewed
+21,ogs2026ricu,2026-09-04 08:36:54,1.03,OGS,None,35.847,-97.2,8.08,0.1414,0.1414,0.4,None,Oklahoma,Meridian,Reviewed
+22,ogs2026ried,2026-09-04 09:17:00,3.29,OGS,4.328,35.01333333,-97.63633333,10.24,0.1414,0.1414,0.6,None,Oklahoma,Dibble,Reviewed
+23,ogs2026rifa,2026-09-04 09:43:41,0.85,OGS,None,36.46133333,-98.75,9.44,0.2121,0.2121,0.4,None,Oklahoma,Waynoka,Reviewed
+24,ogs2026rihx,2026-09-04 11:11:33,0.58,OGS,None,35.02916667,-97.643,12.36,0.2121,0.2121,0.5,None,Oklahoma,Dibble,Reviewed
+25,ogs2026risb,2026-09-04 16:18:48,0.86,OGS,None,35.00983333,-97.63216667,10.25,0.3536,0.3536,1.0,None,Oklahoma,Dibble,Reviewed
+26,ogs2026ritk,2026-09-04 17:00:30,0.95,OGS,None,36.4585,-96.79683333,0,0.4243,0.4243,0.5,None,Oklahoma,Ralston,Reviewed
+27,ogs2026ritv,2026-09-04 17:13:19,1.54,OGS,None,34.5045,-97.208,0,0.495,0.495,0.7,None,Oklahoma,Davis,Reviewed
+28,ogs2026rjbs,2026-09-04 21:11:27,1.68,OGS,None,34.71166667,-95.3015,21.11,0.2828,0.2828,1.0,None,Oklahoma,Tuskahoma,Reviewed
+29,ogs2026rjyu,2026-09-05 08:51:05,1.04,OGS,None,36.484,-98.7345,9.21,0.1414,0.1414,0.3,None,Oklahoma,Waynoka,Reviewed
+30,ogs2026rkuq,2026-09-05 19:53:20,1.19,OGS,None,34.984,-96.02166667,7.01,0.2828,0.2828,0.7,None,Oklahoma,Arpelar,Reviewed
+31,ogs2026rlgh,2026-09-06 01:46:35,1.07,OGS,None,35.85,-97.19783333,8.78,0.0707,0.0707,0.4,None,Oklahoma,Meridian,Reviewed
+32,ogs2026rlxc,2026-09-06 10:19:49,0.93,OGS,None,35.01933333,-97.647,9.1,0.4243,0.4243,1.2,None,Oklahoma,Dibble,Reviewed
