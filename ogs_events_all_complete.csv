@@ -68931,5 +68931,10 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68930,ogs2026rlgh,2026-09-06 01:46:35,1.07,OGS,None,35.85,-97.19783333,8.78,0.0707,0.0707,0.4,None,Oklahoma,Meridian,Reviewed
 68931,ogs2026rlxc,2026-09-06 10:19:49,0.93,OGS,None,35.01933333,-97.647,9.1,0.4243,0.4243,1.2,None,Oklahoma,Dibble,Reviewed
 68932,ogs2026rqkr,2026-09-08 21:40:07,0.8,OGS,None,35.01483333,-97.709,11.17,1.4142,1.4142,3.2,None,Oklahoma,Dibble,Reviewed
-68933,ogs2026rsnh,2026-09-10 01:15:57,2.37,OGS,None,35.941,-97.881,4.73,0.0707,0.0707,0.3,None,Oklahoma,Dover,Reviewed
-68934,ogs2026rtak,2026-09-10 07:53:34,2.51,OGS,None,35.95388412,-97.8762207,0.9233142734,0.9096,0.8414,1.0667,None,Oklahoma,Dover,Automatic
+68933,ogs2026rqrs,2026-09-09 01:14:18,1.15,OGS,None,35.04616667,-97.93883333,9.84,0.495,0.495,1.2,None,Oklahoma,Chickasha,Reviewed
+68934,ogs2026rrun,2026-09-09 15:47:08,1.24,OGS,None,36.623,-95.0435,0,0.6364,0.6364,0.6,None,Oklahoma,Cleora,Reviewed
+68935,ogs2026rruz,2026-09-09 16:00:55,1.69,OGS,None,35.80166667,-95.03666667,0,0.495,0.495,0.5,None,Oklahoma,Zeb,Reviewed
+68936,ogs2026rryb,2026-09-09 17:34:47,1.47,OGS,None,35.6005,-95.0815,0,0.3536,0.3536,0.5,None,Oklahoma,Notiechtown,Reviewed
+68937,ogs2026rsgn,2026-09-09 21:51:22,1.01,OGS,None,34.49933333,-97.29,0,0.495,0.495,0.7,None,Oklahoma,Katie,Reviewed
+68938,ogs2026rsnh,2026-09-10 01:15:57,2.37,OGS,None,35.941,-97.881,4.73,0.0707,0.0707,0.3,None,Oklahoma,Dover,Reviewed
+68939,ogs2026rtak,2026-09-10 07:53:33,2.2,OGS,None,35.94316667,-97.8785,5.31,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
