@@ -1,2 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026rqkr,2026-09-08 21:40:07,0.8,OGS,None,35.01483333,-97.709,11.17,1.4142,1.4142,3.2,None,Oklahoma,Dibble,Reviewed
+1,ogs2026rsnh,2026-09-10 01:15:58,2.73,OGS,None,35.95297241,-97.89131927,5,0.877,0.8912,None,None,Oklahoma,Dover,Automatic
