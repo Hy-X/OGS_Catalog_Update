@@ -68947,3 +68947,6 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68946,ogs2026rtnc,2026-09-10 14:18:59,1.06,OGS,None,35.86133333,-96.68516667,7.54,0.1414,0.1414,0.3,None,Oklahoma,Shamrock,Reviewed
 68947,ogs2026rtpo,2026-09-10 15:33:32,1.31,OGS,None,36.2375,-95.22566667,0,0.3536,0.3536,0.4,None,Oklahoma,Sportsmen Acres,Reviewed
 68948,ogs2026rtvs,2026-09-10 18:39:21,1.48,OGS,None,36.24233333,-95.82216667,0,0.9899,0.9899,0.8,None,Oklahoma,Owasso,Reviewed
+68949,ogs2026rvlu,2026-09-11 15:55:14,1.43,OGS,None,35.7975,-95.02966667,0,0.4243,0.4243,0.5,None,Oklahoma,Zeb,Reviewed
+68950,ogs2026rvmb,2026-09-11 16:03:47,1.48,OGS,None,35.9085,-95.16616667,0,0.9192,0.9192,0.7,None,Oklahoma,Hulbert,Reviewed
+68951,ogs2026rvrx,2026-09-11 19:00:21,1.64,OGS,None,36.2035,-95.85733333,0,0.3536,0.3536,0.4,None,Oklahoma,Owasso,Reviewed
