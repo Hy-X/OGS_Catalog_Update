@@ -1,3 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026rtak,2026-09-10 07:53:33,2.2,OGS,None,35.94316667,-97.8785,5.31,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
-2,ogs2026rtpo,2026-09-10 15:33:32,1.31,OGS,None,36.2375,-95.22566667,0,0.3536,0.3536,0.4,None,Oklahoma,Sportsmen Acres,Reviewed
+1,ogs2026rtpo,2026-09-10 15:33:32,1.31,OGS,None,36.2375,-95.22566667,0,0.3536,0.3536,0.4,None,Oklahoma,Sportsmen Acres,Reviewed
