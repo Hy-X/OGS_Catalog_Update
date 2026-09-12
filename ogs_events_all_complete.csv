@@ -68950,3 +68950,5 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68949,ogs2026rvlu,2026-09-11 15:55:14,1.43,OGS,None,35.7975,-95.02966667,0,0.4243,0.4243,0.5,None,Oklahoma,Zeb,Reviewed
 68950,ogs2026rvmb,2026-09-11 16:03:47,1.48,OGS,None,35.9085,-95.16616667,0,0.9192,0.9192,0.7,None,Oklahoma,Hulbert,Reviewed
 68951,ogs2026rvrx,2026-09-11 19:00:21,1.64,OGS,None,36.2035,-95.85733333,0,0.3536,0.3536,0.4,None,Oklahoma,Owasso,Reviewed
+68952,ogs2026rwas,2026-09-11 23:27:37,2.9,OGS,None,35.79683333,-96.6525,7.6,0.1414,0.1414,0.3,None,Oklahoma,Stroud,Reviewed
+68953,ogs2026rwfu,2026-09-12 02:01:07,2.36,OGS,None,36.33774567,-98.17154694,0.4843016267,1.2194,1.1185,1.3331,None,Oklahoma,Meno,Automatic
