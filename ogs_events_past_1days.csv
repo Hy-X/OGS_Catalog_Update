@@ -1,3 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026rzrw,2026-09-13 23:32:06,0.92,OGS,None,35.038,-97.95283333,10.41,0.495,0.495,0.9,None,Oklahoma,Chickasha,Reviewed
-2,ogs2026rzyh,2026-09-14 02:47:11,1.25,OGS,None,35.52916667,-96.76783333,10.06,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
