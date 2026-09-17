@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026sdme,2026-09-16 01:13:14,1.28,OGS,None,35.6085,-98.045,6.85,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
