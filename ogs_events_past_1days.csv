@@ -1,2 +1,6 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026sggo,2026-09-17 13:46:26,2.2,OGS,None,36.51133333,-97.20066667,9.72,0.1414,0.1414,2.0,None,Oklahoma,Red Rock,Reviewed
+1,ogs2026sffc,2026-09-16 23:54:33,0.61,OGS,None,35.79733333,-96.65516667,7.75,0.1414,0.1414,0.4,None,Oklahoma,Stroud,Reviewed
+2,ogs2026sggo,2026-09-17 13:46:26,2.2,OGS,None,36.51133333,-97.20066667,9.72,0.1414,0.1414,2.0,None,Oklahoma,Red Rock,Reviewed
+3,ogs2026sgoc,2026-09-17 17:35:01,1.44,OGS,None,34.49716667,-96.85416667,0,0.4243,0.4243,0.5,None,Oklahoma,Hickory,Reviewed
+4,ogs2026sgpe,2026-09-17 18:07:09,1.18,OGS,None,34.3785,-96.84866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
+5,ogs2026sgrf,2026-09-17 19:09:51,1.47,OGS,None,36.00866667,-96.53433333,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
