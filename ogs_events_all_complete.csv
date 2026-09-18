@@ -68980,7 +68980,14 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68979,ogs2026sdvv,2026-09-16 06:04:46,0.71,OGS,None,35.26533333,-97.61033333,11.6,0.8485,0.8485,3.1,None,Oklahoma,Newcastle,Reviewed
 68980,ogs2026sesi,2026-09-16 17:26:49,1.31,OGS,None,36.23466667,-95.2265,0,0.6364,0.6364,0.6,None,Oklahoma,Sportsmen Acres,Reviewed
 68981,ogs2026sffc,2026-09-16 23:54:33,0.61,OGS,None,35.79733333,-96.65516667,7.75,0.1414,0.1414,0.4,None,Oklahoma,Stroud,Reviewed
-68982,ogs2026sggo,2026-09-17 13:46:26,2.2,OGS,None,36.51133333,-97.20066667,9.72,0.1414,0.1414,2.0,None,Oklahoma,Red Rock,Reviewed
-68983,ogs2026sgoc,2026-09-17 17:35:01,1.44,OGS,None,34.49716667,-96.85416667,0,0.4243,0.4243,0.5,None,Oklahoma,Hickory,Reviewed
-68984,ogs2026sgpe,2026-09-17 18:07:09,1.18,OGS,None,34.3785,-96.84866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
-68985,ogs2026sgrf,2026-09-17 19:09:51,1.47,OGS,None,36.00866667,-96.53433333,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+68982,ogs2026sfse,2026-09-17 06:30:03,0.66,OGS,None,35.65166667,-98.49866667,25,0.8485,0.8485,2.3,None,Oklahoma,Hydro,Reviewed
+68983,ogs2026sgba,2026-09-17 10:58:59,1.07,OGS,None,36.75433333,-95.207,6,0.3536,0.3536,1.7,None,Oklahoma,Bluejacket,Reviewed
+68984,ogs2026sggo,2026-09-17 13:46:26,2.2,OGS,None,36.51133333,-97.20066667,9.72,0.1414,0.1414,2.0,None,Oklahoma,Red Rock,Reviewed
+68985,ogs2026sgnw,2026-09-17 17:27:52,1.28,OGS,None,36.24483333,-95.82866667,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
+68986,ogs2026sgoc,2026-09-17 17:35:01,1.44,OGS,None,34.49716667,-96.85416667,0,0.4243,0.4243,0.5,None,Oklahoma,Hickory,Reviewed
+68987,ogs2026sgpe,2026-09-17 18:07:09,1.18,OGS,None,34.3785,-96.84866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
+68988,ogs2026sgrf,2026-09-17 19:09:51,1.47,OGS,None,36.00866667,-96.53433333,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+68989,ogs2026sgxj,2026-09-17 22:16:25,1.38,OGS,None,35.80033333,-97.88666667,7.66,0.2828,0.2828,0.7,None,Oklahoma,Kingfisher,Reviewed
+68990,ogs2026shqd,2026-09-18 07:45:06,0.66,OGS,None,36.507,-97.196,6,0.2121,0.2121,0.5,None,Oklahoma,Red Rock,Reviewed
+68991,ogs2026shzj,2026-09-18 12:24:27,1.33,OGS,None,35.62083333,-98.03433333,6,0.2121,0.2121,0.3,None,Oklahoma,Calumet,Reviewed
+68992,ogs2026sias,2026-09-18 13:05:51,1.75,OGS,None,35.62133333,-98.0375,6,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
