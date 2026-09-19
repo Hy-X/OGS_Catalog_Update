@@ -68991,3 +68991,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68990,ogs2026shqd,2026-09-18 07:45:06,0.66,OGS,None,36.507,-97.196,6,0.2121,0.2121,0.5,None,Oklahoma,Red Rock,Reviewed
 68991,ogs2026shzj,2026-09-18 12:24:27,1.33,OGS,None,35.62083333,-98.03433333,6,0.2121,0.2121,0.3,None,Oklahoma,Calumet,Reviewed
 68992,ogs2026sias,2026-09-18 13:05:51,1.75,OGS,None,35.62133333,-98.0375,6,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
+68993,ogs2026sirg,2026-09-18 21:26:29,2.14,OGS,None,36.37624359,-95.44998169,5,7.8871,4.804,None,None,Oklahoma,Foyil,Automatic
