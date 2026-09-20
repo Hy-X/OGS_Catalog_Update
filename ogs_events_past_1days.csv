@@ -1,3 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026sirg,2026-09-18 21:26:29,2.14,OGS,None,36.37624359,-95.44998169,5,7.8871,4.804,None,None,Oklahoma,Foyil,Automatic
-2,ogs2026sjkk,2026-09-19 07:08:06,2.26,OGS,None,34.67452621,-95.96624756,5,1.4583,1.4135,None,None,Oklahoma,Wardville,Automatic
+1,ogs2026sjkk,2026-09-19 07:08:06,2.26,OGS,None,34.67452621,-95.96624756,5,1.4583,1.4135,None,None,Oklahoma,Wardville,Automatic
+2,ogs2026skmd,2026-09-19 21:08:41,2.18,OGS,None,35.536,-96.76616667,11.26,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
