@@ -158,6 +158,18 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 157,ogs2026shqd,2026-09-18 07:45:06,0.66,OGS,None,36.507,-97.196,6,0.2121,0.2121,0.5,None,Oklahoma,Red Rock,Reviewed
 158,ogs2026shzj,2026-09-18 12:24:27,1.33,OGS,None,35.62083333,-98.03433333,6,0.2121,0.2121,0.3,None,Oklahoma,Calumet,Reviewed
 159,ogs2026sias,2026-09-18 13:05:51,1.75,OGS,None,35.62133333,-98.0375,6,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
-160,ogs2026sirg,2026-09-18 21:26:29,2.14,OGS,None,36.37624359,-95.44998169,5,7.8871,4.804,None,None,Oklahoma,Foyil,Automatic
-161,ogs2026sjkk,2026-09-19 07:08:06,2.26,OGS,None,34.67452621,-95.96624756,5,1.4583,1.4135,None,None,Oklahoma,Wardville,Automatic
-162,ogs2026skmd,2026-09-19 21:08:41,2.18,OGS,None,35.536,-96.76616667,11.26,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+160,ogs2026silu,2026-09-18 18:42:10,0.69,OGS,None,35.61983333,-98.0345,7,0.495,0.495,0.9,None,Oklahoma,Calumet,Reviewed
+161,ogs2026siqs,2026-09-18 21:10:58,1.18,OGS,None,34.31333333,-96.44316667,0,0.7071,0.7071,0.8,None,Oklahoma,Wapanucka,Reviewed
+162,ogs2026sirg,2026-09-18 21:26:35,1.36,OGS,None,36.20183333,-95.864,0,0.495,0.495,0.5,None,Oklahoma,Owasso,Reviewed
+163,ogs2026sixz,2026-09-19 00:50:49,1.04,OGS,None,35.79166667,-97.891,7.77,0.2828,0.2828,0.6,None,Oklahoma,Kingfisher,Reviewed
+164,ogs2026sizq,2026-09-19 01:41:05,0.15,OGS,None,36.52766667,-97.0685,4.58,0.2121,0.2121,1.0,None,Oklahoma,Marland,Reviewed
+165,ogs2026sjdc,2026-09-19 03:26:33,1.79,OGS,None,34.78366667,-99.20766667,5,0.7071,0.7071,2.0,None,Oklahoma,Friendship,Reviewed
+166,ogs2026sjkk,2026-09-19 07:08:05,2.04,OGS,None,34.69033333,-95.99033333,2.32,0.2828,0.2828,0.8,None,Oklahoma,Wardville,Reviewed
+167,ogs2026sjmu,2026-09-19 08:19:57,0.97,OGS,None,35.40683333,-98.1835,9.51,0.495,0.495,1.7,None,Oklahoma,Hinton,Reviewed
+168,ogs2026sjrl,2026-09-19 10:40:55,0.59,OGS,None,35.62166667,-98.05566667,7.1,1.2728,1.2728,1.6,None,Oklahoma,Calumet,Reviewed
+169,ogs2026skly,2026-09-19 21:02:13,1.44,OGS,None,34.97233333,-97.89366667,10.1,0.5657,0.5657,1.2,None,Oklahoma,Ninnekah,Reviewed
+170,ogs2026skmd,2026-09-19 21:08:41,2.18,OGS,None,35.536,-96.76616667,11.26,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+171,ogs2026skoa,2026-09-19 22:05:06,1.28,OGS,None,35.5345,-96.76216667,11.01,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+172,ogs2026skvz,2026-09-20 02:06:41,1.19,OGS,None,36.5315,-97.06616667,4.76,0.1414,0.1414,0.3,None,Oklahoma,Marland,Reviewed
+173,ogs2026skzv,2026-09-20 04:03:12,1.11,OGS,None,34.9025,-96.78983333,16.17,0.1414,0.1414,0.4,None,Oklahoma,Konawa,Reviewed
+174,ogs2026sloi,2026-09-20 11:22:22,1.01,OGS,None,35.61083333,-98.04833333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
