@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026skmd,2026-09-19 21:08:41,2.18,OGS,None,35.536,-96.76616667,11.26,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
