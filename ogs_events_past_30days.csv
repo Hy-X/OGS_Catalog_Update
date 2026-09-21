@@ -172,4 +172,8 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 171,ogs2026skoa,2026-09-19 22:05:06,1.28,OGS,None,35.5345,-96.76216667,11.01,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
 172,ogs2026skvz,2026-09-20 02:06:41,1.19,OGS,None,36.5315,-97.06616667,4.76,0.1414,0.1414,0.3,None,Oklahoma,Marland,Reviewed
 173,ogs2026skzv,2026-09-20 04:03:12,1.11,OGS,None,34.9025,-96.78983333,16.17,0.1414,0.1414,0.4,None,Oklahoma,Konawa,Reviewed
-174,ogs2026sloi,2026-09-20 11:22:22,1.01,OGS,None,35.61083333,-98.04833333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+174,ogs2026slbd,2026-09-20 04:43:23,1.87,OGS,None,35.6115,-98.04666667,6.47,0.0707,0.0707,0.1,None,Oklahoma,Calumet,Reviewed
+175,ogs2026slel,2026-09-20 06:22:55,1.34,OGS,None,35.6085,-98.046,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+176,ogs2026sloi,2026-09-20 11:22:22,1.01,OGS,None,35.61083333,-98.04833333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+177,ogs2026slpx,2026-09-20 12:10:21,0.78,OGS,None,35.79,-96.99566667,6.41,0.1414,0.1414,0.3,None,Oklahoma,Carney,Reviewed
+178,ogs2026slzy,2026-09-20 17:14:35,1.02,OGS,None,35.93683333,-97.8905,7.37,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
