@@ -69010,3 +69010,8 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69009,ogs2026sloi,2026-09-20 11:22:22,1.01,OGS,None,35.61083333,-98.04833333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
 69010,ogs2026slpx,2026-09-20 12:10:21,0.78,OGS,None,35.79,-96.99566667,6.41,0.1414,0.1414,0.3,None,Oklahoma,Carney,Reviewed
 69011,ogs2026slzy,2026-09-20 17:14:35,1.02,OGS,None,35.93683333,-97.8905,7.37,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
+69012,ogs2026sntk,2026-09-21 16:12:36,1.44,OGS,None,35.596,-95.08883333,0,0.3536,0.3536,0.4,None,Oklahoma,Notiechtown,Reviewed
+69013,ogs2026sntl,2026-09-21 16:13:49,1.18,OGS,None,36.73883333,-94.80733333,0,0.7778,0.7778,0.6,None,Oklahoma,Fairland,Reviewed
+69014,ogs2026snxy,2026-09-21 18:30:03,1.42,OGS,None,35.90366667,-95.1705,0,0.5657,0.5657,0.6,None,Oklahoma,Hulbert,Reviewed
+69015,ogs2026snyu,2026-09-21 18:55:46,1.19,OGS,None,34.50966667,-97.26666667,0,0.5657,0.5657,0.7,None,Oklahoma,Katie,Reviewed
+69016,ogs2026snzc,2026-09-21 19:06:03,1.2,OGS,None,34.37316667,-96.98916667,0,0.495,0.495,0.6,None,Oklahoma,Dougherty,Reviewed
