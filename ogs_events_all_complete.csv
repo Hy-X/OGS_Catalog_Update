@@ -69015,4 +69015,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69014,ogs2026snxy,2026-09-21 18:30:03,1.42,OGS,None,35.90366667,-95.1705,0,0.5657,0.5657,0.6,None,Oklahoma,Hulbert,Reviewed
 69015,ogs2026snyu,2026-09-21 18:55:46,1.19,OGS,None,34.50966667,-97.26666667,0,0.5657,0.5657,0.7,None,Oklahoma,Katie,Reviewed
 69016,ogs2026snzc,2026-09-21 19:06:03,1.2,OGS,None,34.37316667,-96.98916667,0,0.495,0.495,0.6,None,Oklahoma,Dougherty,Reviewed
-69017,ogs2026sqcd,2026-09-22 22:54:59,1.93,OGS,None,35.40733719,-98.27520752,0.6530386209,2.75,2.5447,3.1348,None,Oklahoma,Lookeba,Automatic
+69017,ogs2026sqcd,2026-09-22 22:54:58,1.47,OGS,None,35.43466667,-98.25683333,6.8,0.4243,0.4243,0.7,None,Oklahoma,Hinton,Reviewed

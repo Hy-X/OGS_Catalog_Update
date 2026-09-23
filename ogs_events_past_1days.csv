@@ -1,2 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026sqcd,2026-09-22 22:54:59,1.93,OGS,None,35.40733719,-98.27520752,0.6530386209,2.75,2.5447,3.1348,None,Oklahoma,Lookeba,Automatic
+1,ogs2026sqcd,2026-09-22 22:54:58,1.47,OGS,None,35.43466667,-98.25683333,6.8,0.4243,0.4243,0.7,None,Oklahoma,Hinton,Reviewed
