@@ -69016,3 +69016,8 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69015,ogs2026snyu,2026-09-21 18:55:46,1.19,OGS,None,34.50966667,-97.26666667,0,0.5657,0.5657,0.7,None,Oklahoma,Katie,Reviewed
 69016,ogs2026snzc,2026-09-21 19:06:03,1.2,OGS,None,34.37316667,-96.98916667,0,0.495,0.495,0.6,None,Oklahoma,Dougherty,Reviewed
 69017,ogs2026sqcd,2026-09-22 22:54:58,1.47,OGS,None,35.43466667,-98.25683333,6.8,0.4243,0.4243,0.7,None,Oklahoma,Hinton,Reviewed
+69018,ogs2026sqgq,2026-09-23 01:10:43,0.9,OGS,None,35.42783333,-98.26266667,3.58,0.495,0.495,1.0,None,Oklahoma,Hinton,Reviewed
+69019,ogs2026srnb,2026-09-23 17:33:16,1.3,OGS,None,36.25916667,-95.23,0,0.3536,0.3536,0.4,None,Oklahoma,Sportsmen Acres,Reviewed
+69020,ogs2026srrv,2026-09-23 19:57:36,1.32,OGS,None,35.826,-98.41233333,6,0.2828,0.2828,0.7,None,Oklahoma,Watonga,Reviewed
+69021,ogs2026sryo,2026-09-23 23:21:42,0.88,OGS,None,35.02316667,-97.8865,8.44,0.6364,0.6364,1.3,None,Oklahoma,Chickasha,Reviewed
+69022,ogs2026ssnb,2026-09-24 06:41:36,1.31,OGS,None,35.0315,-97.87833333,8.46,0.3536,0.3536,1.3,None,Oklahoma,Chickasha,Reviewed
