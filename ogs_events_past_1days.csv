@@ -1,3 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026stkj,2026-09-24 18:27:41,1.52,OGS,None,36.009,-96.53033333,0,0.3536,0.3536,0.5,None,Oklahoma,Drumright,Reviewed
-2,ogs2026stnj,2026-09-24 19:58:54,1.46,OGS,None,34.47033333,-96.83866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
+1,ogs2026svfd,2026-09-25 18:05:49,1.6,OGS,None,36.204,-95.843,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
