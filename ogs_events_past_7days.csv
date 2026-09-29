@@ -22,3 +22,8 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 21,ogs2026sywq,2026-09-27 18:20:18,1.07,OGS,None,34.542,-97.47783333,2,0.3536,0.3536,1.3,None,Oklahoma,Tatums,Reviewed
 22,ogs2026syzp,2026-09-27 19:50:47,1.08,OGS,None,34.533,-97.47066667,2,0.4243,0.4243,1.4,None,Oklahoma,Tatums,Reviewed
 23,ogs2026szdc,2026-09-27 21:36:51,1.1,OGS,None,34.52583333,-97.47466667,5,0.4243,0.4243,1.0,None,Oklahoma,Tatums,Reviewed
+24,ogs2026szyp,2026-09-28 08:28:15,1.36,OGS,None,34.52416667,-97.46083333,2.65,0.495,0.495,1.2,None,Oklahoma,Tatums,Reviewed
+25,ogs2026taca,2026-09-28 10:12:37,0.98,OGS,None,34.52416667,-97.47333333,4.43,0.7778,0.7778,1.4,None,Oklahoma,Tatums,Reviewed
+26,ogs2026tafp,2026-09-28 12:00:08,1.03,OGS,None,34.53133333,-97.47733333,0.96,0.6364,0.6364,0.5,None,Oklahoma,Tatums,Reviewed
+27,ogs2026tamq,2026-09-28 15:33:30,1.26,OGS,None,36.253,-95.84,0,0.6364,0.6364,0.5,None,Oklahoma,Owasso,Reviewed
+28,ogs2026tasq,2026-09-28 18:36:02,1.79,OGS,None,35.79283333,-94.75516667,0,0.6364,0.6364,0.8,None,Oklahoma,Rocky Mountain,Reviewed
