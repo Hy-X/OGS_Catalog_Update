@@ -25,3 +25,7 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 24,ogs2026tafp,2026-09-28 12:00:08,1.03,OGS,None,34.53133333,-97.47733333,0.96,0.6364,0.6364,0.5,None,Oklahoma,Tatums,Reviewed
 25,ogs2026tamq,2026-09-28 15:33:30,1.26,OGS,None,36.253,-95.84,0,0.6364,0.6364,0.5,None,Oklahoma,Owasso,Reviewed
 26,ogs2026tasq,2026-09-28 18:36:02,1.79,OGS,None,35.79283333,-94.75516667,0,0.6364,0.6364,0.8,None,Oklahoma,Rocky Mountain,Reviewed
+27,ogs2026tbgp,2026-09-29 01:39:28,0.97,OGS,None,34.53016667,-97.4725,5.54,0.4243,0.4243,0.8,None,Oklahoma,Tatums,Reviewed
+28,ogs2026tbsz,2026-09-29 07:54:06,1.12,OGS,None,34.53516667,-97.47266667,6,0.6364,0.6364,1.2,None,Oklahoma,Tatums,Reviewed
+29,ogs2026tcog,2026-09-29 18:39:26,1.31,OGS,None,34.53883333,-97.469,5.89,0.7071,0.7071,1.2,None,Oklahoma,Tatums,Reviewed
+30,ogs2026teha,2026-09-30 17:16:00,2,OGS,None,35.85915756,-96.67835999,3.900604486,1.649,2.3934,2.5527,None,Oklahoma,Shamrock,Automatic
