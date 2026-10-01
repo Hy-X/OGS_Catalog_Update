@@ -69047,3 +69047,5 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69046,ogs2026tbsz,2026-09-29 07:54:06,1.12,OGS,None,34.53516667,-97.47266667,6,0.6364,0.6364,1.2,None,Oklahoma,Tatums,Reviewed
 69047,ogs2026tcog,2026-09-29 18:39:26,1.31,OGS,None,34.53883333,-97.469,5.89,0.7071,0.7071,1.2,None,Oklahoma,Tatums,Reviewed
 69048,ogs2026teha,2026-09-30 17:16:00,1.99,OGS,None,35.86116667,-96.68533333,7.94,0.1414,0.1414,0.4,None,Oklahoma,Shamrock,Reviewed
+69049,ogs2026tenq,2026-09-30 20:36:33,1.49,OGS,None,34.29633333,-96.3815,0,0.495,0.495,0.5,None,Oklahoma,Wapanucka,Reviewed
+69050,ogs2026tftz,2026-10-01 13:02:13,1.42,OGS,None,35.8605,-96.68416667,7.48,0.1414,0.1414,0.5,None,Oklahoma,Shamrock,Reviewed
