@@ -68919,7 +68919,7 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 68918,ogs2026rhvd,2026-09-04 04:44:02,1.16,OGS,None,35.0165,-97.643,9.3,0.2828,0.2828,1.0,None,Oklahoma,Dibble,Reviewed
 68919,ogs2026rhzf,2026-09-04 06:48:04,0.77,OGS,None,35.01733333,-97.6425,9.28,0.3536,0.3536,0.9,None,Oklahoma,Dibble,Reviewed
 68920,ogs2026ricu,2026-09-04 08:36:54,1.03,OGS,None,35.847,-97.2,8.08,0.1414,0.1414,0.4,None,Oklahoma,Meridian,Reviewed
-68921,ogs2026ried,2026-09-04 09:17:00,3.29,OGS,4.328,35.01333333,-97.63633333,10.24,0.1414,0.1414,0.6,None,Oklahoma,Dibble,Reviewed
+68921,ogs2026ried,2026-09-04 09:17:00,3.29,OGS,4.515,35.01333333,-97.63633333,10.24,0.1414,0.1414,0.6,None,Oklahoma,Dibble,Reviewed
 68922,ogs2026rifa,2026-09-04 09:43:41,0.85,OGS,None,36.46133333,-98.75,9.44,0.2121,0.2121,0.4,None,Oklahoma,Waynoka,Reviewed
 68923,ogs2026rihx,2026-09-04 11:11:33,0.58,OGS,None,35.02916667,-97.643,12.36,0.2121,0.2121,0.5,None,Oklahoma,Dibble,Reviewed
 68924,ogs2026risb,2026-09-04 16:18:48,0.86,OGS,None,35.00983333,-97.63216667,10.25,0.3536,0.3536,1.0,None,Oklahoma,Dibble,Reviewed
