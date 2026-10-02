@@ -69048,4 +69048,9 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69047,ogs2026tcog,2026-09-29 18:39:26,1.31,OGS,None,34.53883333,-97.469,5.89,0.7071,0.7071,1.2,None,Oklahoma,Tatums,Reviewed
 69048,ogs2026teha,2026-09-30 17:16:00,1.99,OGS,None,35.86116667,-96.68533333,7.94,0.1414,0.1414,0.4,None,Oklahoma,Shamrock,Reviewed
 69049,ogs2026tenq,2026-09-30 20:36:33,1.49,OGS,None,34.29633333,-96.3815,0,0.495,0.495,0.5,None,Oklahoma,Wapanucka,Reviewed
-69050,ogs2026tftz,2026-10-01 13:02:13,1.42,OGS,None,35.8605,-96.68416667,7.48,0.1414,0.1414,0.5,None,Oklahoma,Shamrock,Reviewed
+69050,ogs2026tewx,2026-10-01 01:17:50,0.78,OGS,None,34.83783333,-96.35416667,22.25,0.2121,0.2121,0.7,None,Oklahoma,Gerty,Reviewed
+69051,ogs2026tfmr,2026-10-01 09:15:20,0.85,OGS,None,35.54016667,-96.74933333,5.86,0.2121,0.2121,0.3,None,Oklahoma,Prague,Reviewed
+69052,ogs2026tftz,2026-10-01 13:02:13,1.42,OGS,None,35.8605,-96.68416667,7.48,0.1414,0.1414,0.5,None,Oklahoma,Shamrock,Reviewed
+69053,ogs2026tfwn,2026-10-01 14:13:50,0.61,OGS,None,35.86633333,-96.68416667,7.89,0.2828,0.2828,0.9,None,Oklahoma,Shamrock,Reviewed
+69054,ogs2026tgka,2026-10-01 21:04:06,0.87,OGS,None,35.01966667,-97.89766667,10.81,0.2828,0.2828,0.5,None,Oklahoma,Chickasha,Reviewed
+69055,ogs2026tglo,2026-10-01 21:49:54,1.31,OGS,None,34.32,-96.44966667,0,0.4243,0.4243,0.5,None,Oklahoma,Wapanucka,Reviewed
