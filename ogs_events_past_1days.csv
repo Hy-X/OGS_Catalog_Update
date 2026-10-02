@@ -1,3 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026tgka,2026-10-01 21:04:06,0.87,OGS,None,35.01966667,-97.89766667,10.81,0.2828,0.2828,0.5,None,Oklahoma,Chickasha,Reviewed
-2,ogs2026tglo,2026-10-01 21:49:54,1.31,OGS,None,34.32,-96.44966667,0,0.4243,0.4243,0.5,None,Oklahoma,Wapanucka,Reviewed
+1,ogs2026tglo,2026-10-01 21:49:54,1.31,OGS,None,34.32,-96.44966667,0,0.4243,0.4243,0.5,None,Oklahoma,Wapanucka,Reviewed
