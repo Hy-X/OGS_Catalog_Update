@@ -69070,3 +69070,5 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69069,ogs2026tlby,2026-10-04 10:39:24,0.75,OGS,None,36.091,-99.23166667,11.65,0.495,0.495,2.1,None,Oklahoma,Vici,Reviewed
 69070,ogs2026tlnu,2026-10-04 16:38:16,1.82,OGS,None,36.49783333,-98.41633333,7.89,0.1414,0.1414,0.3,None,Oklahoma,Aline,Reviewed
 69071,ogs2026tnmf,2026-10-05 18:07:06,1.26,OGS,None,36.61766667,-95.06583333,0,0.4243,0.4243,0.4,None,Oklahoma,Vinita,Reviewed
+69072,ogs2026toas,2026-10-06 01:26:23,1.9,OGS,None,35.55213547,-96.747612,4.206367493,1.5056,2.0307,2.0424,None,Oklahoma,Sparks,Automatic
+69073,ogs2026tobc,2026-10-06 01:38:41,1.64,OGS,None,35.54884338,-96.73817444,4.432305336,1.5114,2.4331,2.4477,None,Oklahoma,Prague,Automatic
