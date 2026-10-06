@@ -139,6 +139,11 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 138,ogs2026tlby,2026-10-04 10:39:24,0.75,OGS,None,36.091,-99.23166667,11.65,0.495,0.495,2.1,None,Oklahoma,Vici,Reviewed
 139,ogs2026tlnu,2026-10-04 16:38:16,1.82,OGS,None,36.49783333,-98.41633333,7.89,0.1414,0.1414,0.3,None,Oklahoma,Aline,Reviewed
 140,ogs2026tmku,2026-10-05 04:15:37,1.26,OGS,None,34.97366667,-97.76933333,7.43,0.4243,0.4243,0.7,None,Oklahoma,Alex,Reviewed
-141,ogs2026tnmf,2026-10-05 18:07:06,1.26,OGS,None,36.61766667,-95.06583333,0,0.4243,0.4243,0.4,None,Oklahoma,Vinita,Reviewed
-142,ogs2026toas,2026-10-06 01:26:23,1.72,OGS,None,35.54233333,-96.74633333,7,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-143,ogs2026tobc,2026-10-06 01:38:41,1.54,OGS,None,35.542,-96.745,6.84,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+141,ogs2026tmrf,2026-10-05 07:30:40,0.98,OGS,None,35.03533333,-96.56966667,12.33,0.2121,0.2121,1.0,None,Oklahoma,Sasakwa,Reviewed
+142,ogs2026tnmf,2026-10-05 18:07:06,1.26,OGS,None,36.61766667,-95.06583333,0,0.4243,0.4243,0.4,None,Oklahoma,Vinita,Reviewed
+143,ogs2026tnmm,2026-10-05 18:15:05,1.38,OGS,None,34.69283333,-96.72966667,0,0.4243,0.4243,0.6,None,Oklahoma,Fitzhugh,Reviewed
+144,ogs2026tnrs,2026-10-05 20:53:45,1.17,OGS,None,36.2515,-95.8265,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
+145,ogs2026toas,2026-10-06 01:26:23,1.72,OGS,None,35.54233333,-96.74633333,7,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+146,ogs2026tobc,2026-10-06 01:38:41,1.54,OGS,None,35.542,-96.745,6.84,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+147,ogs2026tpgo,2026-10-06 17:31:33,1.38,OGS,None,36.0085,-96.54016667,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+148,ogs2026tplk,2026-10-06 20:00:11,1.63,OGS,None,34.50766667,-97.23283333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
