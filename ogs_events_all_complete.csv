@@ -69076,6 +69076,10 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69075,ogs2026tnrs,2026-10-05 20:53:45,1.17,OGS,None,36.2515,-95.8265,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
 69076,ogs2026toas,2026-10-06 01:26:23,1.72,OGS,None,35.54233333,-96.74633333,7,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
 69077,ogs2026tobc,2026-10-06 01:38:41,1.54,OGS,None,35.542,-96.745,6.84,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-69078,ogs2026tpgo,2026-10-06 17:31:33,1.38,OGS,None,36.0085,-96.54016667,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
-69079,ogs2026tplk,2026-10-06 20:00:11,1.63,OGS,None,34.50766667,-97.23283333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
-69080,ogs2026tqku,2026-10-07 08:47:57,1.2,OGS,None,35.58916667,-97.402,7.89,0.1414,0.1414,0.4,None,Oklahoma,Lake Aluma,Reviewed
+69078,ogs2026tofr,2026-10-06 03:56:31,0.91,OGS,None,34.52366667,-97.4455,3.9,0.4243,0.4243,1.0,None,Oklahoma,Tatums,Reviewed
+69079,ogs2026tpgo,2026-10-06 17:31:33,1.38,OGS,None,36.0085,-96.54016667,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+69080,ogs2026tphh,2026-10-06 17:53:45,1.32,OGS,None,36.24083333,-95.8155,0,0.495,0.495,0.6,None,Oklahoma,Owasso,Reviewed
+69081,ogs2026tpiw,2026-10-06 18:42:06,1.29,OGS,None,34.3755,-96.84916667,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
+69082,ogs2026tplk,2026-10-06 20:00:11,1.63,OGS,None,34.50766667,-97.23283333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
+69083,ogs2026tqku,2026-10-07 08:47:57,1.2,OGS,None,35.58916667,-97.402,7.89,0.1414,0.1414,0.4,None,Oklahoma,Lake Aluma,Reviewed
+69084,ogs2026treo,2026-10-07 18:47:23,2.38,OGS,None,35.0195,-97.87716667,10.13,0.1414,0.1414,0.6,None,Oklahoma,Chickasha,Reviewed
