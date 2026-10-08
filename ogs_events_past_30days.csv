@@ -150,5 +150,7 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 149,ogs2026tphh,2026-10-06 17:53:45,1.32,OGS,None,36.24083333,-95.8155,0,0.495,0.495,0.6,None,Oklahoma,Owasso,Reviewed
 150,ogs2026tpiw,2026-10-06 18:42:06,1.29,OGS,None,34.3755,-96.84916667,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
 151,ogs2026tplk,2026-10-06 20:00:11,1.63,OGS,None,34.50766667,-97.23283333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
-152,ogs2026tqku,2026-10-07 08:47:57,1.2,OGS,None,35.58916667,-97.402,7.89,0.1414,0.1414,0.4,None,Oklahoma,Lake Aluma,Reviewed
-153,ogs2026treo,2026-10-07 18:47:23,2.38,OGS,None,35.0195,-97.87716667,10.13,0.1414,0.1414,0.6,None,Oklahoma,Chickasha,Reviewed
+152,ogs2026tqcp,2026-10-07 04:40:16,1.86,OGS,None,35.265,-97.44283333,8.2,0.1414,0.1414,0.7,None,Oklahoma,Hall Park,Reviewed
+153,ogs2026tqex,2026-10-07 05:49:32,1.1,OGS,None,36.579,-98.23666667,5,0.4243,0.4243,1.1,None,Oklahoma,Helena,Reviewed
+154,ogs2026tqku,2026-10-07 08:47:57,1.2,OGS,None,35.58916667,-97.402,7.89,0.1414,0.1414,0.4,None,Oklahoma,Lake Aluma,Reviewed
+155,ogs2026treo,2026-10-07 18:47:23,2.38,OGS,None,35.0195,-97.87716667,10.13,0.1414,0.1414,0.6,None,Oklahoma,Chickasha,Reviewed
