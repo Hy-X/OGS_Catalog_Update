@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026treo,2026-10-07 18:47:23,2.38,OGS,None,35.0195,-97.87716667,10.13,0.1414,0.1414,0.6,None,Oklahoma,Chickasha,Reviewed
