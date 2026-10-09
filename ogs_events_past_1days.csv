@@ -1,1 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
+1,ogs2026tufi,2026-10-09 10:36:01,1.41,OGS,None,35.01583333,-97.86766667,7.3,0.3536,0.3536,0.6,None,Oklahoma,Chickasha,Reviewed
