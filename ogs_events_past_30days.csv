@@ -1,154 +1,152 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026rtnc,2026-09-10 14:18:59,1.06,OGS,None,35.86133333,-96.68516667,7.54,0.1414,0.1414,0.3,None,Oklahoma,Shamrock,Reviewed
-2,ogs2026rtpo,2026-09-10 15:33:32,1.31,OGS,None,36.2375,-95.22566667,0,0.3536,0.3536,0.4,None,Oklahoma,Sportsmen Acres,Reviewed
-3,ogs2026rtvs,2026-09-10 18:39:21,1.48,OGS,None,36.24233333,-95.82216667,0,0.9899,0.9899,0.8,None,Oklahoma,Owasso,Reviewed
-4,ogs2026rvjx,2026-09-11 14:57:39,1.15,OGS,None,36.20916667,-95.867,0,0.7071,0.7071,0.6,None,Oklahoma,Owasso,Reviewed
-5,ogs2026rvlu,2026-09-11 15:55:14,1.43,OGS,None,35.7975,-95.02966667,0,0.4243,0.4243,0.5,None,Oklahoma,Zeb,Reviewed
-6,ogs2026rvmb,2026-09-11 16:03:47,1.48,OGS,None,35.9085,-95.16616667,0,0.9192,0.9192,0.7,None,Oklahoma,Hulbert,Reviewed
-7,ogs2026rvrx,2026-09-11 19:00:21,1.64,OGS,None,36.2035,-95.85733333,0,0.3536,0.3536,0.4,None,Oklahoma,Owasso,Reviewed
-8,ogs2026rvtf,2026-09-11 19:40:03,1.29,OGS,None,36.249,-95.8415,0,0.495,0.495,0.4,None,Oklahoma,Owasso,Reviewed
-9,ogs2026rvvw,2026-09-11 21:00:30,1.14,OGS,None,34.37716667,-96.834,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
-10,ogs2026rwas,2026-09-11 23:27:37,2.9,OGS,None,35.79683333,-96.6525,7.6,0.1414,0.1414,0.3,None,Oklahoma,Stroud,Reviewed
-11,ogs2026rwfu,2026-09-12 02:01:06,1.98,OGS,None,36.31783333,-98.1805,5.65,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
-12,ogs2026rwhc,2026-09-12 02:40:42,1.09,OGS,None,35.7965,-96.65783333,7.54,0.2121,0.2121,0.5,None,Oklahoma,Stroud,Reviewed
-13,ogs2026rwhd,2026-09-12 02:40:49,1.22,OGS,None,35.7975,-96.65533333,7.62,0.2121,0.2121,0.5,None,Oklahoma,Stroud,Reviewed
-14,ogs2026rwuk,2026-09-12 09:24:50,0.85,OGS,None,35.03766667,-97.9525,9.76,0.3536,0.3536,0.7,None,Oklahoma,Chickasha,Reviewed
-15,ogs2026rxhm,2026-09-12 16:01:36,1.85,OGS,None,35.61383333,-98.04416667,6.49,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-16,ogs2026rypr,2026-09-13 09:17:22,0.51,OGS,None,35.79666667,-96.656,6.58,0.2121,0.2121,0.4,None,Oklahoma,Stroud,Reviewed
-17,ogs2026rzrw,2026-09-13 23:32:06,0.92,OGS,None,35.038,-97.95283333,10.41,0.495,0.495,0.9,None,Oklahoma,Chickasha,Reviewed
-18,ogs2026rzyh,2026-09-14 02:47:11,1.25,OGS,None,35.52916667,-96.76783333,10.06,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
-19,ogs2026safn,2026-09-14 06:26:30,2.57,OGS,None,35.6115,-98.04633333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-20,ogs2026sagc,2026-09-14 06:44:04,0.75,OGS,None,35.536,-96.7565,6.81,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-21,ogs2026sagk,2026-09-14 06:51:13,0.48,OGS,None,35.60633333,-98.053,5.19,0.3536,0.3536,0.7,None,Oklahoma,Calumet,Reviewed
-22,ogs2026sagj,2026-09-14 06:51:21,0.75,OGS,None,35.60933333,-98.04483333,6.98,0.1414,0.1414,0.1,None,Oklahoma,Calumet,Reviewed
-23,ogs2026sagr,2026-09-14 07:00:47,1.02,OGS,None,35.61116667,-98.04533333,6.9,0.2121,0.2121,0.2,None,Oklahoma,Calumet,Reviewed
-24,ogs2026sahl,2026-09-14 07:24:49,0.81,OGS,None,35.60833333,-98.043,6,0.3536,0.3536,0.4,None,Oklahoma,Calumet,Reviewed
-25,ogs2026sahv,2026-09-14 07:36:16,1.03,OGS,None,35.61616667,-98.04633333,5.99,0.6364,0.6364,0.5,None,Oklahoma,Calumet,Reviewed
-26,ogs2026sbac,2026-09-14 16:49:36,1.26,OGS,None,35.6025,-98.04933333,7.3,0.3536,0.3536,0.4,None,Oklahoma,Calumet,Reviewed
-27,ogs2026sbev,2026-09-14 19:12:52,1.34,OGS,None,34.39516667,-96.79316667,0,0.9899,0.9899,1.1,None,Oklahoma,Mill Creek,Reviewed
-28,ogs2026sbiw,2026-09-14 21:15:46,1.25,OGS,None,34.508,-97.23183333,0,0.7071,0.7071,0.9,None,Oklahoma,Davis,Reviewed
-29,ogs2026scmj,2026-09-15 12:11:15,1.28,OGS,None,36.031,-97.47583333,8.29,0.1414,0.1414,0.7,None,Oklahoma,Mulhall,Reviewed
-30,ogs2026sctm,2026-09-15 15:45:15,1.4,OGS,None,34.54683333,-96.60483333,0,0.495,0.495,0.5,None,Oklahoma,Stonewall,Reviewed
-31,ogs2026scxd,2026-09-15 17:36:43,1.18,OGS,None,34.30116667,-96.404,0,0.9192,0.9192,0.7,None,Oklahoma,Wapanucka,Reviewed
-32,ogs2026sdme,2026-09-16 01:13:14,1.28,OGS,None,35.6085,-98.045,6.85,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
-33,ogs2026sdvu,2026-09-16 06:03:51,0.92,OGS,None,35.25316667,-97.58016667,1.54,0.3536,0.3536,1.3,None,Oklahoma,Newcastle,Reviewed
-34,ogs2026sdvv,2026-09-16 06:04:46,0.71,OGS,None,35.26533333,-97.61033333,11.6,0.8485,0.8485,3.1,None,Oklahoma,Newcastle,Reviewed
-35,ogs2026sesi,2026-09-16 17:26:49,1.31,OGS,None,36.23466667,-95.2265,0,0.6364,0.6364,0.6,None,Oklahoma,Sportsmen Acres,Reviewed
-36,ogs2026sffc,2026-09-16 23:54:33,0.61,OGS,None,35.79733333,-96.65516667,7.75,0.1414,0.1414,0.4,None,Oklahoma,Stroud,Reviewed
-37,ogs2026sfse,2026-09-17 06:30:03,0.66,OGS,None,35.65166667,-98.49866667,25,0.8485,0.8485,2.3,None,Oklahoma,Hydro,Reviewed
-38,ogs2026sgba,2026-09-17 10:58:59,1.07,OGS,None,36.75433333,-95.207,6,0.3536,0.3536,1.7,None,Oklahoma,Bluejacket,Reviewed
-39,ogs2026sggo,2026-09-17 13:46:26,2.2,OGS,None,36.51133333,-97.20066667,9.72,0.1414,0.1414,2.0,None,Oklahoma,Red Rock,Reviewed
-40,ogs2026sgnw,2026-09-17 17:27:52,1.28,OGS,None,36.24483333,-95.82866667,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
-41,ogs2026sgoc,2026-09-17 17:35:01,1.44,OGS,None,34.49716667,-96.85416667,0,0.4243,0.4243,0.5,None,Oklahoma,Hickory,Reviewed
-42,ogs2026sgpe,2026-09-17 18:07:09,1.18,OGS,None,34.3785,-96.84866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
-43,ogs2026sgrf,2026-09-17 19:09:51,1.47,OGS,None,36.00866667,-96.53433333,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
-44,ogs2026sgxj,2026-09-17 22:16:25,1.38,OGS,None,35.80033333,-97.88666667,7.66,0.2828,0.2828,0.7,None,Oklahoma,Kingfisher,Reviewed
-45,ogs2026shqd,2026-09-18 07:45:06,0.66,OGS,None,36.507,-97.196,6,0.2121,0.2121,0.5,None,Oklahoma,Red Rock,Reviewed
-46,ogs2026shzj,2026-09-18 12:24:27,1.33,OGS,None,35.62083333,-98.03433333,6,0.2121,0.2121,0.3,None,Oklahoma,Calumet,Reviewed
-47,ogs2026sias,2026-09-18 13:05:51,1.75,OGS,None,35.62133333,-98.0375,6,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
-48,ogs2026silu,2026-09-18 18:42:10,0.69,OGS,None,35.61983333,-98.0345,7,0.495,0.495,0.9,None,Oklahoma,Calumet,Reviewed
-49,ogs2026siqs,2026-09-18 21:10:58,1.18,OGS,None,34.31333333,-96.44316667,0,0.7071,0.7071,0.8,None,Oklahoma,Wapanucka,Reviewed
-50,ogs2026sirg,2026-09-18 21:26:35,1.36,OGS,None,36.20183333,-95.864,0,0.495,0.495,0.5,None,Oklahoma,Owasso,Reviewed
-51,ogs2026sixz,2026-09-19 00:50:49,1.04,OGS,None,35.79166667,-97.891,7.77,0.2828,0.2828,0.6,None,Oklahoma,Kingfisher,Reviewed
-52,ogs2026sizq,2026-09-19 01:41:05,0.15,OGS,None,36.52766667,-97.0685,4.58,0.2121,0.2121,1.0,None,Oklahoma,Marland,Reviewed
-53,ogs2026sjdc,2026-09-19 03:26:33,1.79,OGS,None,34.78366667,-99.20766667,5,0.7071,0.7071,2.0,None,Oklahoma,Friendship,Reviewed
-54,ogs2026sjkk,2026-09-19 07:08:05,2.04,OGS,None,34.69033333,-95.99033333,2.32,0.2828,0.2828,0.8,None,Oklahoma,Wardville,Reviewed
-55,ogs2026sjmu,2026-09-19 08:19:57,0.97,OGS,None,35.40683333,-98.1835,9.51,0.495,0.495,1.7,None,Oklahoma,Hinton,Reviewed
-56,ogs2026sjrl,2026-09-19 10:40:55,0.59,OGS,None,35.62166667,-98.05566667,7.1,1.2728,1.2728,1.6,None,Oklahoma,Calumet,Reviewed
-57,ogs2026skly,2026-09-19 21:02:13,1.44,OGS,None,34.97233333,-97.89366667,10.1,0.5657,0.5657,1.2,None,Oklahoma,Ninnekah,Reviewed
-58,ogs2026skmd,2026-09-19 21:08:41,2.18,OGS,None,35.536,-96.76616667,11.26,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
-59,ogs2026skoa,2026-09-19 22:05:06,1.28,OGS,None,35.5345,-96.76216667,11.01,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
-60,ogs2026skvz,2026-09-20 02:06:41,1.19,OGS,None,36.5315,-97.06616667,4.76,0.1414,0.1414,0.3,None,Oklahoma,Marland,Reviewed
-61,ogs2026skzv,2026-09-20 04:03:12,1.11,OGS,None,34.9025,-96.78983333,16.17,0.1414,0.1414,0.4,None,Oklahoma,Konawa,Reviewed
-62,ogs2026slbd,2026-09-20 04:43:23,1.87,OGS,None,35.6115,-98.04666667,6.47,0.0707,0.0707,0.1,None,Oklahoma,Calumet,Reviewed
-63,ogs2026slel,2026-09-20 06:22:55,1.34,OGS,None,35.6085,-98.046,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-64,ogs2026sloi,2026-09-20 11:22:22,1.01,OGS,None,35.61083333,-98.04833333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-65,ogs2026slpx,2026-09-20 12:10:21,0.78,OGS,None,35.79,-96.99566667,6.41,0.1414,0.1414,0.3,None,Oklahoma,Carney,Reviewed
-66,ogs2026slzy,2026-09-20 17:14:35,1.02,OGS,None,35.93683333,-97.8905,7.37,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
-67,ogs2026sntk,2026-09-21 16:12:36,1.44,OGS,None,35.596,-95.08883333,0,0.3536,0.3536,0.4,None,Oklahoma,Notiechtown,Reviewed
-68,ogs2026sntl,2026-09-21 16:13:49,1.18,OGS,None,36.73883333,-94.80733333,0,0.7778,0.7778,0.6,None,Oklahoma,Fairland,Reviewed
-69,ogs2026snxy,2026-09-21 18:30:03,1.42,OGS,None,35.90366667,-95.1705,0,0.5657,0.5657,0.6,None,Oklahoma,Hulbert,Reviewed
-70,ogs2026snyu,2026-09-21 18:55:46,1.19,OGS,None,34.50966667,-97.26666667,0,0.5657,0.5657,0.7,None,Oklahoma,Katie,Reviewed
-71,ogs2026snzc,2026-09-21 19:06:03,1.2,OGS,None,34.37316667,-96.98916667,0,0.495,0.495,0.6,None,Oklahoma,Dougherty,Reviewed
-72,ogs2026sqcd,2026-09-22 22:54:58,1.47,OGS,None,35.43466667,-98.25683333,6.8,0.4243,0.4243,0.7,None,Oklahoma,Hinton,Reviewed
-73,ogs2026sqgq,2026-09-23 01:10:43,0.9,OGS,None,35.42783333,-98.26266667,3.58,0.495,0.495,1.0,None,Oklahoma,Hinton,Reviewed
-74,ogs2026srnb,2026-09-23 17:33:16,1.3,OGS,None,36.25916667,-95.23,0,0.3536,0.3536,0.4,None,Oklahoma,Sportsmen Acres,Reviewed
-75,ogs2026srrv,2026-09-23 19:57:36,1.32,OGS,None,35.826,-98.41233333,6,0.2828,0.2828,0.7,None,Oklahoma,Watonga,Reviewed
-76,ogs2026sryo,2026-09-23 23:21:42,0.88,OGS,None,35.02316667,-97.8865,8.44,0.6364,0.6364,1.3,None,Oklahoma,Chickasha,Reviewed
-77,ogs2026ssnb,2026-09-24 06:41:36,1.31,OGS,None,35.0315,-97.87833333,8.46,0.3536,0.3536,1.3,None,Oklahoma,Chickasha,Reviewed
-78,ogs2026stkj,2026-09-24 18:27:41,1.52,OGS,None,36.009,-96.53033333,0,0.3536,0.3536,0.5,None,Oklahoma,Drumright,Reviewed
-79,ogs2026stnj,2026-09-24 19:58:54,1.46,OGS,None,34.47033333,-96.83866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
-80,ogs2026suyl,2026-09-25 14:43:20,1.29,OGS,None,35.59733333,-95.08716667,0,0.3536,0.3536,0.4,None,Oklahoma,Notiechtown,Reviewed
-81,ogs2026svfd,2026-09-25 18:05:49,1.6,OGS,None,36.204,-95.843,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
-82,ogs2026svhc,2026-09-25 19:05:31,1.31,OGS,None,35.89,-95.14383333,0,0.4243,0.4243,0.6,None,Oklahoma,Hulbert,Reviewed
-83,ogs2026svkz,2026-09-25 21:02:40,1.31,OGS,None,34.37016667,-96.97566667,0,0.495,0.495,0.6,None,Oklahoma,Dougherty,Reviewed
-84,ogs2026svqz,2026-09-26 00:04:55,1.43,OGS,None,34.5225,-97.45566667,3,0.495,0.495,1.5,None,Oklahoma,Tatums,Reviewed
-85,ogs2026swnb,2026-09-26 11:13:29,0.95,OGS,None,36.8635,-96.40166667,12.35,0.3536,0.3536,1.1,None,Oklahoma,Foraker,Reviewed
-86,ogs2026swvv,2026-09-26 15:39:16,1.68,OGS,None,34.58183333,-97.47633333,6,1.1314,1.1314,2.0,None,Oklahoma,Foster,Reviewed
-87,ogs2026sxfe,2026-09-26 20:23:17,1.59,OGS,None,35.01833333,-97.87416667,9.35,0.495,0.495,1.4,None,Oklahoma,Chickasha,Reviewed
-88,ogs2026syjv,2026-09-27 11:52:20,2.54,OGS,None,34.52533333,-97.449,0.06,0.2828,0.2828,0.3,None,Oklahoma,Tatums,Reviewed
-89,ogs2026syti,2026-09-27 16:40:38,1.08,OGS,None,34.53383333,-97.4865,4.21,0.5657,0.5657,1.2,None,Oklahoma,Tatums,Reviewed
-90,ogs2026syuv,2026-09-27 17:26:26,1.32,OGS,None,34.531,-97.47483333,5,0.5657,0.5657,1.2,None,Oklahoma,Tatums,Reviewed
-91,ogs2026syuz,2026-09-27 17:30:07,1.23,OGS,None,34.52783333,-97.45733333,5.59,0.7071,0.7071,1.4,None,Oklahoma,Tatums,Reviewed
-92,ogs2026sywq,2026-09-27 18:20:18,1.07,OGS,None,34.542,-97.47783333,2,0.3536,0.3536,1.3,None,Oklahoma,Tatums,Reviewed
-93,ogs2026syzp,2026-09-27 19:50:47,1.08,OGS,None,34.533,-97.47066667,2,0.4243,0.4243,1.4,None,Oklahoma,Tatums,Reviewed
-94,ogs2026szdc,2026-09-27 21:36:51,1.1,OGS,None,34.52583333,-97.47466667,5,0.4243,0.4243,1.0,None,Oklahoma,Tatums,Reviewed
-95,ogs2026szyp,2026-09-28 08:28:15,1.36,OGS,None,34.52416667,-97.46083333,2.65,0.495,0.495,1.2,None,Oklahoma,Tatums,Reviewed
-96,ogs2026taca,2026-09-28 10:12:37,0.98,OGS,None,34.52416667,-97.47333333,4.43,0.7778,0.7778,1.4,None,Oklahoma,Tatums,Reviewed
-97,ogs2026tafp,2026-09-28 12:00:08,1.03,OGS,None,34.53133333,-97.47733333,0.96,0.6364,0.6364,0.5,None,Oklahoma,Tatums,Reviewed
-98,ogs2026tamq,2026-09-28 15:33:30,1.26,OGS,None,36.253,-95.84,0,0.6364,0.6364,0.5,None,Oklahoma,Owasso,Reviewed
-99,ogs2026tasq,2026-09-28 18:36:02,1.79,OGS,None,35.79283333,-94.75516667,0,0.6364,0.6364,0.8,None,Oklahoma,Rocky Mountain,Reviewed
-100,ogs2026tbgp,2026-09-29 01:39:28,0.97,OGS,None,34.53016667,-97.4725,5.54,0.4243,0.4243,0.8,None,Oklahoma,Tatums,Reviewed
-101,ogs2026tbsz,2026-09-29 07:54:06,1.12,OGS,None,34.53516667,-97.47266667,6,0.6364,0.6364,1.2,None,Oklahoma,Tatums,Reviewed
-102,ogs2026tcog,2026-09-29 18:39:26,1.31,OGS,None,34.53883333,-97.469,5.89,0.7071,0.7071,1.2,None,Oklahoma,Tatums,Reviewed
-103,ogs2026teha,2026-09-30 17:16:00,1.99,OGS,None,35.86116667,-96.68533333,7.94,0.1414,0.1414,0.4,None,Oklahoma,Shamrock,Reviewed
-104,ogs2026tenq,2026-09-30 20:36:33,1.49,OGS,None,34.29633333,-96.3815,0,0.495,0.495,0.5,None,Oklahoma,Wapanucka,Reviewed
-105,ogs2026tewx,2026-10-01 01:17:50,0.78,OGS,None,34.83783333,-96.35416667,22.25,0.2121,0.2121,0.7,None,Oklahoma,Gerty,Reviewed
-106,ogs2026tfmr,2026-10-01 09:15:20,0.85,OGS,None,35.54016667,-96.74933333,5.86,0.2121,0.2121,0.3,None,Oklahoma,Prague,Reviewed
-107,ogs2026tftz,2026-10-01 13:02:13,1.42,OGS,None,35.8605,-96.68416667,7.48,0.1414,0.1414,0.5,None,Oklahoma,Shamrock,Reviewed
-108,ogs2026tfwn,2026-10-01 14:13:50,0.61,OGS,None,35.86633333,-96.68416667,7.89,0.2828,0.2828,0.9,None,Oklahoma,Shamrock,Reviewed
-109,ogs2026tgka,2026-10-01 21:04:06,0.87,OGS,None,35.01966667,-97.89766667,10.81,0.2828,0.2828,0.5,None,Oklahoma,Chickasha,Reviewed
-110,ogs2026tglo,2026-10-01 21:49:54,1.31,OGS,None,34.32,-96.44966667,0,0.4243,0.4243,0.5,None,Oklahoma,Wapanucka,Reviewed
-111,ogs2026tguf,2026-10-02 02:11:57,0.72,OGS,None,35.03533333,-97.89883333,9.2,0.3536,0.3536,0.9,None,Oklahoma,Chickasha,Reviewed
-112,ogs2026thij,2026-10-02 09:21:18,0.6,OGS,None,35.026,-97.87816667,8.4,0.5657,0.5657,1.3,None,Oklahoma,Chickasha,Reviewed
-113,ogs2026thin,2026-10-02 09:26:10,1.4,OGS,None,35.608,-98.0505,6.57,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-114,ogs2026thwk,2026-10-02 16:27:26,1.22,OGS,None,35.6,-95.08533333,0,0.4243,0.4243,0.5,None,Oklahoma,Notiechtown,Reviewed
-115,ogs2026thxj,2026-10-02 16:55:59,1.18,OGS,None,35.79216667,-94.76333333,0,5.869,5.869,3.8,None,Oklahoma,Rocky Mountain,Reviewed
-116,ogs2026tifk,2026-10-02 20:59:49,1.25,OGS,None,36.18366667,-95.87416667,0,0.6364,0.6364,0.4,None,Oklahoma,Owasso,Reviewed
-117,ogs2026tjeg,2026-10-03 09:33:23,1.17,OGS,None,35.86116667,-96.68383333,7.54,0.1414,0.1414,0.3,None,Oklahoma,Shamrock,Reviewed
-118,ogs2026tjwp,2026-10-03 18:49:25,1.19,OGS,None,35.96383333,-98.24533333,6.69,0.3536,0.3536,0.7,None,Oklahoma,Hitchcock,Reviewed
-119,ogs2026tjyh,2026-10-03 19:40:43,0.69,OGS,None,34.94916667,-97.772,9.16,0.495,0.495,1.3,None,Oklahoma,Alex,Reviewed
-120,ogs2026tkee,2026-10-03 22:38:41,0.97,OGS,None,34.52216667,-97.47083333,4.44,0.6364,0.6364,1.2,None,Oklahoma,Tatums,Reviewed
-121,ogs2026tkke,2026-10-04 01:40:34,1.01,OGS,None,34.982,-97.87033333,7.62,0.3536,0.3536,0.5,None,Oklahoma,Ninnekah,Reviewed
-122,ogs2026tkkx,2026-10-04 02:03:05,1.02,OGS,None,35.03,-97.879,8.77,0.2828,0.2828,0.8,None,Oklahoma,Chickasha,Reviewed
-123,ogs2026tksq,2026-10-04 05:57:40,0.65,OGS,None,35.52983333,-96.7645,6.69,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-124,ogs2026tlby,2026-10-04 10:39:24,0.75,OGS,None,36.091,-99.23166667,11.65,0.495,0.495,2.1,None,Oklahoma,Vici,Reviewed
-125,ogs2026tlnu,2026-10-04 16:38:16,1.82,OGS,None,36.49783333,-98.41633333,7.89,0.1414,0.1414,0.3,None,Oklahoma,Aline,Reviewed
-126,ogs2026tmku,2026-10-05 04:15:37,1.26,OGS,None,34.97366667,-97.76933333,7.43,0.4243,0.4243,0.7,None,Oklahoma,Alex,Reviewed
-127,ogs2026tmrf,2026-10-05 07:30:40,0.98,OGS,None,35.03533333,-96.56966667,12.33,0.2121,0.2121,1.0,None,Oklahoma,Sasakwa,Reviewed
-128,ogs2026tnmf,2026-10-05 18:07:06,1.26,OGS,None,36.61766667,-95.06583333,0,0.4243,0.4243,0.4,None,Oklahoma,Vinita,Reviewed
-129,ogs2026tnmm,2026-10-05 18:15:05,1.38,OGS,None,34.69283333,-96.72966667,0,0.4243,0.4243,0.6,None,Oklahoma,Fitzhugh,Reviewed
-130,ogs2026tnrs,2026-10-05 20:53:45,1.17,OGS,None,36.2515,-95.8265,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
-131,ogs2026toas,2026-10-06 01:26:23,1.72,OGS,None,35.54233333,-96.74633333,7,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-132,ogs2026tobc,2026-10-06 01:38:41,1.54,OGS,None,35.542,-96.745,6.84,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
-133,ogs2026tofr,2026-10-06 03:56:31,0.91,OGS,None,34.52366667,-97.4455,3.9,0.4243,0.4243,1.0,None,Oklahoma,Tatums,Reviewed
-134,ogs2026tpgo,2026-10-06 17:31:33,1.38,OGS,None,36.0085,-96.54016667,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
-135,ogs2026tphh,2026-10-06 17:53:45,1.32,OGS,None,36.24083333,-95.8155,0,0.495,0.495,0.6,None,Oklahoma,Owasso,Reviewed
-136,ogs2026tpiw,2026-10-06 18:42:06,1.29,OGS,None,34.3755,-96.84916667,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
-137,ogs2026tplk,2026-10-06 20:00:11,1.63,OGS,None,34.50766667,-97.23283333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
-138,ogs2026tqcp,2026-10-07 04:40:16,1.86,OGS,None,35.265,-97.44283333,8.2,0.1414,0.1414,0.7,None,Oklahoma,Hall Park,Reviewed
-139,ogs2026tqex,2026-10-07 05:49:32,1.1,OGS,None,36.579,-98.23666667,5,0.4243,0.4243,1.1,None,Oklahoma,Helena,Reviewed
-140,ogs2026tqku,2026-10-07 08:47:57,1.2,OGS,None,35.58916667,-97.402,7.89,0.1414,0.1414,0.4,None,Oklahoma,Lake Aluma,Reviewed
-141,ogs2026treo,2026-10-07 18:47:23,2.38,OGS,None,35.0195,-97.87716667,10.13,0.1414,0.1414,0.6,None,Oklahoma,Chickasha,Reviewed
-142,ogs2026trwc,2026-10-08 03:39:51,0.9,OGS,None,35.017,-97.88633333,10.56,0.495,0.495,1.0,None,Oklahoma,Chickasha,Reviewed
-143,ogs2026tsft,2026-10-08 08:31:32,1.03,OGS,None,34.97083333,-97.77083333,7,0.3536,0.3536,0.7,None,Oklahoma,Alex,Reviewed
-144,ogs2026tstq,2026-10-08 15:32:46,1.14,OGS,None,34.37783333,-96.83166667,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
-145,ogs2026tsuh,2026-10-08 15:52:43,1,OGS,None,34.9785,-97.77516667,7.15,0.4243,0.4243,0.7,None,Oklahoma,Alex,Reviewed
-146,ogs2026tszg,2026-10-08 18:22:50,1.34,OGS,None,36.23166667,-95.23016667,0,0.8485,0.8485,1.0,None,Oklahoma,Sportsmen Acres,Reviewed
-147,ogs2026ttar,2026-10-08 19:06:29,1.38,OGS,None,36.2,-95.85366667,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
-148,ogs2026ttav,2026-10-08 19:11:28,1.28,OGS,None,34.71383333,-98.41583333,0,1.4142,1.4142,1.1,None,Oklahoma,Medicine Park,Reviewed
-149,ogs2026tufh,2026-10-09 10:34:18,0.92,OGS,None,34.97533333,-97.772,6.4,0.2828,0.2828,0.6,None,Oklahoma,Alex,Reviewed
-150,ogs2026tufi,2026-10-09 10:36:01,1.41,OGS,None,35.01583333,-97.86766667,7.3,0.3536,0.3536,0.6,None,Oklahoma,Chickasha,Reviewed
-151,ogs2026tukj,2026-10-09 13:09:29,2.03,OGS,None,34.9775,-97.774,7.89,0.3536,0.3536,0.7,None,Oklahoma,Alex,Reviewed
-152,ogs2026turc,2026-10-09 16:32:17,1.94,OGS,None,35.9205,-97.33333333,6.61,0.0707,0.0707,0.2,None,Oklahoma,Langston,Reviewed
-153,ogs2026tvao,2026-10-09 21:19:38,1.79,OGS,None,35.53300476,-96.77983093,8.879089355,1.9444,2.6292,4.5682,None,Oklahoma,Sparks,Automatic
+1,ogs2026rtvs,2026-09-10 18:39:21,1.48,OGS,None,36.24233333,-95.82216667,0,0.9899,0.9899,0.8,None,Oklahoma,Owasso,Reviewed
+2,ogs2026rvjx,2026-09-11 14:57:39,1.15,OGS,None,36.20916667,-95.867,0,0.7071,0.7071,0.6,None,Oklahoma,Owasso,Reviewed
+3,ogs2026rvlu,2026-09-11 15:55:14,1.43,OGS,None,35.7975,-95.02966667,0,0.4243,0.4243,0.5,None,Oklahoma,Zeb,Reviewed
+4,ogs2026rvmb,2026-09-11 16:03:47,1.48,OGS,None,35.9085,-95.16616667,0,0.9192,0.9192,0.7,None,Oklahoma,Hulbert,Reviewed
+5,ogs2026rvrx,2026-09-11 19:00:21,1.64,OGS,None,36.2035,-95.85733333,0,0.3536,0.3536,0.4,None,Oklahoma,Owasso,Reviewed
+6,ogs2026rvtf,2026-09-11 19:40:03,1.29,OGS,None,36.249,-95.8415,0,0.495,0.495,0.4,None,Oklahoma,Owasso,Reviewed
+7,ogs2026rvvw,2026-09-11 21:00:30,1.14,OGS,None,34.37716667,-96.834,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
+8,ogs2026rwas,2026-09-11 23:27:37,2.9,OGS,None,35.79683333,-96.6525,7.6,0.1414,0.1414,0.3,None,Oklahoma,Stroud,Reviewed
+9,ogs2026rwfu,2026-09-12 02:01:06,1.98,OGS,None,36.31783333,-98.1805,5.65,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
+10,ogs2026rwhc,2026-09-12 02:40:42,1.09,OGS,None,35.7965,-96.65783333,7.54,0.2121,0.2121,0.5,None,Oklahoma,Stroud,Reviewed
+11,ogs2026rwhd,2026-09-12 02:40:49,1.22,OGS,None,35.7975,-96.65533333,7.62,0.2121,0.2121,0.5,None,Oklahoma,Stroud,Reviewed
+12,ogs2026rwuk,2026-09-12 09:24:50,0.85,OGS,None,35.03766667,-97.9525,9.76,0.3536,0.3536,0.7,None,Oklahoma,Chickasha,Reviewed
+13,ogs2026rxhm,2026-09-12 16:01:36,1.85,OGS,None,35.61383333,-98.04416667,6.49,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+14,ogs2026rypr,2026-09-13 09:17:22,0.51,OGS,None,35.79666667,-96.656,6.58,0.2121,0.2121,0.4,None,Oklahoma,Stroud,Reviewed
+15,ogs2026rzrw,2026-09-13 23:32:06,0.92,OGS,None,35.038,-97.95283333,10.41,0.495,0.495,0.9,None,Oklahoma,Chickasha,Reviewed
+16,ogs2026rzyh,2026-09-14 02:47:11,1.25,OGS,None,35.52916667,-96.76783333,10.06,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+17,ogs2026safn,2026-09-14 06:26:30,2.57,OGS,None,35.6115,-98.04633333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+18,ogs2026sagc,2026-09-14 06:44:04,0.75,OGS,None,35.536,-96.7565,6.81,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+19,ogs2026sagk,2026-09-14 06:51:13,0.48,OGS,None,35.60633333,-98.053,5.19,0.3536,0.3536,0.7,None,Oklahoma,Calumet,Reviewed
+20,ogs2026sagj,2026-09-14 06:51:21,0.75,OGS,None,35.60933333,-98.04483333,6.98,0.1414,0.1414,0.1,None,Oklahoma,Calumet,Reviewed
+21,ogs2026sagr,2026-09-14 07:00:47,1.02,OGS,None,35.61116667,-98.04533333,6.9,0.2121,0.2121,0.2,None,Oklahoma,Calumet,Reviewed
+22,ogs2026sahl,2026-09-14 07:24:49,0.81,OGS,None,35.60833333,-98.043,6,0.3536,0.3536,0.4,None,Oklahoma,Calumet,Reviewed
+23,ogs2026sahv,2026-09-14 07:36:16,1.03,OGS,None,35.61616667,-98.04633333,5.99,0.6364,0.6364,0.5,None,Oklahoma,Calumet,Reviewed
+24,ogs2026sbac,2026-09-14 16:49:36,1.26,OGS,None,35.6025,-98.04933333,7.3,0.3536,0.3536,0.4,None,Oklahoma,Calumet,Reviewed
+25,ogs2026sbev,2026-09-14 19:12:52,1.34,OGS,None,34.39516667,-96.79316667,0,0.9899,0.9899,1.1,None,Oklahoma,Mill Creek,Reviewed
+26,ogs2026sbiw,2026-09-14 21:15:46,1.25,OGS,None,34.508,-97.23183333,0,0.7071,0.7071,0.9,None,Oklahoma,Davis,Reviewed
+27,ogs2026scmj,2026-09-15 12:11:15,1.28,OGS,None,36.031,-97.47583333,8.29,0.1414,0.1414,0.7,None,Oklahoma,Mulhall,Reviewed
+28,ogs2026sctm,2026-09-15 15:45:15,1.4,OGS,None,34.54683333,-96.60483333,0,0.495,0.495,0.5,None,Oklahoma,Stonewall,Reviewed
+29,ogs2026scxd,2026-09-15 17:36:43,1.18,OGS,None,34.30116667,-96.404,0,0.9192,0.9192,0.7,None,Oklahoma,Wapanucka,Reviewed
+30,ogs2026sdme,2026-09-16 01:13:14,1.28,OGS,None,35.6085,-98.045,6.85,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
+31,ogs2026sdvu,2026-09-16 06:03:51,0.92,OGS,None,35.25316667,-97.58016667,1.54,0.3536,0.3536,1.3,None,Oklahoma,Newcastle,Reviewed
+32,ogs2026sdvv,2026-09-16 06:04:46,0.71,OGS,None,35.26533333,-97.61033333,11.6,0.8485,0.8485,3.1,None,Oklahoma,Newcastle,Reviewed
+33,ogs2026sesi,2026-09-16 17:26:49,1.31,OGS,None,36.23466667,-95.2265,0,0.6364,0.6364,0.6,None,Oklahoma,Sportsmen Acres,Reviewed
+34,ogs2026sffc,2026-09-16 23:54:33,0.61,OGS,None,35.79733333,-96.65516667,7.75,0.1414,0.1414,0.4,None,Oklahoma,Stroud,Reviewed
+35,ogs2026sfse,2026-09-17 06:30:03,0.66,OGS,None,35.65166667,-98.49866667,25,0.8485,0.8485,2.3,None,Oklahoma,Hydro,Reviewed
+36,ogs2026sgba,2026-09-17 10:58:59,1.07,OGS,None,36.75433333,-95.207,6,0.3536,0.3536,1.7,None,Oklahoma,Bluejacket,Reviewed
+37,ogs2026sggo,2026-09-17 13:46:26,2.2,OGS,None,36.51133333,-97.20066667,9.72,0.1414,0.1414,2.0,None,Oklahoma,Red Rock,Reviewed
+38,ogs2026sgnw,2026-09-17 17:27:52,1.28,OGS,None,36.24483333,-95.82866667,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
+39,ogs2026sgoc,2026-09-17 17:35:01,1.44,OGS,None,34.49716667,-96.85416667,0,0.4243,0.4243,0.5,None,Oklahoma,Hickory,Reviewed
+40,ogs2026sgpe,2026-09-17 18:07:09,1.18,OGS,None,34.3785,-96.84866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
+41,ogs2026sgrf,2026-09-17 19:09:51,1.47,OGS,None,36.00866667,-96.53433333,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+42,ogs2026sgxj,2026-09-17 22:16:25,1.38,OGS,None,35.80033333,-97.88666667,7.66,0.2828,0.2828,0.7,None,Oklahoma,Kingfisher,Reviewed
+43,ogs2026shqd,2026-09-18 07:45:06,0.66,OGS,None,36.507,-97.196,6,0.2121,0.2121,0.5,None,Oklahoma,Red Rock,Reviewed
+44,ogs2026shzj,2026-09-18 12:24:27,1.33,OGS,None,35.62083333,-98.03433333,6,0.2121,0.2121,0.3,None,Oklahoma,Calumet,Reviewed
+45,ogs2026sias,2026-09-18 13:05:51,1.75,OGS,None,35.62133333,-98.0375,6,0.1414,0.1414,0.3,None,Oklahoma,Calumet,Reviewed
+46,ogs2026silu,2026-09-18 18:42:10,0.69,OGS,None,35.61983333,-98.0345,7,0.495,0.495,0.9,None,Oklahoma,Calumet,Reviewed
+47,ogs2026siqs,2026-09-18 21:10:58,1.18,OGS,None,34.31333333,-96.44316667,0,0.7071,0.7071,0.8,None,Oklahoma,Wapanucka,Reviewed
+48,ogs2026sirg,2026-09-18 21:26:35,1.36,OGS,None,36.20183333,-95.864,0,0.495,0.495,0.5,None,Oklahoma,Owasso,Reviewed
+49,ogs2026sixz,2026-09-19 00:50:49,1.04,OGS,None,35.79166667,-97.891,7.77,0.2828,0.2828,0.6,None,Oklahoma,Kingfisher,Reviewed
+50,ogs2026sizq,2026-09-19 01:41:05,0.15,OGS,None,36.52766667,-97.0685,4.58,0.2121,0.2121,1.0,None,Oklahoma,Marland,Reviewed
+51,ogs2026sjdc,2026-09-19 03:26:33,1.79,OGS,None,34.78366667,-99.20766667,5,0.7071,0.7071,2.0,None,Oklahoma,Friendship,Reviewed
+52,ogs2026sjkk,2026-09-19 07:08:05,2.04,OGS,None,34.69033333,-95.99033333,2.32,0.2828,0.2828,0.8,None,Oklahoma,Wardville,Reviewed
+53,ogs2026sjmu,2026-09-19 08:19:57,0.97,OGS,None,35.40683333,-98.1835,9.51,0.495,0.495,1.7,None,Oklahoma,Hinton,Reviewed
+54,ogs2026sjrl,2026-09-19 10:40:55,0.59,OGS,None,35.62166667,-98.05566667,7.1,1.2728,1.2728,1.6,None,Oklahoma,Calumet,Reviewed
+55,ogs2026skly,2026-09-19 21:02:13,1.44,OGS,None,34.97233333,-97.89366667,10.1,0.5657,0.5657,1.2,None,Oklahoma,Ninnekah,Reviewed
+56,ogs2026skmd,2026-09-19 21:08:41,2.18,OGS,None,35.536,-96.76616667,11.26,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+57,ogs2026skoa,2026-09-19 22:05:06,1.28,OGS,None,35.5345,-96.76216667,11.01,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+58,ogs2026skvz,2026-09-20 02:06:41,1.19,OGS,None,36.5315,-97.06616667,4.76,0.1414,0.1414,0.3,None,Oklahoma,Marland,Reviewed
+59,ogs2026skzv,2026-09-20 04:03:12,1.11,OGS,None,34.9025,-96.78983333,16.17,0.1414,0.1414,0.4,None,Oklahoma,Konawa,Reviewed
+60,ogs2026slbd,2026-09-20 04:43:23,1.87,OGS,None,35.6115,-98.04666667,6.47,0.0707,0.0707,0.1,None,Oklahoma,Calumet,Reviewed
+61,ogs2026slel,2026-09-20 06:22:55,1.34,OGS,None,35.6085,-98.046,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+62,ogs2026sloi,2026-09-20 11:22:22,1.01,OGS,None,35.61083333,-98.04833333,6.6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+63,ogs2026slpx,2026-09-20 12:10:21,0.78,OGS,None,35.79,-96.99566667,6.41,0.1414,0.1414,0.3,None,Oklahoma,Carney,Reviewed
+64,ogs2026slzy,2026-09-20 17:14:35,1.02,OGS,None,35.93683333,-97.8905,7.37,0.1414,0.1414,0.3,None,Oklahoma,Dover,Reviewed
+65,ogs2026sntk,2026-09-21 16:12:36,1.44,OGS,None,35.596,-95.08883333,0,0.3536,0.3536,0.4,None,Oklahoma,Notiechtown,Reviewed
+66,ogs2026sntl,2026-09-21 16:13:49,1.18,OGS,None,36.73883333,-94.80733333,0,0.7778,0.7778,0.6,None,Oklahoma,Fairland,Reviewed
+67,ogs2026snxy,2026-09-21 18:30:03,1.42,OGS,None,35.90366667,-95.1705,0,0.5657,0.5657,0.6,None,Oklahoma,Hulbert,Reviewed
+68,ogs2026snyu,2026-09-21 18:55:46,1.19,OGS,None,34.50966667,-97.26666667,0,0.5657,0.5657,0.7,None,Oklahoma,Katie,Reviewed
+69,ogs2026snzc,2026-09-21 19:06:03,1.2,OGS,None,34.37316667,-96.98916667,0,0.495,0.495,0.6,None,Oklahoma,Dougherty,Reviewed
+70,ogs2026sqcd,2026-09-22 22:54:58,1.47,OGS,None,35.43466667,-98.25683333,6.8,0.4243,0.4243,0.7,None,Oklahoma,Hinton,Reviewed
+71,ogs2026sqgq,2026-09-23 01:10:43,0.9,OGS,None,35.42783333,-98.26266667,3.58,0.495,0.495,1.0,None,Oklahoma,Hinton,Reviewed
+72,ogs2026srnb,2026-09-23 17:33:16,1.3,OGS,None,36.25916667,-95.23,0,0.3536,0.3536,0.4,None,Oklahoma,Sportsmen Acres,Reviewed
+73,ogs2026srrv,2026-09-23 19:57:36,1.32,OGS,None,35.826,-98.41233333,6,0.2828,0.2828,0.7,None,Oklahoma,Watonga,Reviewed
+74,ogs2026sryo,2026-09-23 23:21:42,0.88,OGS,None,35.02316667,-97.8865,8.44,0.6364,0.6364,1.3,None,Oklahoma,Chickasha,Reviewed
+75,ogs2026ssnb,2026-09-24 06:41:36,1.31,OGS,None,35.0315,-97.87833333,8.46,0.3536,0.3536,1.3,None,Oklahoma,Chickasha,Reviewed
+76,ogs2026stkj,2026-09-24 18:27:41,1.52,OGS,None,36.009,-96.53033333,0,0.3536,0.3536,0.5,None,Oklahoma,Drumright,Reviewed
+77,ogs2026stnj,2026-09-24 19:58:54,1.46,OGS,None,34.47033333,-96.83866667,0,0.495,0.495,0.6,None,Oklahoma,Mill Creek,Reviewed
+78,ogs2026suyl,2026-09-25 14:43:20,1.29,OGS,None,35.59733333,-95.08716667,0,0.3536,0.3536,0.4,None,Oklahoma,Notiechtown,Reviewed
+79,ogs2026svfd,2026-09-25 18:05:49,1.6,OGS,None,36.204,-95.843,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
+80,ogs2026svhc,2026-09-25 19:05:31,1.31,OGS,None,35.89,-95.14383333,0,0.4243,0.4243,0.6,None,Oklahoma,Hulbert,Reviewed
+81,ogs2026svkz,2026-09-25 21:02:40,1.31,OGS,None,34.37016667,-96.97566667,0,0.495,0.495,0.6,None,Oklahoma,Dougherty,Reviewed
+82,ogs2026svqz,2026-09-26 00:04:55,1.43,OGS,None,34.5225,-97.45566667,3,0.495,0.495,1.5,None,Oklahoma,Tatums,Reviewed
+83,ogs2026swnb,2026-09-26 11:13:29,0.95,OGS,None,36.8635,-96.40166667,12.35,0.3536,0.3536,1.1,None,Oklahoma,Foraker,Reviewed
+84,ogs2026swvv,2026-09-26 15:39:16,1.68,OGS,None,34.58183333,-97.47633333,6,1.1314,1.1314,2.0,None,Oklahoma,Foster,Reviewed
+85,ogs2026sxfe,2026-09-26 20:23:17,1.59,OGS,None,35.01833333,-97.87416667,9.35,0.495,0.495,1.4,None,Oklahoma,Chickasha,Reviewed
+86,ogs2026syjv,2026-09-27 11:52:20,2.54,OGS,None,34.52533333,-97.449,0.06,0.2828,0.2828,0.3,None,Oklahoma,Tatums,Reviewed
+87,ogs2026syti,2026-09-27 16:40:38,1.08,OGS,None,34.53383333,-97.4865,4.21,0.5657,0.5657,1.2,None,Oklahoma,Tatums,Reviewed
+88,ogs2026syuv,2026-09-27 17:26:26,1.32,OGS,None,34.531,-97.47483333,5,0.5657,0.5657,1.2,None,Oklahoma,Tatums,Reviewed
+89,ogs2026syuz,2026-09-27 17:30:07,1.23,OGS,None,34.52783333,-97.45733333,5.59,0.7071,0.7071,1.4,None,Oklahoma,Tatums,Reviewed
+90,ogs2026sywq,2026-09-27 18:20:18,1.07,OGS,None,34.542,-97.47783333,2,0.3536,0.3536,1.3,None,Oklahoma,Tatums,Reviewed
+91,ogs2026syzp,2026-09-27 19:50:47,1.08,OGS,None,34.533,-97.47066667,2,0.4243,0.4243,1.4,None,Oklahoma,Tatums,Reviewed
+92,ogs2026szdc,2026-09-27 21:36:51,1.1,OGS,None,34.52583333,-97.47466667,5,0.4243,0.4243,1.0,None,Oklahoma,Tatums,Reviewed
+93,ogs2026szyp,2026-09-28 08:28:15,1.36,OGS,None,34.52416667,-97.46083333,2.65,0.495,0.495,1.2,None,Oklahoma,Tatums,Reviewed
+94,ogs2026taca,2026-09-28 10:12:37,0.98,OGS,None,34.52416667,-97.47333333,4.43,0.7778,0.7778,1.4,None,Oklahoma,Tatums,Reviewed
+95,ogs2026tafp,2026-09-28 12:00:08,1.03,OGS,None,34.53133333,-97.47733333,0.96,0.6364,0.6364,0.5,None,Oklahoma,Tatums,Reviewed
+96,ogs2026tamq,2026-09-28 15:33:30,1.26,OGS,None,36.253,-95.84,0,0.6364,0.6364,0.5,None,Oklahoma,Owasso,Reviewed
+97,ogs2026tasq,2026-09-28 18:36:02,1.79,OGS,None,35.79283333,-94.75516667,0,0.6364,0.6364,0.8,None,Oklahoma,Rocky Mountain,Reviewed
+98,ogs2026tbgp,2026-09-29 01:39:28,0.97,OGS,None,34.53016667,-97.4725,5.54,0.4243,0.4243,0.8,None,Oklahoma,Tatums,Reviewed
+99,ogs2026tbsz,2026-09-29 07:54:06,1.12,OGS,None,34.53516667,-97.47266667,6,0.6364,0.6364,1.2,None,Oklahoma,Tatums,Reviewed
+100,ogs2026tcog,2026-09-29 18:39:26,1.31,OGS,None,34.53883333,-97.469,5.89,0.7071,0.7071,1.2,None,Oklahoma,Tatums,Reviewed
+101,ogs2026teha,2026-09-30 17:16:00,1.99,OGS,None,35.86116667,-96.68533333,7.94,0.1414,0.1414,0.4,None,Oklahoma,Shamrock,Reviewed
+102,ogs2026tenq,2026-09-30 20:36:33,1.49,OGS,None,34.29633333,-96.3815,0,0.495,0.495,0.5,None,Oklahoma,Wapanucka,Reviewed
+103,ogs2026tewx,2026-10-01 01:17:50,0.78,OGS,None,34.83783333,-96.35416667,22.25,0.2121,0.2121,0.7,None,Oklahoma,Gerty,Reviewed
+104,ogs2026tfmr,2026-10-01 09:15:20,0.85,OGS,None,35.54016667,-96.74933333,5.86,0.2121,0.2121,0.3,None,Oklahoma,Prague,Reviewed
+105,ogs2026tftz,2026-10-01 13:02:13,1.42,OGS,None,35.8605,-96.68416667,7.48,0.1414,0.1414,0.5,None,Oklahoma,Shamrock,Reviewed
+106,ogs2026tfwn,2026-10-01 14:13:50,0.61,OGS,None,35.86633333,-96.68416667,7.89,0.2828,0.2828,0.9,None,Oklahoma,Shamrock,Reviewed
+107,ogs2026tgka,2026-10-01 21:04:06,0.87,OGS,None,35.01966667,-97.89766667,10.81,0.2828,0.2828,0.5,None,Oklahoma,Chickasha,Reviewed
+108,ogs2026tglo,2026-10-01 21:49:54,1.31,OGS,None,34.32,-96.44966667,0,0.4243,0.4243,0.5,None,Oklahoma,Wapanucka,Reviewed
+109,ogs2026tguf,2026-10-02 02:11:57,0.72,OGS,None,35.03533333,-97.89883333,9.2,0.3536,0.3536,0.9,None,Oklahoma,Chickasha,Reviewed
+110,ogs2026thij,2026-10-02 09:21:18,0.6,OGS,None,35.026,-97.87816667,8.4,0.5657,0.5657,1.3,None,Oklahoma,Chickasha,Reviewed
+111,ogs2026thin,2026-10-02 09:26:10,1.4,OGS,None,35.608,-98.0505,6.57,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+112,ogs2026thwk,2026-10-02 16:27:26,1.22,OGS,None,35.6,-95.08533333,0,0.4243,0.4243,0.5,None,Oklahoma,Notiechtown,Reviewed
+113,ogs2026thxj,2026-10-02 16:55:59,1.18,OGS,None,35.79216667,-94.76333333,0,5.869,5.869,3.8,None,Oklahoma,Rocky Mountain,Reviewed
+114,ogs2026tifk,2026-10-02 20:59:49,1.25,OGS,None,36.18366667,-95.87416667,0,0.6364,0.6364,0.4,None,Oklahoma,Owasso,Reviewed
+115,ogs2026tjeg,2026-10-03 09:33:23,1.17,OGS,None,35.86116667,-96.68383333,7.54,0.1414,0.1414,0.3,None,Oklahoma,Shamrock,Reviewed
+116,ogs2026tjwp,2026-10-03 18:49:25,1.19,OGS,None,35.96383333,-98.24533333,6.69,0.3536,0.3536,0.7,None,Oklahoma,Hitchcock,Reviewed
+117,ogs2026tjyh,2026-10-03 19:40:43,0.69,OGS,None,34.94916667,-97.772,9.16,0.495,0.495,1.3,None,Oklahoma,Alex,Reviewed
+118,ogs2026tkee,2026-10-03 22:38:41,0.97,OGS,None,34.52216667,-97.47083333,4.44,0.6364,0.6364,1.2,None,Oklahoma,Tatums,Reviewed
+119,ogs2026tkke,2026-10-04 01:40:34,1.01,OGS,None,34.982,-97.87033333,7.62,0.3536,0.3536,0.5,None,Oklahoma,Ninnekah,Reviewed
+120,ogs2026tkkx,2026-10-04 02:03:05,1.02,OGS,None,35.03,-97.879,8.77,0.2828,0.2828,0.8,None,Oklahoma,Chickasha,Reviewed
+121,ogs2026tksq,2026-10-04 05:57:40,0.65,OGS,None,35.52983333,-96.7645,6.69,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+122,ogs2026tlby,2026-10-04 10:39:24,0.75,OGS,None,36.091,-99.23166667,11.65,0.495,0.495,2.1,None,Oklahoma,Vici,Reviewed
+123,ogs2026tlnu,2026-10-04 16:38:16,1.82,OGS,None,36.49783333,-98.41633333,7.89,0.1414,0.1414,0.3,None,Oklahoma,Aline,Reviewed
+124,ogs2026tmku,2026-10-05 04:15:37,1.26,OGS,None,34.97366667,-97.76933333,7.43,0.4243,0.4243,0.7,None,Oklahoma,Alex,Reviewed
+125,ogs2026tmrf,2026-10-05 07:30:40,0.98,OGS,None,35.03533333,-96.56966667,12.33,0.2121,0.2121,1.0,None,Oklahoma,Sasakwa,Reviewed
+126,ogs2026tnmf,2026-10-05 18:07:06,1.26,OGS,None,36.61766667,-95.06583333,0,0.4243,0.4243,0.4,None,Oklahoma,Vinita,Reviewed
+127,ogs2026tnmm,2026-10-05 18:15:05,1.38,OGS,None,34.69283333,-96.72966667,0,0.4243,0.4243,0.6,None,Oklahoma,Fitzhugh,Reviewed
+128,ogs2026tnrs,2026-10-05 20:53:45,1.17,OGS,None,36.2515,-95.8265,0,0.4243,0.4243,0.4,None,Oklahoma,Owasso,Reviewed
+129,ogs2026toas,2026-10-06 01:26:23,1.72,OGS,None,35.54233333,-96.74633333,7,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+130,ogs2026tobc,2026-10-06 01:38:41,1.54,OGS,None,35.542,-96.745,6.84,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+131,ogs2026tofr,2026-10-06 03:56:31,0.91,OGS,None,34.52366667,-97.4455,3.9,0.4243,0.4243,1.0,None,Oklahoma,Tatums,Reviewed
+132,ogs2026tpgo,2026-10-06 17:31:33,1.38,OGS,None,36.0085,-96.54016667,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+133,ogs2026tphh,2026-10-06 17:53:45,1.32,OGS,None,36.24083333,-95.8155,0,0.495,0.495,0.6,None,Oklahoma,Owasso,Reviewed
+134,ogs2026tpiw,2026-10-06 18:42:06,1.29,OGS,None,34.3755,-96.84916667,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
+135,ogs2026tplk,2026-10-06 20:00:11,1.63,OGS,None,34.50766667,-97.23283333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
+136,ogs2026tqcp,2026-10-07 04:40:16,1.86,OGS,None,35.265,-97.44283333,8.2,0.1414,0.1414,0.7,None,Oklahoma,Hall Park,Reviewed
+137,ogs2026tqex,2026-10-07 05:49:32,1.1,OGS,None,36.579,-98.23666667,5,0.4243,0.4243,1.1,None,Oklahoma,Helena,Reviewed
+138,ogs2026tqku,2026-10-07 08:47:57,1.2,OGS,None,35.58916667,-97.402,7.89,0.1414,0.1414,0.4,None,Oklahoma,Lake Aluma,Reviewed
+139,ogs2026treo,2026-10-07 18:47:23,2.38,OGS,None,35.0195,-97.87716667,10.13,0.1414,0.1414,0.6,None,Oklahoma,Chickasha,Reviewed
+140,ogs2026trwc,2026-10-08 03:39:51,0.9,OGS,None,35.017,-97.88633333,10.56,0.495,0.495,1.0,None,Oklahoma,Chickasha,Reviewed
+141,ogs2026tsft,2026-10-08 08:31:32,1.03,OGS,None,34.97083333,-97.77083333,7,0.3536,0.3536,0.7,None,Oklahoma,Alex,Reviewed
+142,ogs2026tstq,2026-10-08 15:32:46,1.14,OGS,None,34.37783333,-96.83166667,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
+143,ogs2026tsuh,2026-10-08 15:52:43,1,OGS,None,34.9785,-97.77516667,7.15,0.4243,0.4243,0.7,None,Oklahoma,Alex,Reviewed
+144,ogs2026tszg,2026-10-08 18:22:50,1.34,OGS,None,36.23166667,-95.23016667,0,0.8485,0.8485,1.0,None,Oklahoma,Sportsmen Acres,Reviewed
+145,ogs2026ttar,2026-10-08 19:06:29,1.38,OGS,None,36.2,-95.85366667,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
+146,ogs2026ttav,2026-10-08 19:11:28,1.28,OGS,None,34.71383333,-98.41583333,0,1.4142,1.4142,1.1,None,Oklahoma,Medicine Park,Reviewed
+147,ogs2026tufh,2026-10-09 10:34:18,0.92,OGS,None,34.97533333,-97.772,6.4,0.2828,0.2828,0.6,None,Oklahoma,Alex,Reviewed
+148,ogs2026tufi,2026-10-09 10:36:01,1.41,OGS,None,35.01583333,-97.86766667,7.3,0.3536,0.3536,0.6,None,Oklahoma,Chickasha,Reviewed
+149,ogs2026tukj,2026-10-09 13:09:29,2.03,OGS,None,34.9775,-97.774,7.89,0.3536,0.3536,0.7,None,Oklahoma,Alex,Reviewed
+150,ogs2026turc,2026-10-09 16:32:17,1.94,OGS,None,35.9205,-97.33333333,6.61,0.0707,0.0707,0.2,None,Oklahoma,Langston,Reviewed
+151,ogs2026tvao,2026-10-09 21:19:38,1.79,OGS,None,35.53300476,-96.77983093,8.879089355,1.9444,2.6292,4.5682,None,Oklahoma,Sparks,Automatic
