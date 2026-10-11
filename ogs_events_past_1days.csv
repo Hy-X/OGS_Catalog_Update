@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026tvao,2026-10-09 21:19:38,1.79,OGS,None,35.53300476,-96.77983093,8.879089355,1.9444,2.6292,4.5682,None,Oklahoma,Sparks,Automatic
