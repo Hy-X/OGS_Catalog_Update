@@ -1,3 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026uazz,2026-10-13 03:50:31,1.81,OGS,None,34.99966667,-97.8885,11.1,0.2121,0.2121,0.5,None,Oklahoma,Ninnekah,Reviewed
-2,ogs2026ucew,2026-10-13 19:26:22,1.66,OGS,None,34.5045,-97.26333333,0,0.2828,0.2828,0.4,None,Oklahoma,Katie,Reviewed
+1,ogs2026ucew,2026-10-13 19:26:22,1.66,OGS,None,34.5045,-97.26333333,0,0.2828,0.2828,0.4,None,Oklahoma,Katie,Reviewed
