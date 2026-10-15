@@ -1,3 +1,5 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026uecw,2026-10-14 20:42:19,1.66,OGS,None,35.90083333,-97.88866667,6.04,0.1414,0.1414,0.3,None,Oklahoma,Kingfisher,Reviewed
-2,ogs2026uepk,2026-10-15 03:02:25,2.28,OGS,None,35.00583333,-97.886,11.23,0.2121,0.2121,0.6,None,Oklahoma,Chickasha,Reviewed
+1,ogs2026udzs,2026-10-14 19:07:24,1.23,OGS,None,34.32583333,-96.456,0,0.7071,0.7071,0.6,None,Oklahoma,Wapanucka,Reviewed
+2,ogs2026uecw,2026-10-14 20:42:19,1.66,OGS,None,35.90083333,-97.88866667,6.04,0.1414,0.1414,0.3,None,Oklahoma,Kingfisher,Reviewed
+3,ogs2026uegy,2026-10-14 22:46:16,0.71,OGS,None,35.24416667,-96.20033333,5.56,0.495,0.495,0.7,None,Oklahoma,Wetumka,Reviewed
+4,ogs2026uepk,2026-10-15 03:02:25,2.28,OGS,None,35.00583333,-97.886,11.23,0.2121,0.2121,0.6,None,Oklahoma,Chickasha,Reviewed
