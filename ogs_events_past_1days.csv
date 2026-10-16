@@ -1,3 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026uegy,2026-10-14 22:46:16,0.71,OGS,None,35.24416667,-96.20033333,5.56,0.495,0.495,0.7,None,Oklahoma,Wetumka,Reviewed
-2,ogs2026uepk,2026-10-15 03:02:25,2.28,OGS,None,35.00583333,-97.886,11.23,0.2121,0.2121,0.6,None,Oklahoma,Chickasha,Reviewed
+1,ogs2026uepk,2026-10-15 03:02:25,2.28,OGS,None,35.00583333,-97.886,11.23,0.2121,0.2121,0.6,None,Oklahoma,Chickasha,Reviewed
