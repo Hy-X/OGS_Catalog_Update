@@ -31,3 +31,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 30,ogs2026ueyl,2026-10-15 07:41:32,1.01,OGS,None,34.96516667,-97.78433333,8.32,0.4243,0.4243,1.4,None,Oklahoma,Alex,Reviewed
 31,ogs2026ufcz,2026-10-15 09:53:53,0.59,OGS,None,35.7965,-96.65566667,7.29,0.2121,0.2121,0.4,None,Oklahoma,Stroud,Reviewed
 32,ogs2026ufwl,2026-10-15 19:43:57,1.27,OGS,None,34.4025,-96.84266667,0,0.7071,0.7071,0.8,None,Oklahoma,Mill Creek,Reviewed
+33,ogs2026ujzg,2026-10-18 01:41:24,2.75,OGS,None,34.46,-97.52683333,6,0.495,0.495,1.2,None,Oklahoma,Ratliff City,Reviewed
