@@ -69138,14 +69138,14 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69137,ogs2026ueyl,2026-10-15 07:41:32,1.01,OGS,None,34.96516667,-97.78433333,8.32,0.4243,0.4243,1.4,None,Oklahoma,Alex,Reviewed
 69138,ogs2026ufcz,2026-10-15 09:53:53,0.59,OGS,None,35.7965,-96.65566667,7.29,0.2121,0.2121,0.4,None,Oklahoma,Stroud,Reviewed
 69139,ogs2026ufwl,2026-10-15 19:43:57,1.27,OGS,None,34.4025,-96.84266667,0,0.7071,0.7071,0.8,None,Oklahoma,Mill Creek,Reviewed
-69140,ogs2026ugzf,2026-10-16 10:16:29,1.12,OGS,None,35.53083333,-96.76333333,6.53,None,None,None,None,Oklahoma,Prague,Reviewed
-69141,ogs2026uhji,2026-10-16 15:23:10,1.41,OGS,None,34.53516667,-96.61533333,0,None,None,None,None,Oklahoma,Stonewall,Reviewed
-69142,ogs2026uhmq,2026-10-16 17:03:33,1.08,OGS,None,34.385,-96.8615,0,None,None,None,None,Oklahoma,Mill Creek,Reviewed
-69143,ogs2026uiip,2026-10-17 04:09:11,1.61,OGS,None,36.86033333,-97.201,18.53,None,None,None,None,Oklahoma,Blackwell,Reviewed
-69144,ogs2026uimc,2026-10-17 05:55:07,1.06,OGS,None,34.9905,-97.8985,11.82,None,None,None,None,Oklahoma,Ninnekah,Reviewed
-69145,ogs2026uimv,2026-10-17 06:16:33,0.88,OGS,None,35.94116667,-97.82066667,6.13,None,None,None,None,Oklahoma,Dover,Reviewed
-69146,ogs2026uioq,2026-10-17 07:12:17,0.61,OGS,None,35.948,-97.83033333,7.83,None,None,None,None,Oklahoma,Dover,Reviewed
-69147,ogs2026uira,2026-10-17 08:24:05,0.87,OGS,None,34.45883333,-97.55366667,6.17,None,None,None,None,Oklahoma,Ratliff City,Reviewed
-69148,ogs2026ujlp,2026-10-17 18:47:40,0.83,OGS,None,34.46483333,-97.55733333,8.79,None,None,None,None,Oklahoma,Ratliff City,Reviewed
+69140,ogs2026ugzf,2026-10-16 10:16:29,1.12,OGS,None,35.53083333,-96.76333333,6.53,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
+69141,ogs2026uhji,2026-10-16 15:23:10,1.41,OGS,None,34.53516667,-96.61533333,0,0.4243,0.4243,0.5,None,Oklahoma,Stonewall,Reviewed
+69142,ogs2026uhmq,2026-10-16 17:03:33,1.08,OGS,None,34.385,-96.8615,0,0.7071,0.7071,0.9,None,Oklahoma,Mill Creek,Reviewed
+69143,ogs2026uiip,2026-10-17 04:09:11,1.61,OGS,None,36.86033333,-97.201,18.53,0.1414,0.1414,0.4,None,Oklahoma,Blackwell,Reviewed
+69144,ogs2026uimc,2026-10-17 05:55:07,1.06,OGS,None,34.9905,-97.8985,11.82,0.7071,0.7071,1.2,None,Oklahoma,Ninnekah,Reviewed
+69145,ogs2026uimv,2026-10-17 06:16:33,0.88,OGS,None,35.94116667,-97.82066667,6.13,0.2121,0.2121,0.5,None,Oklahoma,Dover,Reviewed
+69146,ogs2026uioq,2026-10-17 07:12:17,0.61,OGS,None,35.948,-97.83033333,7.83,0.495,0.495,0.8,None,Oklahoma,Dover,Reviewed
+69147,ogs2026uira,2026-10-17 08:24:05,0.87,OGS,None,34.45883333,-97.55366667,6.17,0.6364,0.6364,1.2,None,Oklahoma,Ratliff City,Reviewed
+69148,ogs2026ujlp,2026-10-17 18:47:40,0.83,OGS,None,34.46483333,-97.55733333,8.79,0.3536,0.3536,1.3,None,Oklahoma,Ratliff City,Reviewed
 69149,ogs2026ujzg,2026-10-18 01:41:24,2.75,OGS,None,34.46,-97.52683333,6,0.495,0.495,1.2,None,Oklahoma,Ratliff City,Reviewed
-69150,ogs2026umqb,2026-10-19 12:27:46,2.22,OGS,None,35.99316667,-97.66766667,22.63,None,None,None,None,Oklahoma,Crescent,Reviewed
+69150,ogs2026umqb,2026-10-19 12:27:46,2.22,OGS,None,35.99316667,-97.66766667,22.63,0.0707,0.0707,0.3,None,Oklahoma,Crescent,Reviewed
