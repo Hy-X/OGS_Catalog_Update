@@ -1,4 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026uoty,2026-10-20 16:41:20,1.62,OGS,None,35.859,-95.283,0,0.3536,0.3536,0.4,None,Oklahoma,Okay,Reviewed
-2,ogs2026uovx,2026-10-20 17:41:40,1.54,OGS,None,36.20266667,-95.90133333,0,0.9192,0.9192,0.8,None,Oklahoma,Turley,Reviewed
-3,ogs2026uqjy,2026-10-21 13:55:25,1.75,OGS,None,34.46016667,-97.52766667,1.07,0.3536,0.3536,0.9,None,Oklahoma,Ratliff City,Reviewed
+1,ogs2026uqjy,2026-10-21 13:55:25,1.75,OGS,None,34.46016667,-97.52766667,1.07,0.3536,0.3536,0.9,None,Oklahoma,Ratliff City,Reviewed
