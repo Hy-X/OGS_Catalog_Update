@@ -23,3 +23,6 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 22,ogs2026uoty,2026-10-20 16:41:20,1.62,OGS,None,35.859,-95.283,0,0.3536,0.3536,0.4,None,Oklahoma,Okay,Reviewed
 23,ogs2026uovx,2026-10-20 17:41:40,1.54,OGS,None,36.20266667,-95.90133333,0,0.9192,0.9192,0.8,None,Oklahoma,Turley,Reviewed
 24,ogs2026uqjy,2026-10-21 13:55:25,1.75,OGS,None,34.46016667,-97.52766667,1.07,0.3536,0.3536,0.9,None,Oklahoma,Ratliff City,Reviewed
+25,ogs2026uqog,2026-10-21 16:05:09,1.15,OGS,None,35.59433333,-95.08283333,0,0.5657,0.5657,0.7,None,Oklahoma,Notiechtown,Reviewed
+26,ogs2026uqqn,2026-10-21 17:14:04,1.42,OGS,None,36.25733333,-95.8295,0,0.8485,0.8485,0.8,None,Oklahoma,Owasso,Reviewed
+27,ogs2026urcl,2026-10-21 23:15:32,1.57,OGS,None,34.35816667,-97.0065,0,1.2021,1.2021,1.5,None,Oklahoma,Dougherty,Reviewed
