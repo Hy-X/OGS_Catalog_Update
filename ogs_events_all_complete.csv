@@ -69164,5 +69164,9 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69163,ogs2026uqog,2026-10-21 16:05:09,1.15,OGS,None,35.59433333,-95.08283333,0,0.5657,0.5657,0.7,None,Oklahoma,Notiechtown,Reviewed
 69164,ogs2026uqqn,2026-10-21 17:14:04,1.42,OGS,None,36.25733333,-95.8295,0,0.8485,0.8485,0.8,None,Oklahoma,Owasso,Reviewed
 69165,ogs2026urcl,2026-10-21 23:15:32,1.57,OGS,None,34.35816667,-97.0065,0,1.2021,1.2021,1.5,None,Oklahoma,Dougherty,Reviewed
-69166,ogs2026usni,2026-10-22 17:54:23,1.3,OGS,None,34.38033333,-96.85416667,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
-69167,ogs2026usqj,2026-10-22 19:26:00,1.49,OGS,None,36.00483333,-96.5385,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+69166,ogs2026uslb,2026-10-22 16:45:39,1.18,OGS,None,36.2475,-95.812,0,0.6364,0.6364,0.6,None,Oklahoma,Owasso,Reviewed
+69167,ogs2026usmn,2026-10-22 17:28:50,1.48,OGS,None,35.612,-95.09083333,0,0.7071,0.7071,0.9,None,Oklahoma,Paradise Hill,Reviewed
+69168,ogs2026usni,2026-10-22 17:54:23,1.3,OGS,None,34.38033333,-96.85416667,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
+69169,ogs2026usqj,2026-10-22 19:26:00,1.49,OGS,None,36.00483333,-96.5385,0,0.2121,0.2121,0.3,None,Oklahoma,Drumright,Reviewed
+69170,ogs2026usql,2026-10-22 19:28:18,1.2,OGS,None,34.38166667,-96.78966667,0,0.2828,0.2828,0.4,None,Oklahoma,Mill Creek,Reviewed
+69171,ogs2026utev,2026-10-23 02:44:08,1.15,OGS,None,35.53283333,-96.76383333,6.32,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
