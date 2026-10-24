@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026utut,2026-10-23 10:46:40,1.47,OGS,None,36.6325,-97.69983333,6.73,0.2121,0.2121,0.5,None,Oklahoma,Hunter,Reviewed
