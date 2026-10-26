@@ -1,1 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
+1,ogs2026uzxw,2026-10-26 19:10:14,1.59,OGS,None,34.6875,-96.64483333,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed

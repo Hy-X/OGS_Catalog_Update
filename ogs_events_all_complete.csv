@@ -69171,3 +69171,16 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69170,ogs2026usql,2026-10-22 19:28:18,1.2,OGS,None,34.38166667,-96.78966667,0,0.2828,0.2828,0.4,None,Oklahoma,Mill Creek,Reviewed
 69171,ogs2026utev,2026-10-23 02:44:08,1.15,OGS,None,35.53283333,-96.76383333,6.32,0.1414,0.1414,0.2,None,Oklahoma,Prague,Reviewed
 69172,ogs2026utut,2026-10-23 10:46:40,1.47,OGS,None,36.6325,-97.69983333,6.73,0.2121,0.2121,0.5,None,Oklahoma,Hunter,Reviewed
+69173,ogs2026uuai,2026-10-23 13:36:15,1.2,OGS,None,36.04766667,-97.939,12.73,0.9899,0.9899,2.3,None,Oklahoma,Hennessey,Reviewed
+69174,ogs2026uuaq,2026-10-23 13:44:53,1.21,OGS,None,35.90016667,-97.89733333,7.83,0.3536,0.3536,0.8,None,Oklahoma,Kingfisher,Reviewed
+69175,ogs2026uujk,2026-10-23 18:11:52,1.54,OGS,None,34.457,-97.55516667,6.95,0.495,0.495,1.1,None,Oklahoma,Ratliff City,Reviewed
+69176,ogs2026uukm,2026-10-23 18:43:31,1.5,OGS,None,36.20466667,-95.81916667,0,0.2828,0.2828,0.4,None,Oklahoma,Catoosa,Reviewed
+69177,ogs2026uuvk,2026-10-24 00:14:35,1.82,OGS,None,36.99883333,-97.71683333,1.92,0.3536,0.3536,0.9,None,Oklahoma,Renfrow,Reviewed
+69178,ogs2026uvbx,2026-10-24 03:32:39,0.55,OGS,None,35.27066667,-97.84866667,4.85,0.5657,0.5657,1.2,None,Oklahoma,Tuttle,Reviewed
+69179,ogs2026uvft,2026-10-24 05:28:57,1.14,OGS,None,36.83183333,-97.77683333,4.16,0.2828,0.2828,0.6,None,Oklahoma,Medford,Reviewed
+69180,ogs2026uvom,2026-10-24 09:53:35,0.54,OGS,None,35.54083333,-96.74283333,6.57,0.2121,0.2121,0.2,None,Oklahoma,Prague,Reviewed
+69181,ogs2026uvrt,2026-10-24 11:32:32,1.18,OGS,None,35.01683333,-97.87516667,9.42,0.3536,0.3536,1.0,None,Oklahoma,Chickasha,Reviewed
+69182,ogs2026uwho,2026-10-24 19:32:08,1.59,OGS,None,34.45516667,-97.54166667,5,0.5657,0.5657,1.4,None,Oklahoma,Ratliff City,Reviewed
+69183,ogs2026uwxa,2026-10-25 03:19:51,1.35,OGS,None,35.63316667,-99.03883333,5,0.4243,0.4243,1.0,None,Oklahoma,Arapaho,Reviewed
+69184,ogs2026uxso,2026-10-25 14:12:53,1.34,OGS,None,35.1425,-97.3605,15.4,0.2828,0.2828,1.1,None,Oklahoma,Noble,Reviewed
+69185,ogs2026uzxw,2026-10-26 19:10:14,1.59,OGS,None,34.6875,-96.64483333,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed
