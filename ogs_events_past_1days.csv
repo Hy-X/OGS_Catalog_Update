@@ -1,5 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026uzvd,2026-10-26 17:47:37,1.22,OGS,None,34.28433333,-96.40833333,0,0.4243,0.4243,0.5,None,Oklahoma,Wapanucka,Reviewed
-2,ogs2026uzxw,2026-10-26 19:10:14,1.59,OGS,None,34.6875,-96.64483333,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed
-3,ogs2026vacj,2026-10-26 21:26:22,1.14,OGS,None,35.0135,-97.89033333,8.38,0.2828,0.2828,0.9,None,Oklahoma,Chickasha,Reviewed
-4,ogs2026vazy,2026-10-27 09:22:14,1.81,OGS,None,36.46066667,-98.76433333,7.62,0.1414,0.1414,0.2,None,Oklahoma,Waynoka,Reviewed
+1,ogs2026vazy,2026-10-27 09:22:14,1.81,OGS,None,36.46066667,-98.76433333,7.62,0.1414,0.1414,0.2,None,Oklahoma,Waynoka,Reviewed
