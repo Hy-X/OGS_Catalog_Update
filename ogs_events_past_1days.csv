@@ -1,2 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
 1,ogs2026uzxw,2026-10-26 19:10:14,1.59,OGS,None,34.6875,-96.64483333,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed
+2,ogs2026vazy,2026-10-27 09:22:14,1.81,OGS,None,36.46788406,-98.76320648,6.562623501,3.1695,1.8602,4.052,None,Oklahoma,Waynoka,Automatic

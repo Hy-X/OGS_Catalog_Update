@@ -152,3 +152,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 151,ogs2026uwxa,2026-10-25 03:19:51,1.35,OGS,None,35.63316667,-99.03883333,5,0.4243,0.4243,1.0,None,Oklahoma,Arapaho,Reviewed
 152,ogs2026uxso,2026-10-25 14:12:53,1.34,OGS,None,35.1425,-97.3605,15.4,0.2828,0.2828,1.1,None,Oklahoma,Noble,Reviewed
 153,ogs2026uzxw,2026-10-26 19:10:14,1.59,OGS,None,34.6875,-96.64483333,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed
+154,ogs2026vazy,2026-10-27 09:22:14,1.81,OGS,None,36.46788406,-98.76320648,6.562623501,3.1695,1.8602,4.052,None,Oklahoma,Waynoka,Automatic
