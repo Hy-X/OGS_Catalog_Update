@@ -69183,5 +69183,13 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69182,ogs2026uwho,2026-10-24 19:32:08,1.59,OGS,None,34.45516667,-97.54166667,5,0.5657,0.5657,1.4,None,Oklahoma,Ratliff City,Reviewed
 69183,ogs2026uwxa,2026-10-25 03:19:51,1.35,OGS,None,35.63316667,-99.03883333,5,0.4243,0.4243,1.0,None,Oklahoma,Arapaho,Reviewed
 69184,ogs2026uxso,2026-10-25 14:12:53,1.34,OGS,None,35.1425,-97.3605,15.4,0.2828,0.2828,1.1,None,Oklahoma,Noble,Reviewed
-69185,ogs2026uzxw,2026-10-26 19:10:14,1.59,OGS,None,34.6875,-96.64483333,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed
-69186,ogs2026vazy,2026-10-27 09:22:14,1.81,OGS,None,36.46788406,-98.76320648,6.562623501,3.1695,1.8602,4.052,None,Oklahoma,Waynoka,Automatic
+69185,ogs2026uyna,2026-10-26 00:33:45,1.29,OGS,None,35.8155,-97.87116667,7.66,0.2121,0.2121,0.5,None,Oklahoma,Kingfisher,Reviewed
+69186,ogs2026uyyj,2026-10-26 06:17:08,0.67,OGS,None,35.87366667,-97.90033333,7,0.495,0.495,0.9,None,Oklahoma,Kingfisher,Reviewed
+69187,ogs2026uzjw,2026-10-26 12:06:12,0.64,OGS,None,36.528,-97.06783333,6.19,0.2828,0.2828,0.6,None,Oklahoma,Marland,Reviewed
+69188,ogs2026uzlz,2026-10-26 13:10:04,1.02,OGS,None,34.90266667,-97.27533333,7.35,0.2828,0.2828,0.7,None,Oklahoma,Wayne,Reviewed
+69189,ogs2026uzpc,2026-10-26 14:44:53,0.78,OGS,None,35.0345,-97.97,9.69,0.3536,0.3536,0.5,None,Oklahoma,Chickasha,Reviewed
+69190,ogs2026uzsk,2026-10-26 16:24:49,1.24,OGS,None,36.74416667,-94.8075,0,0.7778,0.7778,0.6,None,Oklahoma,Fairland,Reviewed
+69191,ogs2026uzvd,2026-10-26 17:47:37,1.22,OGS,None,34.28433333,-96.40833333,0,0.4243,0.4243,0.5,None,Oklahoma,Wapanucka,Reviewed
+69192,ogs2026uzxw,2026-10-26 19:10:14,1.59,OGS,None,34.6875,-96.64483333,0,0.4243,0.4243,0.5,None,Oklahoma,Ada,Reviewed
+69193,ogs2026vacj,2026-10-26 21:26:22,1.14,OGS,None,35.0135,-97.89033333,8.38,0.2828,0.2828,0.9,None,Oklahoma,Chickasha,Reviewed
+69194,ogs2026vazy,2026-10-27 09:22:14,1.81,OGS,None,36.46066667,-98.76433333,7.62,0.1414,0.1414,0.2,None,Oklahoma,Waynoka,Reviewed
