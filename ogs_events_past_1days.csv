@@ -1,2 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026vazy,2026-10-27 09:22:14,1.81,OGS,None,36.46066667,-98.76433333,7.62,0.1414,0.1414,0.2,None,Oklahoma,Waynoka,Reviewed
+1,ogs2026vcud,2026-10-28 08:41:50,2.15,OGS,None,35.22258759,-96.21298218,2.399887085,1.6241,1.1879,1.6646,None,Oklahoma,Wetumka,Automatic
