@@ -69197,5 +69197,11 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69196,ogs2026vbau,2026-10-27 09:47:36,1.1,OGS,None,36.4535,-98.766,7.89,0.1414,0.1414,0.2,None,Oklahoma,Waynoka,Reviewed
 69197,ogs2026vbpt,2026-10-27 17:20:46,1.55,OGS,None,36.26483333,-95.82433333,0,0.495,0.495,0.6,None,Oklahoma,Owasso,Reviewed
 69198,ogs2026vbwa,2026-10-27 20:30:39,0.85,OGS,None,36.40733333,-96.88933333,7.27,0.2828,0.2828,0.4,None,Oklahoma,Pawnee,Reviewed
-69199,ogs2026vcmg,2026-10-28 04:42:46,1.26,OGS,None,35.21783333,-98.24933333,13.93,0.3536,0.3536,1.3,None,Oklahoma,Gracemont,Reviewed
-69200,ogs2026vcud,2026-10-28 08:41:49,2.01,OGS,None,35.2215,-96.21466667,4.65,0.2121,0.2121,0.5,None,Oklahoma,Wetumka,Reviewed
+69199,ogs2026vcgd,2026-10-28 01:37:34,1.04,OGS,None,34.44116667,-97.53983333,6.52,0.7071,0.7071,1.5,None,Oklahoma,Ratliff City,Reviewed
+69200,ogs2026vcmg,2026-10-28 04:42:46,1.26,OGS,None,35.21783333,-98.24933333,13.93,0.3536,0.3536,1.3,None,Oklahoma,Gracemont,Reviewed
+69201,ogs2026vcny,2026-10-28 05:33:58,1.03,OGS,None,35.0155,-97.8835,10.06,0.495,0.495,1.0,None,Oklahoma,Chickasha,Reviewed
+69202,ogs2026vcnz,2026-10-28 05:34:43,1.29,OGS,None,34.03666667,-97.50483333,6.61,1.0607,1.0607,1.4,None,Oklahoma,Wilson,Reviewed
+69203,ogs2026vcud,2026-10-28 08:41:49,2.01,OGS,None,35.2215,-96.21466667,4.65,0.2121,0.2121,0.5,None,Oklahoma,Wetumka,Reviewed
+69204,ogs2026vcyp,2026-10-28 10:57:31,0.89,OGS,None,35.53116667,-96.76366667,6.47,0.2121,0.2121,0.3,None,Oklahoma,Prague,Reviewed
+69205,ogs2026vczm,2026-10-28 11:24:13,1,OGS,None,35.00383333,-97.8785,8.65,0.5657,0.5657,1.4,None,Oklahoma,Ninnekah,Reviewed
+69206,ogs2026vdop,2026-10-28 19:01:35,1.75,OGS,None,36.20883333,-95.8395,0,0.3536,0.3536,0.4,None,Oklahoma,Owasso,Reviewed
