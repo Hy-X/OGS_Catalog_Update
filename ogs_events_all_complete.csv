@@ -69204,4 +69204,11 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69203,ogs2026vcud,2026-10-28 08:41:49,2.01,OGS,None,35.2215,-96.21466667,4.65,0.2121,0.2121,0.5,None,Oklahoma,Wetumka,Reviewed
 69204,ogs2026vcyp,2026-10-28 10:57:31,0.89,OGS,None,35.53116667,-96.76366667,6.47,0.2121,0.2121,0.3,None,Oklahoma,Prague,Reviewed
 69205,ogs2026vczm,2026-10-28 11:24:13,1,OGS,None,35.00383333,-97.8785,8.65,0.5657,0.5657,1.4,None,Oklahoma,Ninnekah,Reviewed
-69206,ogs2026vdop,2026-10-28 19:01:35,1.75,OGS,None,36.20883333,-95.8395,0,0.3536,0.3536,0.4,None,Oklahoma,Owasso,Reviewed
+69206,ogs2026vdkb,2026-10-28 16:43:59,1.44,OGS,None,35.59783333,-95.07866667,0,0.2828,0.2828,0.4,None,Oklahoma,Notiechtown,Reviewed
+69207,ogs2026vdnk,2026-10-28 18:26:28,1.17,OGS,None,34.38516667,-96.85316667,0,1.0607,1.0607,1.2,None,Oklahoma,Mill Creek,Reviewed
+69208,ogs2026vdop,2026-10-28 19:01:35,1.75,OGS,None,36.20883333,-95.8395,0,0.3536,0.3536,0.4,None,Oklahoma,Owasso,Reviewed
+69209,ogs2026vdyp,2026-10-29 00:05:17,1.3,OGS,None,34.4715,-97.53633333,3,0.495,0.495,1.4,None,Oklahoma,Ratliff City,Reviewed
+69210,ogs2026vedk,2026-10-29 02:30:28,1.05,OGS,None,35.22883333,-96.2165,4.48,0.3536,0.3536,0.9,None,Oklahoma,Wetumka,Reviewed
+69211,ogs2026vfjf,2026-10-29 18:35:18,1.33,OGS,None,36.64666667,-96.40816667,0,0.5657,0.5657,0.6,None,Oklahoma,Pawhuska,Reviewed
+69212,ogs2026vfnj,2026-10-29 20:42:17,0.9,OGS,None,35.00733333,-97.88783333,11.74,0.495,0.495,0.9,None,Oklahoma,Chickasha,Reviewed
+69213,ogs2026vfro,2026-10-29 22:48:07,1.19,OGS,None,35.2095,-98.304,16.29,0.7071,0.7071,2.2,None,Oklahoma,Gracemont,Reviewed
