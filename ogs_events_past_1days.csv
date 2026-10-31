@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026vfro,2026-10-29 22:48:07,1.19,OGS,None,35.2095,-98.304,16.29,0.7071,0.7071,2.2,None,Oklahoma,Gracemont,Reviewed
