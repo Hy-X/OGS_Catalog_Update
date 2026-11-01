@@ -29,3 +29,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 28,ogs2026vfjf,2026-10-29 18:35:18,1.33,OGS,None,36.64666667,-96.40816667,0,0.5657,0.5657,0.6,None,Oklahoma,Pawhuska,Reviewed
 29,ogs2026vfnj,2026-10-29 20:42:17,0.9,OGS,None,35.00733333,-97.88783333,11.74,0.495,0.495,0.9,None,Oklahoma,Chickasha,Reviewed
 30,ogs2026vfro,2026-10-29 22:48:07,1.19,OGS,None,35.2095,-98.304,16.29,0.7071,0.7071,2.2,None,Oklahoma,Gracemont,Reviewed
+31,ogs2026vkiy,2026-11-01 12:08:11,1.75,OGS,None,34.92844772,-97.24172211,4.123727322,2.7305,2.4007,2.4727,None,Oklahoma,Rosedale,Automatic
