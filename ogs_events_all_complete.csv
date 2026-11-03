@@ -69228,3 +69228,6 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69227,ogs2026vkiy,2026-11-01 12:08:11,1.21,OGS,None,34.935,-97.236,3.56,0.2121,0.2121,0.6,None,Oklahoma,Rosedale,Reviewed
 69228,ogs2026vkll,2026-11-01 13:23:14,0.55,OGS,None,34.972,-97.797,13.56,0.495,0.495,1.1,None,Oklahoma,Alex,Reviewed
 69229,ogs2026vkmp,2026-11-01 13:58:57,0.48,OGS,None,34.97033333,-97.79583333,13.63,0.495,0.495,1.0,None,Oklahoma,Alex,Reviewed
+69230,ogs2026vmkl,2026-11-02 15:10:08,1.2,OGS,None,36.45266667,-97.57566667,35.33,0.2828,0.2828,1.4,None,Oklahoma,Garber,Reviewed
+69231,ogs2026vmth,2026-11-02 19:38:10,1.45,OGS,None,34.3735,-96.83083333,0,0.495,0.495,0.5,None,Oklahoma,Mill Creek,Reviewed
+69232,ogs2026vmut,2026-11-02 20:22:19,1.5,OGS,None,34.51033333,-97.25283333,0,0.495,0.495,0.7,None,Oklahoma,Katie,Reviewed
