@@ -69235,3 +69235,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69234,ogs2026vozw,2026-11-04 01:13:20,2.28,OGS,None,36.3635,-98.15516667,6.49,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
 69235,ogs2026vozy,2026-11-04 01:15:43,3.18,OGS,None,36.36333333,-98.15433333,6.47,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
 69236,ogs2026vpfl,2026-11-04 04:02:27,2.05,OGS,None,36.3635,-98.15266667,6.49,0.0707,0.0707,0.2,None,Oklahoma,Meno,Reviewed
+69237,ogs2026vpmj,2026-11-04 07:32:02,1.08,OGS,None,35.06316667,-97.97383333,11.4,0.4243,0.4243,1.0,None,Oklahoma,Chickasha,Reviewed
