@@ -166,3 +166,5 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 165,ogs2026vqon,2026-11-04 21:46:03,1.54,OGS,None,36.20016667,-95.834,0,0.2828,0.2828,0.3,None,Oklahoma,Owasso,Reviewed
 166,ogs2026vqor,2026-11-04 21:51:03,1.79,OGS,None,35.46283333,-98.298,7.55,0.3536,0.3536,0.6,None,Oklahoma,Hinton,Reviewed
 167,ogs2026vqse,2026-11-04 23:36:46,1.57,OGS,None,34.50016667,-97.20983333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
+168,ogs2026vrnt,2026-11-05 10:31:13,2.75,OGS,None,35.6135,-98.04516667,6.63,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+169,ogs2026vrpm,2026-11-05 11:23:54,2.05,OGS,None,35.61516667,-98.044,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
