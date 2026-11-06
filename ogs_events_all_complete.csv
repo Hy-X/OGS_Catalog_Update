@@ -69255,6 +69255,15 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69254,ogs2026vqor,2026-11-04 21:51:03,1.79,OGS,None,35.46283333,-98.298,7.55,0.3536,0.3536,0.6,None,Oklahoma,Hinton,Reviewed
 69255,ogs2026vqse,2026-11-04 23:36:46,1.57,OGS,None,34.50016667,-97.20983333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
 69256,ogs2026vqsr,2026-11-04 23:51:36,0.8,OGS,None,35.06816667,-97.97183333,13.56,0.4243,0.4243,0.9,None,Oklahoma,Chickasha,Reviewed
-69257,ogs2026vrnt,2026-11-05 10:31:13,2.75,OGS,None,35.6135,-98.04516667,6.63,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-69258,ogs2026vrpm,2026-11-05 11:23:54,2.05,OGS,None,35.61516667,-98.044,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-69259,ogs2026vsct,2026-11-05 18:05:00,1.16,OGS,None,35.59266667,-95.08416667,0,0.2828,0.2828,0.4,None,Oklahoma,Notiechtown,Reviewed
+69257,ogs2026vqtp,2026-11-05 00:19:15,0.15,OGS,None,36.52966667,-97.0455,3.25,0.4243,0.4243,1.1,None,Oklahoma,Marland,Reviewed
+69258,ogs2026vrfx,2026-11-05 06:32:38,0.71,OGS,None,35.075,-97.96733333,14.39,0.6364,0.6364,1.4,None,Oklahoma,Chickasha,Reviewed
+69259,ogs2026vrnt,2026-11-05 10:31:13,2.75,OGS,None,35.6135,-98.04516667,6.63,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+69260,ogs2026vrpm,2026-11-05 11:23:54,2.05,OGS,None,35.61516667,-98.044,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+69261,ogs2026vsct,2026-11-05 18:05:00,1.16,OGS,None,35.59266667,-95.08416667,0,0.2828,0.2828,0.4,None,Oklahoma,Notiechtown,Reviewed
+69262,ogs2026vscu,2026-11-05 18:06:01,1,OGS,None,35.06633333,-97.987,10.15,0.3536,0.3536,0.9,None,Oklahoma,Chickasha,Reviewed
+69263,ogs2026vshf,2026-11-05 20:20:22,1.51,OGS,None,34.38883333,-96.82033333,0,0.5657,0.5657,0.7,None,Oklahoma,Mill Creek,Reviewed
+69264,ogs2026vshu,2026-11-05 20:38:11,1.14,OGS,None,36.37916667,-98.8815,0,0.7778,0.7778,0.7,None,Oklahoma,Quinlan,Reviewed
+69265,ogs2026vsis,2026-11-05 21:06:14,1.1,OGS,None,34.37183333,-96.8475,0,0.5657,0.5657,0.6,None,Oklahoma,Mill Creek,Reviewed
+69266,ogs2026vsjm,2026-11-05 21:29:47,1.24,OGS,None,34.35883333,-96.83183333,0,0.7778,0.7778,0.8,None,Oklahoma,Mill Creek,Reviewed
+69267,ogs2026vsmd,2026-11-05 22:50:26,1.01,OGS,None,35.55733333,-96.9365,21.61,0.1414,0.1414,0.4,None,Oklahoma,Meeker,Reviewed
+69268,ogs2026vtkg,2026-11-06 11:00:33,1.09,OGS,None,35.54033333,-96.7485,6.84,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
