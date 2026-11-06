@@ -1,6 +1,4 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026vqse,2026-11-04 23:36:46,1.57,OGS,None,34.50016667,-97.20983333,0,0.4243,0.4243,0.5,None,Oklahoma,Davis,Reviewed
-2,ogs2026vqsr,2026-11-04 23:51:36,0.8,OGS,None,35.06816667,-97.97183333,13.56,0.4243,0.4243,0.9,None,Oklahoma,Chickasha,Reviewed
-3,ogs2026vrnt,2026-11-05 10:31:13,2.75,OGS,None,35.6135,-98.04516667,6.63,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-4,ogs2026vrpm,2026-11-05 11:23:54,2.05,OGS,None,35.61516667,-98.044,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
-5,ogs2026vsct,2026-11-05 18:05:00,1.16,OGS,None,35.59266667,-95.08416667,0,0.2828,0.2828,0.4,None,Oklahoma,Notiechtown,Reviewed
+1,ogs2026vrnt,2026-11-05 10:31:13,2.75,OGS,None,35.6135,-98.04516667,6.63,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+2,ogs2026vrpm,2026-11-05 11:23:54,2.05,OGS,None,35.61516667,-98.044,6.5,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+3,ogs2026vsct,2026-11-05 18:05:00,1.16,OGS,None,35.59266667,-95.08416667,0,0.2828,0.2828,0.4,None,Oklahoma,Notiechtown,Reviewed
