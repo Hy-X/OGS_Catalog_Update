@@ -1,2 +1,2 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026vtkg,2026-11-06 11:00:33,1.09,OGS,None,35.54033333,-96.7485,6.84,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+1,ogs2026vvhm,2026-11-07 11:53:43,3.5,OGS,None,35.61985397,-98.04107666,1.901178122,0.8172,0.8453,0.8746,None,Oklahoma,Calumet,Automatic

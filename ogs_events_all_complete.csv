@@ -69267,3 +69267,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69266,ogs2026vsjm,2026-11-05 21:29:47,1.24,OGS,None,34.35883333,-96.83183333,0,0.7778,0.7778,0.8,None,Oklahoma,Mill Creek,Reviewed
 69267,ogs2026vsmd,2026-11-05 22:50:26,1.01,OGS,None,35.55733333,-96.9365,21.61,0.1414,0.1414,0.4,None,Oklahoma,Meeker,Reviewed
 69268,ogs2026vtkg,2026-11-06 11:00:33,1.09,OGS,None,35.54033333,-96.7485,6.84,0.1414,0.1414,0.3,None,Oklahoma,Prague,Reviewed
+69269,ogs2026vvhm,2026-11-07 11:53:43,3.5,OGS,None,35.61985397,-98.04107666,1.901178122,0.8172,0.8453,0.8746,None,Oklahoma,Calumet,Automatic
