@@ -1,2 +1,1 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026wbhv,2026-11-10 18:53:31,1.62,OGS,None,35.06433333,-97.97066667,10.22,0.2828,0.2828,1.1,None,Oklahoma,Chickasha,Reviewed
