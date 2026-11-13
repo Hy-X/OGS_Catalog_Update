@@ -28,3 +28,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 27,ogs2026wckx,2026-11-11 09:34:42,1.18,OGS,None,35.24883333,-98.0365,7.66,0.3536,0.3536,0.6,None,Oklahoma,Pocasset,Reviewed
 28,ogs2026wcmm,2026-11-11 10:21:25,0.75,OGS,None,35.79783333,-96.65683333,7.28,0.2121,0.2121,0.6,None,Oklahoma,Stroud,Reviewed
 29,ogs2026wcye,2026-11-11 16:16:49,1.65,OGS,None,35.80716667,-95.0445,0,0.3536,0.3536,0.5,None,Oklahoma,Zeb,Reviewed
+30,ogs2026wfkf,2026-11-13 00:37:57,1.82,OGS,None,35.19942856,-98.2983551,5.048131943,3.0035,2.8662,3.9719,None,Oklahoma,Gracemont,Automatic
