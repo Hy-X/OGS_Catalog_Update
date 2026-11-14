@@ -1,1 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
+1,ogs2026whwx,2026-11-14 09:18:17,1.82,OGS,None,36.35121918,-98.15914154,1.993840456,2.0521,1.8312,2.1242,None,Oklahoma,Meno,Automatic
+2,ogs2026whyu,2026-11-14 10:15:55,2.04,OGS,None,35.06243896,-97.94829559,9.492139816,1.6657,1.8813,3.103,None,Oklahoma,Chickasha,Automatic

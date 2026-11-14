@@ -69296,3 +69296,5 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69295,ogs2026wcmm,2026-11-11 10:21:25,0.75,OGS,None,35.79783333,-96.65683333,7.28,0.2121,0.2121,0.6,None,Oklahoma,Stroud,Reviewed
 69296,ogs2026wcye,2026-11-11 16:16:49,1.65,OGS,None,35.80716667,-95.0445,0,0.3536,0.3536,0.5,None,Oklahoma,Zeb,Reviewed
 69297,ogs2026wfkf,2026-11-13 00:37:57,1.82,OGS,None,35.19942856,-98.2983551,5.048131943,3.0035,2.8662,3.9719,None,Oklahoma,Gracemont,Automatic
+69298,ogs2026whwx,2026-11-14 09:18:17,1.82,OGS,None,36.35121918,-98.15914154,1.993840456,2.0521,1.8312,2.1242,None,Oklahoma,Meno,Automatic
+69299,ogs2026whyu,2026-11-14 10:15:55,2.04,OGS,None,35.06243896,-97.94829559,9.492139816,1.6657,1.8813,3.103,None,Oklahoma,Chickasha,Automatic
