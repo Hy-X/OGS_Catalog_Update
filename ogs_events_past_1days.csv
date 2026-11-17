@@ -1,7 +1,5 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026wlbe,2026-11-16 02:52:50,1.09,OGS,None,35.617,-98.04883333,6.35,0.3536,0.3536,0.5,None,Oklahoma,Calumet,Reviewed
-2,ogs2026wldf,2026-11-16 03:54:11,1.19,OGS,None,35.8105,-97.86916667,6.88,0.1414,0.1414,0.3,None,Oklahoma,Kingfisher,Reviewed
-3,ogs2026wmid,2026-11-16 19:31:17,1.33,OGS,None,34.45766667,-96.82983333,0,0.3536,0.3536,0.4,None,Oklahoma,Mill Creek,Reviewed
-4,ogs2026wmld,2026-11-16 21:03:06,1.04,OGS,None,36.46483333,-96.78483333,0,0.2121,0.2121,0.3,None,Oklahoma,Ralston,Reviewed
-5,ogs2026wmmr,2026-11-16 21:49:49,1.5,OGS,None,36.20316667,-95.82383333,0,0.2828,0.2828,0.4,None,Oklahoma,Catoosa,Reviewed
-6,ogs2026wmmt,2026-11-16 21:51:27,1.84,OGS,None,36.85216667,-97.6815,7.54,0.2121,0.2121,0.6,None,Oklahoma,Medford,Reviewed
+1,ogs2026wmid,2026-11-16 19:31:17,1.33,OGS,None,34.45766667,-96.82983333,0,0.3536,0.3536,0.4,None,Oklahoma,Mill Creek,Reviewed
+2,ogs2026wmld,2026-11-16 21:03:06,1.04,OGS,None,36.46483333,-96.78483333,0,0.2121,0.2121,0.3,None,Oklahoma,Ralston,Reviewed
+3,ogs2026wmmr,2026-11-16 21:49:49,1.5,OGS,None,36.20316667,-95.82383333,0,0.2828,0.2828,0.4,None,Oklahoma,Catoosa,Reviewed
+4,ogs2026wmmt,2026-11-16 21:51:27,1.84,OGS,None,36.85216667,-97.6815,7.54,0.2121,0.2121,0.6,None,Oklahoma,Medford,Reviewed
