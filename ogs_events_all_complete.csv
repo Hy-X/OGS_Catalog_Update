@@ -69382,3 +69382,4 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 69381,ogs2026wmld,2026-11-16 21:03:06,1.04,OGS,None,36.46483333,-96.78483333,0,0.2121,0.2121,0.3,None,Oklahoma,Ralston,Reviewed
 69382,ogs2026wmmr,2026-11-16 21:49:49,1.5,OGS,None,36.20316667,-95.82383333,0,0.2828,0.2828,0.4,None,Oklahoma,Catoosa,Reviewed
 69383,ogs2026wmmt,2026-11-16 21:51:27,1.84,OGS,None,36.85216667,-97.6815,7.54,0.2121,0.2121,0.6,None,Oklahoma,Medford,Reviewed
+69384,ogs2026wmwd,2026-11-17 02:35:56,0.83,OGS,None,35.06166667,-98.00016667,10.15,0.4243,0.4243,0.8,None,Oklahoma,Chickasha,Reviewed
