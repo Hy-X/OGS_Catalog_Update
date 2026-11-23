@@ -1,23 +1,13 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026wlgm,2026-11-16 05:34:00,1.04,OGS,None,35.616,-98.0455,6.23,0.2828,0.2828,0.5,None,Oklahoma,Calumet,Reviewed
-2,ogs2026wlgt,2026-11-16 05:41:56,1,OGS,None,35.60183333,-98.04783333,6.53,0.4243,0.4243,0.6,None,Oklahoma,Calumet,Reviewed
-3,ogs2026wlio,2026-11-16 06:36:40,1.26,OGS,None,35.3015,-95.86066667,14.49,0.2121,0.2121,1.4,None,Oklahoma,Hanna,Reviewed
-4,ogs2026wljy,2026-11-16 07:18:01,0.97,OGS,None,35.616,-98.034,5.86,0.2828,0.2828,0.4,None,Oklahoma,Calumet,Reviewed
-5,ogs2026wlkf,2026-11-16 07:26:06,0.76,OGS,None,35.615,-98.04033333,5.59,0.2121,0.2121,0.3,None,Oklahoma,Calumet,Reviewed
-6,ogs2026wlks,2026-11-16 07:41:48,0.57,OGS,None,35.608,-98.037,6.16,0.3536,0.3536,0.4,None,Oklahoma,Calumet,Reviewed
-7,ogs2026wlkw,2026-11-16 07:48:14,0.97,OGS,None,35.61233333,-98.042,6.57,0.2121,0.2121,0.3,None,Oklahoma,Calumet,Reviewed
-8,ogs2026wlpe,2026-11-16 09:57:29,0.85,OGS,None,35.61083333,-98.0395,6.61,0.2828,0.2828,0.4,None,Oklahoma,Calumet,Reviewed
-9,ogs2026wlqw,2026-11-16 10:48:46,0.42,OGS,None,35.611,-98.045,6.13,0.2121,0.2121,0.4,None,Oklahoma,Calumet,Reviewed
-10,ogs2026wlri,2026-11-16 11:02:08,0.71,OGS,None,35.6125,-98.04333333,5.57,0.1414,0.1414,0.4,None,Oklahoma,Calumet,Reviewed
-11,ogs2026wlsf,2026-11-16 11:29:33,0.24,OGS,None,35.613,-98.04716667,5.66,0.2828,0.2828,0.4,None,Oklahoma,Calumet,Reviewed
-12,ogs2026wlsh,2026-11-16 11:31:30,0.65,OGS,None,34.971,-97.77883333,7.3,0.4243,0.4243,0.5,None,Oklahoma,Alex,Reviewed
-13,ogs2026wmdw,2026-11-16 17:21:54,1.13,OGS,None,35.60283333,-95.09216667,0,0.3536,0.3536,0.5,None,Oklahoma,Notiechtown,Reviewed
-14,ogs2026wmfh,2026-11-16 18:05:52,1.18,OGS,None,36.26816667,-95.84416667,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
-15,ogs2026wmid,2026-11-16 19:31:17,1.33,OGS,None,34.45766667,-96.82983333,0,0.3536,0.3536,0.4,None,Oklahoma,Mill Creek,Reviewed
-16,ogs2026wmjt,2026-11-16 20:20:45,1.3,OGS,None,34.37783333,-96.80283333,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
-17,ogs2026wmld,2026-11-16 21:03:06,1.04,OGS,None,36.46483333,-96.78483333,0,0.2121,0.2121,0.3,None,Oklahoma,Ralston,Reviewed
-18,ogs2026wmmr,2026-11-16 21:49:49,1.5,OGS,None,36.20316667,-95.82383333,0,0.2828,0.2828,0.4,None,Oklahoma,Catoosa,Reviewed
-19,ogs2026wmmt,2026-11-16 21:51:27,1.84,OGS,None,36.85216667,-97.6815,7.54,0.2121,0.2121,0.6,None,Oklahoma,Medford,Reviewed
-20,ogs2026wmwd,2026-11-17 02:35:56,0.83,OGS,None,35.06166667,-98.00016667,10.15,0.4243,0.4243,0.8,None,Oklahoma,Chickasha,Reviewed
-21,ogs2026wxrk,2026-11-23 00:42:07,2.3,OGS,None,35.625,-98.03016667,5.65,0.0707,0.0707,0.1,None,Oklahoma,Calumet,Reviewed
-22,ogs2026wxsb,2026-11-23 01:02:03,1.76,OGS,None,35.6225,-98.031,6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+1,ogs2026wmdw,2026-11-16 17:21:54,1.13,OGS,None,35.60283333,-95.09216667,0,0.3536,0.3536,0.5,None,Oklahoma,Notiechtown,Reviewed
+2,ogs2026wmfh,2026-11-16 18:05:52,1.18,OGS,None,36.26816667,-95.84416667,0,0.5657,0.5657,0.5,None,Oklahoma,Owasso,Reviewed
+3,ogs2026wmid,2026-11-16 19:31:17,1.33,OGS,None,34.45766667,-96.82983333,0,0.3536,0.3536,0.4,None,Oklahoma,Mill Creek,Reviewed
+4,ogs2026wmjt,2026-11-16 20:20:45,1.3,OGS,None,34.37783333,-96.80283333,0,0.4243,0.4243,0.5,None,Oklahoma,Mill Creek,Reviewed
+5,ogs2026wmld,2026-11-16 21:03:06,1.04,OGS,None,36.46483333,-96.78483333,0,0.2121,0.2121,0.3,None,Oklahoma,Ralston,Reviewed
+6,ogs2026wmmr,2026-11-16 21:49:49,1.5,OGS,None,36.20316667,-95.82383333,0,0.2828,0.2828,0.4,None,Oklahoma,Catoosa,Reviewed
+7,ogs2026wmmt,2026-11-16 21:51:27,1.84,OGS,None,36.85216667,-97.6815,7.54,0.2121,0.2121,0.6,None,Oklahoma,Medford,Reviewed
+8,ogs2026wmwd,2026-11-17 02:35:56,0.83,OGS,None,35.06166667,-98.00016667,10.15,0.4243,0.4243,0.8,None,Oklahoma,Chickasha,Reviewed
+9,ogs2026wsfm,2026-11-20 01:00:13,0.95,OGS,None,35.3235,-97.9415,7.78,0.2121,0.2121,0.3,None,Oklahoma,Minco,Reviewed
+10,ogs2026wtms,2026-11-20 17:48:08,1.61,OGS,None,36.25766667,-95.22116667,0,0.7778,0.7778,0.9,None,Oklahoma,Sportsmen Acres,Reviewed
+11,ogs2026wxrk,2026-11-23 00:42:07,2.3,OGS,None,35.625,-98.03016667,5.65,0.0707,0.0707,0.1,None,Oklahoma,Calumet,Reviewed
+12,ogs2026wxsb,2026-11-23 01:02:03,1.76,OGS,None,35.6225,-98.031,6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
