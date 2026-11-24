@@ -1,3 +1,3 @@
 objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitude,depth_km,err_lat,err_lon,err_depth,err_origintime,state,county,status
-1,ogs2026wxrk,2026-11-23 00:42:07,2.3,OGS,None,35.625,-98.03016667,5.65,0.0707,0.0707,0.1,None,Oklahoma,Calumet,Reviewed
-2,ogs2026wxsb,2026-11-23 01:02:03,1.76,OGS,None,35.6225,-98.031,6,0.1414,0.1414,0.2,None,Oklahoma,Calumet,Reviewed
+1,ogs2026wzeg,2026-11-23 20:20:33,1.64,OGS,None,34.93616667,-97.23916667,2,0.2121,0.2121,0.8,None,Oklahoma,Rosedale,Reviewed
+2,ogs2026wzfn,2026-11-23 20:59:05,1.46,OGS,None,34.48566667,-96.85383333,0.71,0.2828,0.2828,0.4,None,Oklahoma,Hickory,Reviewed
