@@ -18,3 +18,7 @@ objectid,event_id,origintime,magnitude,magnitude_source,max_mmi,latitude,longitu
 17,ogs2026wzfh,2026-11-23 20:52:01,1.59,OGS,None,35.903,-95.17983333,0,0.5657,0.5657,0.5,None,Oklahoma,Hulbert,Reviewed
 18,ogs2026wzfn,2026-11-23 20:59:05,1.46,OGS,None,34.48566667,-96.85383333,0.71,0.2828,0.2828,0.4,None,Oklahoma,Hickory,Reviewed
 19,ogs2026xagp,2026-11-24 10:39:45,0.95,OGS,None,35.49933333,-97.885,5.69,0.495,0.495,1.1,None,Oklahoma,El Reno,Reviewed
+20,ogs2026xcph,2026-11-25 17:19:00,1.46,OGS,None,34.51016667,-97.2675,0,0.5657,0.5657,0.7,None,Oklahoma,Katie,Reviewed
+21,ogs2026xcsd,2026-11-25 18:45:20,1.21,OGS,None,34.37133333,-96.85,0,0.6364,0.6364,0.7,None,Oklahoma,Mill Creek,Reviewed
+22,ogs2026xdaa,2026-11-25 22:44:49,2.24,OGS,None,36.02127838,-97.93084717,2.234307289,2.2768,1.8395,2.7258,None,Oklahoma,Dover,Automatic
+23,ogs2026xdag,2026-11-25 22:52:05,2.47,OGS,None,36.03071976,-97.91630554,3.105467081,1.2632,1.1045,1.5971,None,Oklahoma,Dover,Automatic
